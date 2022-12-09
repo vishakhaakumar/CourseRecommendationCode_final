@@ -1,0 +1,14 @@
+<br><br><app-header></app-header>
+<br>
+
+<p-splitter [panelSizes]="[10,80]" layout="horizontal" [style]="{'width': 'auto','height':'580px'}">
+  <ng-template pTemplate style="background-color: #0d1a2c">
+    <app-side-menu></app-side-menu>
+  </ng-template>
+  <ng-template pTemplate  styleClass="p-d-flex p-ai-center p-jc-center">
+    <div style="background-image: url(https://cdn.wallpapersafari.com/77/25/fDuJnA.jpg)">
+      <router-outlet></router-outlet>
+    </div>
+  </ng-template>
+</p-splitter>
+

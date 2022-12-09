@@ -1,0 +1,26 @@
+:host ::ng-deep .p-datatable .p-datatable-thead > tr > th {
+  text-align: left;
+  padding: 1rem 1rem;
+  border: 1px solid #e9ecef;
+  border-width: 0 0 1px 0;
+  font-weight: 630;
+  color: #495057;
+  background: #f8f9fa;
+  transition: box-shadow 0.2s;
+  font-size: 18px;
+  font-family: inherit;
+}
+
+.p-button.p-button-success, .p-buttonset.p-button-success > .p-button, .p-splitbutton.p-button-success > .p-button {
+  color: #ffffff;
+  background: #00827F;
+  border: 1px solid #00827F;
+  margin-top: 115px;
+  font-size: medium;
+}
+
+buttonColor{
+  color: #00827F;
+}
+
+

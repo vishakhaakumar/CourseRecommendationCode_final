@@ -1,0 +1,42 @@
+:host ::ng-deep label{
+  display: inline-block;
+max-width: 100%;
+margin-bottom: 5px;
+font-weight: 500;
+font-size: 1.7rem;
+font-style: normal;
+}
+
+:host ::ng-deep .p-dialog {
+  display: flex;
+  flex-direction: column;
+  pointer-events: auto;
+  max-height: 100%;
+  transform: scale(1);
+  position: relative;
+}
+
+:host ::ng-deep .p-dialog .p-dialog-content {
+  color: black;
+  padding: 0 1.5rem 2rem 1.5rem;
+}
+
+
+.loginbox {
+
+  width: 350px;
+  height: 400px;
+  padding: 5rem;
+  display: flex;
+  align-content: flex-end;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #dee2e6;
+}
+
+.outer {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}

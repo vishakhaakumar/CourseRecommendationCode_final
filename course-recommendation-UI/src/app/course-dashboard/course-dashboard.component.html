@@ -1,0 +1,40 @@
+<div style="background-image: url(https://cdn.wallpapersafari.com/77/25/fDuJnA.jpg); height: 500px; width: 1220px; padding-top: 20px">
+  <p-messages style="width:300px" [value]="msgs" [closable]="true" [showTransitionOptions]="'300ms'" [hideTransitionOptions]="'300ms'"></p-messages>
+  <div id="main">
+    <h2 class="fontColor">Available Courses</h2>
+    <div class="buttonStyle">
+      <p-button label="Filters" icon="pi pi-plus" (click)="onAddFilters()"></p-button>
+      <p-button label="Reset all Filters" icon="pi pi-minus" (click)="onResetFilters()" [style]="{'margin-left': '2em'}"></p-button>
+    </div>
+  </div>
+  <br><br>
+  <p-dialog header="Course Details" [(visible)]="display" [style]="{'height':'500px','width':'500px'}" [modal]="true">
+    <div id="comp-render">
+    <app-course-details (closeDialog)="onCloseDialog()" [course]="selectedCourse"></app-course-details>
+  </div>
+  </p-dialog>
+  <p-dialog header="Add Filters" [(visible)]="filter" [style]="{'height':'500px','width':'500px'}" [modal]="true">
+    <div id="comp-filter">
+      <app-course-filter (filterApplied)="onFilterApply($event)" (filterCancelled)="onFilterCancel()" (filterReset)="onFilterReset()" [filterValues]="filterReset"></app-course-filter>
+    </div>
+  </p-dialog>
+
+  <div>
+  <mat-grid-list [gutterSize]="'20px'" rowHeight="200px" style="width:1100px; height:400px"
+                 [cols]="4">
+    <div *ngFor="let course of pagedList">
+    <mat-grid-tile>
+      <app-course-item (courseAdded)="onCourseAdded($event)" (courseSelected)="onCourseSelected($event)" [courseItem] = "course"></app-course-item>
+      <br><br>
+    </mat-grid-tile>
+    </div>
+  </mat-grid-list>
+</div>
+  <br><br>
+  <mat-paginator [length]="length"
+                 [pageSize]="pageSize"
+                 [pageSizeOptions]="pageSizeOptions"
+                 (page)="OnPageChange($event)">
+  </mat-paginator>
+
+</div>

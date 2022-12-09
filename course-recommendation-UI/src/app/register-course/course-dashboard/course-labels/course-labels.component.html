@@ -1,0 +1,15 @@
+<p-card header={{courseReg.courseName}} [style]="{width: '260px', height: '200px'}" styleClass="p-card-shadow">
+  <ng-template pTemplate="header">
+    <img alt="Card" style="height: 35px" src="../../../assets/Course-info-new.jpg">
+    <h5>Course ID: {{courseReg.courseId}}</h5>
+  </ng-template>
+  <ng-template pTemplate="footer">
+    <p-button label="Remove" (click)="onRemoveRegistration()"  icon="pi pi-minus" styleClass="p-button-secondary" [style]="{'margin-left': '1.5em'}"></p-button>
+    <p-button type="button" icon="pi pi-info-circle" label="Details" (click)="onDetails()" [style]="{'margin-left': '.5em'}"></p-button>
+  </ng-template>
+</p-card>
+
+<p-confirmDialog header="Confirmation" icon="pi pi-exclamation-triangle"></p-confirmDialog>
+
+
+

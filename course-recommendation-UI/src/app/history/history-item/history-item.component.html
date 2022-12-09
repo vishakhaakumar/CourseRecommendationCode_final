@@ -1,0 +1,7 @@
+<p-card header={{this.history.courseName}} subheader="Card Subheader" [style]="{width: '250px', 'height': '240px'}" styleClass="p-card-shadow">
+  <p>{{this.history.courseId}}</p>
+  <ng-template pTemplate="footer">
+    <p-button type="button" (click)="showDetails()" icon="pi pi-info-circle" label="Details" [style]="{'margin-left': '.5em'}"></p-button>
+    <p-button type="button" (click)="addFeedback()" icon="pi pi-plus-circle" label="Feedback" [style]="{'margin-left': '.5em'}"></p-button>
+  </ng-template>
+</p-card>

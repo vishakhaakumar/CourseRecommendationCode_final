@@ -1,0 +1,23 @@
+.placement {
+  width: 340px;
+  padding-left: 140px;
+}
+
+:host ::ng-deep element.style {
+  width: 340px;
+}
+
+:host ::ng-deep .p-dialog .p-dialog-header {
+  border-bottom: 0 none;
+  background: #ffffff;
+  color: #495057;
+  padding: 1.5rem;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+  background: teal;
+}
+
+:host ::ng-deep .p-dialog-draggable .p-dialog-header {
+  cursor: move;
+  background: teal;
+}

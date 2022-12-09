@@ -1,0 +1,2932 @@
+student_id,course_id,course_name,description,semester
+100002,9001,Programming for Everybody,Basics of Programming,1
+100002,9014,Relational Databases,Basics of Programming,2
+100002,9027,C Programming: Basics,Basics of Programming,3
+100002,9044,Data Science  with Python,Basics of Programming,1
+100002,9057,Intro to Java Part 1,Basics of Programming,2
+100002,9070,Animation and CGI Motion,Basics of Programming,3
+100002,9087,Big Data Analytics,Basics of Programming,1
+100002,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,2
+100002,9113,Cybersecurity Career Path,Basics of Programming,3
+100003,9002,Intro to Computer Science,Basics of Programming,1
+100003,9015,C Programming,Basics of Programming,2
+100003,9028,Introduction to Networking,Basics of Programming,3
+100003,9045,Computing in Python III  ,Basics of Programming,1
+100003,9058,Video game development,Basics of Programming,2
+100003,9071,IT Foundations,Basics of Programming,3
+100003,9088,AI Applications with Watson,Basics of Programming,1
+100003,9101,Amazon SageMaker ,Basics of Programming,2
+100003,9114,Databases Modeling,Basics of Programming,3
+100004,9001,Programming for Everybody,Basics of Programming,1
+100004,9076,Algorithm Design and Analysis,Basics of Programming,1
+100004,9081,C Programming  Pointers,Basics of Programming,1
+100005,9003,Intro to AI with Python,Basics of Programming,1
+100005,9007,Procedural Programming,Basics of Programming,2
+100005,9054,MATLAB for Beginners,Basics of Programming,1
+100005,9062,Exploring GraphQL,Basics of Programming,2
+100005,9067,Network and Security,Basics of Programming,2
+100005,9105,Data Science and Simulations,Basics of Programming,1
+100006,9004,Web Programming with Python,Basics of Programming,1
+100006,9008,Basics of Programming,Basics of Programming,2
+100006,9055,Linux Basics  The CLI,Basics of Programming,1
+100006,9063,Blockchain Basics,Basics of Programming,2
+100006,9068,Data Structures Fundamentals,Basics of Programming,2
+100006,9106,Programming for Data Science,Basics of Programming,1
+100007,9002,Intro to Computer Science,Basics of Programming,1
+100007,9077,Human-Computer Interaction I,Basics of Programming,1
+100007,9082,IoT Programming and Big Data,Basics of Programming,1
+100008,9005,Using Python for Research,Basics of Programming,1
+100008,9009,HTML5 and CSS Fundamentals,Basics of Programming,2
+100008,9056,Marketing Analytics and Sales,Basics of Programming,1
+100008,9064,Computer Vision Fundamentals,Basics of Programming,2
+100008,9069,Unlocking Info Security  Part II,Basics of Programming,2
+100008,9107,Building a Cybersecurity Toolkit,Basics of Programming,1
+100009,9006,Introduction to Linux,Basics of Programming,1
+100009,9010,Computer Science 101,Basics of Programming,2
+100009,9057,Intro to Java Part 1,Basics of Programming,1
+100009,9065,Intro to Cloud Computing,Basics of Programming,2
+100009,9070,Animation and CGI Motion,Basics of Programming,2
+100009,9108,Embedded Systems Essentials,Basics of Programming,1
+100010,9003,Intro to AI with Python,Basics of Programming,1
+100010,9016,Programming with JavaScript,Basics of Programming,2
+100010,9029,Intro to coding in Java,Basics of Programming,3
+100010,9046,Software  Fundamentals,Basics of Programming,1
+100010,9059,DS and Software Design,Basics of Programming,2
+100010,9072,Algorithms  Design Part 2,Basics of Programming,3
+100010,9089,Building Containerized Apps,Basics of Programming,1
+100010,9102,Algorithmics with Python,Basics of Programming,2
+100010,9115,Object-Oriented Design,Basics of Programming,3
+100011,9003,Intro to AI with Python,Basics of Programming,1
+100011,9078,Mining Massive Datasets,Basics of Programming,1
+100011,9083,AWS - Cloud Security,Basics of Programming,1
+100013,9004,Web Programming with Python,Basics of Programming,1
+100013,9079,Implementation of DS,Basics of Programming,1
+100013,9084,Agile Software Development,Basics of Programming,1
+100014,9005,Using Python for Research,Basics of Programming,1
+100014,9080,Big Data Fundamentals,Basics of Programming,1
+100014,9085,Intro to Database Queries,Basics of Programming,1
+100015,9006,Introduction to Linux,Basics of Programming,1
+100015,9081,C Programming  Pointers,Basics of Programming,1
+100015,9086,IoT System Architecture ,Basics of Programming,1
+100017,9007,Procedural Programming,Basics of Programming,1
+100017,9082,IoT Programming and Big Data,Basics of Programming,1
+100017,9087,Big Data Analytics,Basics of Programming,1
+100018,9004,Web Programming with Python,Basics of Programming,1
+100018,9017,Computer Science for Business,Basics of Programming,2
+100018,9030,Data Science and Analytics,Basics of Programming,3
+100018,9047,Foundations of Data Structures,Basics of Programming,1
+100018,9060,Cybersecurity Infrastructure,Basics of Programming,2
+100018,9073,Automata Theory,Basics of Programming,3
+100018,9090,Open Source Networking,Basics of Programming,1
+100018,9103,Intro to Java Programming 2,Basics of Programming,2
+100018,9116,Scripting and Programming,Basics of Programming,3
+100020,9007,Procedural Programming,Basics of Programming,1
+100020,9011,AI for Everyone: Basics,Basics of Programming,2
+100020,9058,Video game development,Basics of Programming,1
+100020,9066,Intro to DevOps and SRE,Basics of Programming,2
+100020,9071,IT Foundations,Basics of Programming,2
+100020,9109,Enabling Tech for Data Science,Basics of Programming,1
+100023,9001,Programming for Everybody,Basics of Programming,3
+100023,9005,Using Python for Research,Basics of Programming,1
+100023,9018,Artificial Intelligence (AI),Basics of Programming,2
+100023,9031,ML-Data Science and Analytics,Basics of Programming,3
+100023,9048,IoT - Software Integration,Basics of Programming,1
+100023,9061,IoT Sensors and Devices,Basics of Programming,2
+100023,9074,C Programming ,Basics of Programming,3
+100023,9091,Deep Learning Essentials,Basics of Programming,1
+100023,9104,UML Class Diagrams,Basics of Programming,2
+100024,9002,Intro to Computer Science,Basics of Programming,3
+100024,9006,Introduction to Linux,Basics of Programming,1
+100024,9019,Programming Basics,Basics of Programming,2
+100024,9032,Intro to Cloud Infrastructure,Basics of Programming,3
+100024,9049,AI Chatbots Programming,Basics of Programming,1
+100024,9062,Exploring GraphQL,Basics of Programming,2
+100024,9075,Algorithmic Design Techniques,Basics of Programming,3
+100024,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100024,9105,Data Science and Simulations,Basics of Programming,2
+100025,9008,Basics of Programming,Basics of Programming,1
+100025,9012,Machine Learning with Python,Basics of Programming,2
+100025,9059,DS and Software Design,Basics of Programming,1
+100025,9067,Network and Security,Basics of Programming,2
+100025,9072,Algorithms  Design Part 2,Basics of Programming,2
+100025,9110,Introduction to Cloud Foundry,Basics of Programming,1
+100026,9003,Intro to AI with Python,Basics of Programming,3
+100026,9007,Procedural Programming,Basics of Programming,1
+100026,9020,HTML Coding,Basics of Programming,2
+100026,9033,Machine Learning,Basics of Programming,3
+100026,9050,Computing in Python IV ,Basics of Programming,1
+100026,9063,Blockchain Basics,Basics of Programming,2
+100026,9076,Algorithm Design and Analysis,Basics of Programming,3
+100026,9093,IoT Networks and Protocols,Basics of Programming,1
+100026,9106,Programming for Data Science,Basics of Programming,2
+100027,9004,Web Programming with Python,Basics of Programming,3
+100027,9008,Basics of Programming,Basics of Programming,1
+100027,9021,Algorithms: Design Analysis 1,Basics of Programming,2
+100027,9034,Fundamentals - Red Hat,Basics of Programming,3
+100027,9051,Software Engineering ,Basics of Programming,1
+100027,9064,Computer Vision Fundamentals,Basics of Programming,2
+100027,9077,Human-Computer Interaction I,Basics of Programming,3
+100027,9094,Automated Software Testing,Basics of Programming,1
+100027,9107,Building a Cybersecurity Toolkit,Basics of Programming,2
+100028,9008,Basics of Programming,Basics of Programming,1
+100028,9083,AWS - Cloud Security,Basics of Programming,1
+100028,9088,AI Applications with Watson,Basics of Programming,1
+100029,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100029,9084,Agile Software Development,Basics of Programming,1
+100029,9089,Building Containerized Apps,Basics of Programming,1
+100030,9005,Using Python for Research,Basics of Programming,3
+100030,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100030,9022,CSS Basics,Basics of Programming,2
+100030,9035,Algorithms,Basics of Programming,3
+100030,9052,Computer Hardware and OS,Basics of Programming,1
+100030,9065,Intro to Cloud Computing,Basics of Programming,2
+100030,9078,Mining Massive Datasets,Basics of Programming,3
+100030,9095,Databases Topics in SQL,Basics of Programming,1
+100030,9108,Embedded Systems Essentials,Basics of Programming,2
+100031,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100031,9013,JavaScript Introduction,Basics of Programming,2
+100031,9060,Cybersecurity Infrastructure,Basics of Programming,1
+100031,9068,Data Structures Fundamentals,Basics of Programming,2
+100031,9073,Automata Theory,Basics of Programming,2
+100031,9111,Cloud Computing Enterprise,Basics of Programming,1
+100032,9006,Introduction to Linux,Basics of Programming,3
+100032,9010,Computer Science 101,Basics of Programming,1
+100032,9023,Unlocking Info Security 1,Basics of Programming,2
+100032,9036,Python- Control Structures,Basics of Programming,3
+100032,9053,HTML5 Apps and Games,Basics of Programming,1
+100032,9066,Intro to DevOps and SRE,Basics of Programming,2
+100032,9079,Implementation of DS,Basics of Programming,3
+100032,9096,C Programming Using Linux,Basics of Programming,1
+100032,9109,Enabling Tech for Data Science,Basics of Programming,2
+100033,9007,Procedural Programming,Basics of Programming,3
+100033,9011,AI for Everyone: Basics,Basics of Programming,1
+100033,9024,Introduction to Cybersecurity,Basics of Programming,2
+100033,9037,Embedded Microcontrollers,Basics of Programming,3
+100033,9054,MATLAB for Beginners,Basics of Programming,1
+100033,9067,Network and Security,Basics of Programming,2
+100033,9080,Big Data Fundamentals,Basics of Programming,3
+100033,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100033,9110,Introduction to Cloud Foundry,Basics of Programming,2
+100034,9010,Computer Science 101,Basics of Programming,1
+100034,9085,Intro to Database Queries,Basics of Programming,1
+100034,9090,Open Source Networking,Basics of Programming,1
+100035,9010,Computer Science 101,Basics of Programming,1
+100035,9014,Relational Databases,Basics of Programming,2
+100035,9061,IoT Sensors and Devices,Basics of Programming,1
+100035,9069,Unlocking Info Security  Part II,Basics of Programming,2
+100035,9074,C Programming ,Basics of Programming,2
+100035,9112,How to Code  Complex Data,Basics of Programming,1
+100036,9011,AI for Everyone: Basics,Basics of Programming,1
+100036,9015,C Programming,Basics of Programming,2
+100036,9062,Exploring GraphQL,Basics of Programming,1
+100036,9070,Animation and CGI Motion,Basics of Programming,2
+100036,9075,Algorithmic Design Techniques,Basics of Programming,2
+100036,9113,Cybersecurity Career Path,Basics of Programming,1
+100037,9008,Basics of Programming,Basics of Programming,3
+100037,9012,Machine Learning with Python,Basics of Programming,1
+100037,9025,Python Data Structures,Basics of Programming,2
+100037,9038,How to Code  Simple Data,Basics of Programming,3
+100037,9055,Linux Basics  The CLI,Basics of Programming,1
+100037,9068,Data Structures Fundamentals,Basics of Programming,2
+100037,9081,C Programming  Pointers,Basics of Programming,3
+100037,9098,Fundamentals of Java EE ,Basics of Programming,1
+100037,9111,Cloud Computing Enterprise,Basics of Programming,2
+100038,9009,HTML5 and CSS Fundamentals,Basics of Programming,3
+100038,9013,JavaScript Introduction,Basics of Programming,1
+100038,9026,Intro to Internet of Things (IoT),Basics of Programming,2
+100038,9039,Cybersecurity in the IoT,Basics of Programming,3
+100038,9056,Marketing Analytics and Sales,Basics of Programming,1
+100038,9069,Unlocking Info Security  Part II,Basics of Programming,2
+100038,9082,IoT Programming and Big Data,Basics of Programming,3
+100038,9099,Embedded Systems ,Basics of Programming,1
+100038,9112,How to Code  Complex Data,Basics of Programming,2
+100039,9010,Computer Science 101,Basics of Programming,3
+100039,9014,Relational Databases,Basics of Programming,1
+100039,9027,C Programming: Basics,Basics of Programming,2
+100039,9040,Build your very first iOS app,Basics of Programming,3
+100039,9057,Intro to Java Part 1,Basics of Programming,1
+100039,9070,Animation and CGI Motion,Basics of Programming,2
+100039,9083,AWS - Cloud Security,Basics of Programming,3
+100039,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,1
+100039,9113,Cybersecurity Career Path,Basics of Programming,2
+100040,9011,AI for Everyone: Basics,Basics of Programming,1
+100040,9086,IoT System Architecture ,Basics of Programming,1
+100040,9091,Deep Learning Essentials,Basics of Programming,1
+100045,9011,AI for Everyone: Basics,Basics of Programming,3
+100045,9015,C Programming,Basics of Programming,1
+100045,9028,Introduction to Networking,Basics of Programming,2
+100045,9041,Object-Oriented Programming,Basics of Programming,3
+100045,9058,Video game development,Basics of Programming,1
+100045,9071,IT Foundations,Basics of Programming,2
+100045,9084,Agile Software Development,Basics of Programming,3
+100045,9101,Amazon SageMaker ,Basics of Programming,1
+100045,9114,Databases Modeling,Basics of Programming,2
+100046,9012,Machine Learning with Python,Basics of Programming,1
+100046,9087,Big Data Analytics,Basics of Programming,1
+100046,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100047,9012,Machine Learning with Python,Basics of Programming,3
+100047,9016,Programming with JavaScript,Basics of Programming,1
+100047,9029,Intro to coding in Java,Basics of Programming,2
+100047,9042,Introduction to Jenkins,Basics of Programming,3
+100047,9059,DS and Software Design,Basics of Programming,1
+100047,9072,Algorithms  Design Part 2,Basics of Programming,2
+100047,9085,Intro to Database Queries,Basics of Programming,3
+100047,9102,Algorithmics with Python,Basics of Programming,1
+100047,9115,Object-Oriented Design,Basics of Programming,2
+100048,9013,JavaScript Introduction,Basics of Programming,3
+100048,9017,Computer Science for Business,Basics of Programming,1
+100048,9030,Data Science and Analytics,Basics of Programming,2
+100048,9043,Computer Graphics,Basics of Programming,3
+100048,9060,Cybersecurity Infrastructure,Basics of Programming,1
+100048,9073,Automata Theory,Basics of Programming,2
+100048,9086,IoT System Architecture ,Basics of Programming,3
+100048,9103,Intro to Java Programming 2,Basics of Programming,1
+100048,9116,Scripting and Programming,Basics of Programming,2
+100049,9001,Programming for Everybody,Basics of Programming,2
+100049,9014,Relational Databases,Basics of Programming,3
+100049,9018,Artificial Intelligence (AI),Basics of Programming,1
+100049,9031,ML-Data Science and Analytics,Basics of Programming,2
+100049,9044,Data Science  with Python,Basics of Programming,3
+100049,9061,IoT Sensors and Devices,Basics of Programming,1
+100049,9074,C Programming ,Basics of Programming,2
+100049,9087,Big Data Analytics,Basics of Programming,3
+100049,9104,UML Class Diagrams,Basics of Programming,1
+100052,9002,Intro to Computer Science,Basics of Programming,2
+100052,9015,C Programming,Basics of Programming,3
+100052,9019,Programming Basics,Basics of Programming,1
+100052,9032,Intro to Cloud Infrastructure,Basics of Programming,2
+100052,9045,Computing in Python III  ,Basics of Programming,3
+100052,9062,Exploring GraphQL,Basics of Programming,1
+100052,9075,Algorithmic Design Techniques,Basics of Programming,2
+100052,9088,AI Applications with Watson,Basics of Programming,3
+100052,9105,Data Science and Simulations,Basics of Programming,1
+100054,9012,Machine Learning with Python,Basics of Programming,1
+100054,9016,Programming with JavaScript,Basics of Programming,2
+100054,9063,Blockchain Basics,Basics of Programming,1
+100054,9071,IT Foundations,Basics of Programming,2
+100054,9076,Algorithm Design and Analysis,Basics of Programming,2
+100054,9114,Databases Modeling,Basics of Programming,1
+100055,9003,Intro to AI with Python,Basics of Programming,2
+100055,9016,Programming with JavaScript,Basics of Programming,3
+100055,9020,HTML Coding,Basics of Programming,1
+100055,9033,Machine Learning,Basics of Programming,2
+100055,9046,Software  Fundamentals,Basics of Programming,3
+100055,9063,Blockchain Basics,Basics of Programming,1
+100055,9076,Algorithm Design and Analysis,Basics of Programming,2
+100055,9089,Building Containerized Apps,Basics of Programming,3
+100055,9106,Programming for Data Science,Basics of Programming,1
+100057,9004,Web Programming with Python,Basics of Programming,2
+100057,9017,Computer Science for Business,Basics of Programming,3
+100057,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100057,9034,Fundamentals - Red Hat,Basics of Programming,2
+100057,9047,Foundations of Data Structures,Basics of Programming,3
+100057,9064,Computer Vision Fundamentals,Basics of Programming,1
+100057,9077,Human-Computer Interaction I,Basics of Programming,2
+100057,9090,Open Source Networking,Basics of Programming,3
+100057,9107,Building a Cybersecurity Toolkit,Basics of Programming,1
+100058,9005,Using Python for Research,Basics of Programming,2
+100058,9018,Artificial Intelligence (AI),Basics of Programming,3
+100058,9022,CSS Basics,Basics of Programming,1
+100058,9035,Algorithms,Basics of Programming,2
+100058,9048,IoT - Software Integration,Basics of Programming,3
+100058,9065,Intro to Cloud Computing,Basics of Programming,1
+100058,9078,Mining Massive Datasets,Basics of Programming,2
+100058,9091,Deep Learning Essentials,Basics of Programming,3
+100058,9108,Embedded Systems Essentials,Basics of Programming,1
+100059,9013,JavaScript Introduction,Basics of Programming,1
+100059,9017,Computer Science for Business,Basics of Programming,2
+100059,9064,Computer Vision Fundamentals,Basics of Programming,1
+100059,9072,Algorithms  Design Part 2,Basics of Programming,2
+100059,9077,Human-Computer Interaction I,Basics of Programming,2
+100059,9115,Object-Oriented Design,Basics of Programming,1
+100060,9013,JavaScript Introduction,Basics of Programming,1
+100060,9088,AI Applications with Watson,Basics of Programming,1
+100060,9093,IoT Networks and Protocols,Basics of Programming,1
+100061,9006,Introduction to Linux,Basics of Programming,2
+100061,9019,Programming Basics,Basics of Programming,3
+100061,9023,Unlocking Info Security 1,Basics of Programming,1
+100061,9036,Python- Control Structures,Basics of Programming,2
+100061,9049,AI Chatbots Programming,Basics of Programming,3
+100061,9066,Intro to DevOps and SRE,Basics of Programming,1
+100061,9079,Implementation of DS,Basics of Programming,2
+100061,9092,Migrating to the AWS Cloud,Basics of Programming,3
+100061,9109,Enabling Tech for Data Science,Basics of Programming,1
+100062,9014,Relational Databases,Basics of Programming,1
+100062,9018,Artificial Intelligence (AI),Basics of Programming,2
+100062,9065,Intro to Cloud Computing,Basics of Programming,1
+100062,9073,Automata Theory,Basics of Programming,2
+100062,9078,Mining Massive Datasets,Basics of Programming,2
+100062,9116,Scripting and Programming,Basics of Programming,1
+100063,9007,Procedural Programming,Basics of Programming,2
+100063,9020,HTML Coding,Basics of Programming,3
+100063,9024,Introduction to Cybersecurity,Basics of Programming,1
+100063,9037,Embedded Microcontrollers,Basics of Programming,2
+100063,9050,Computing in Python IV ,Basics of Programming,3
+100063,9067,Network and Security,Basics of Programming,1
+100063,9080,Big Data Fundamentals,Basics of Programming,2
+100063,9093,IoT Networks and Protocols,Basics of Programming,3
+100063,9110,Introduction to Cloud Foundry,Basics of Programming,1
+100064,9014,Relational Databases,Basics of Programming,1
+100064,9089,Building Containerized Apps,Basics of Programming,1
+100064,9094,Automated Software Testing,Basics of Programming,1
+100065,9001,Programming for Everybody,Basics of Programming,1
+100065,9015,C Programming,Basics of Programming,1
+100065,9019,Programming Basics,Basics of Programming,2
+100065,9066,Intro to DevOps and SRE,Basics of Programming,1
+100065,9074,C Programming ,Basics of Programming,2
+100065,9079,Implementation of DS,Basics of Programming,2
+100066,9002,Intro to Computer Science,Basics of Programming,1
+100066,9016,Programming with JavaScript,Basics of Programming,1
+100066,9020,HTML Coding,Basics of Programming,2
+100066,9067,Network and Security,Basics of Programming,1
+100066,9075,Algorithmic Design Techniques,Basics of Programming,2
+100066,9080,Big Data Fundamentals,Basics of Programming,2
+100068,9008,Basics of Programming,Basics of Programming,2
+100068,9021,Algorithms: Design Analysis 1,Basics of Programming,3
+100068,9025,Python Data Structures,Basics of Programming,1
+100068,9038,How to Code  Simple Data,Basics of Programming,2
+100068,9051,Software Engineering ,Basics of Programming,3
+100068,9068,Data Structures Fundamentals,Basics of Programming,1
+100068,9081,C Programming  Pointers,Basics of Programming,2
+100068,9094,Automated Software Testing,Basics of Programming,3
+100068,9111,Cloud Computing Enterprise,Basics of Programming,1
+100069,9015,C Programming,Basics of Programming,1
+100069,9090,Open Source Networking,Basics of Programming,1
+100069,9095,Databases Topics in SQL,Basics of Programming,1
+100071,9009,HTML5 and CSS Fundamentals,Basics of Programming,2
+100071,9022,CSS Basics,Basics of Programming,3
+100071,9026,Intro to Internet of Things (IoT),Basics of Programming,1
+100071,9039,Cybersecurity in the IoT,Basics of Programming,2
+100071,9052,Computer Hardware and OS,Basics of Programming,3
+100071,9069,Unlocking Info Security  Part II,Basics of Programming,1
+100071,9082,IoT Programming and Big Data,Basics of Programming,2
+100071,9095,Databases Topics in SQL,Basics of Programming,3
+100071,9112,How to Code  Complex Data,Basics of Programming,1
+100072,9016,Programming with JavaScript,Basics of Programming,1
+100072,9091,Deep Learning Essentials,Basics of Programming,1
+100072,9096,C Programming Using Linux,Basics of Programming,1
+100073,9003,Intro to AI with Python,Basics of Programming,1
+100073,9017,Computer Science for Business,Basics of Programming,1
+100073,9021,Algorithms: Design Analysis 1,Basics of Programming,2
+100073,9068,Data Structures Fundamentals,Basics of Programming,1
+100073,9076,Algorithm Design and Analysis,Basics of Programming,2
+100073,9081,C Programming  Pointers,Basics of Programming,2
+100075,9010,Computer Science 101,Basics of Programming,2
+100075,9023,Unlocking Info Security 1,Basics of Programming,3
+100075,9027,C Programming: Basics,Basics of Programming,1
+100075,9040,Build your very first iOS app,Basics of Programming,2
+100075,9053,HTML5 Apps and Games,Basics of Programming,3
+100075,9070,Animation and CGI Motion,Basics of Programming,1
+100075,9083,AWS - Cloud Security,Basics of Programming,2
+100075,9096,C Programming Using Linux,Basics of Programming,3
+100075,9113,Cybersecurity Career Path,Basics of Programming,1
+100077,9011,AI for Everyone: Basics,Basics of Programming,2
+100077,9024,Introduction to Cybersecurity,Basics of Programming,3
+100077,9028,Introduction to Networking,Basics of Programming,1
+100077,9041,Object-Oriented Programming,Basics of Programming,2
+100077,9054,MATLAB for Beginners,Basics of Programming,3
+100077,9071,IT Foundations,Basics of Programming,1
+100077,9084,Agile Software Development,Basics of Programming,2
+100077,9097,Cybersecurity  The CISO's View,Basics of Programming,3
+100077,9114,Databases Modeling,Basics of Programming,1
+100078,9012,Machine Learning with Python,Basics of Programming,2
+100078,9025,Python Data Structures,Basics of Programming,3
+100078,9029,Intro to coding in Java,Basics of Programming,1
+100078,9042,Introduction to Jenkins,Basics of Programming,2
+100078,9055,Linux Basics  The CLI,Basics of Programming,3
+100078,9072,Algorithms  Design Part 2,Basics of Programming,1
+100078,9085,Intro to Database Queries,Basics of Programming,2
+100078,9098,Fundamentals of Java EE ,Basics of Programming,3
+100078,9115,Object-Oriented Design,Basics of Programming,1
+100080,9017,Computer Science for Business,Basics of Programming,1
+100080,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100080,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100081,9013,JavaScript Introduction,Basics of Programming,2
+100081,9026,Intro to Internet of Things (IoT),Basics of Programming,3
+100081,9030,Data Science and Analytics,Basics of Programming,1
+100081,9043,Computer Graphics,Basics of Programming,2
+100081,9056,Marketing Analytics and Sales,Basics of Programming,3
+100081,9073,Automata Theory,Basics of Programming,1
+100081,9086,IoT System Architecture ,Basics of Programming,2
+100081,9099,Embedded Systems ,Basics of Programming,3
+100081,9116,Scripting and Programming,Basics of Programming,1
+100082,9018,Artificial Intelligence (AI),Basics of Programming,1
+100082,9079,Implementation of DS,Basics of Programming,1
+100082,9093,IoT Networks and Protocols,Basics of Programming,1
+100083,9001,Programming for Everybody,Basics of Programming,1
+100083,9014,Relational Databases,Basics of Programming,2
+100083,9027,C Programming: Basics,Basics of Programming,3
+100083,9031,ML-Data Science and Analytics,Basics of Programming,1
+100083,9044,Data Science  with Python,Basics of Programming,2
+100083,9057,Intro to Java Part 1,Basics of Programming,3
+100083,9074,C Programming ,Basics of Programming,1
+100083,9087,Big Data Analytics,Basics of Programming,2
+100083,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,3
+100084,9019,Programming Basics,Basics of Programming,1
+100084,9080,Big Data Fundamentals,Basics of Programming,1
+100084,9094,Automated Software Testing,Basics of Programming,1
+100085,9004,Web Programming with Python,Basics of Programming,1
+100085,9018,Artificial Intelligence (AI),Basics of Programming,1
+100085,9022,CSS Basics,Basics of Programming,2
+100085,9069,Unlocking Info Security  Part II,Basics of Programming,1
+100085,9077,Human-Computer Interaction I,Basics of Programming,2
+100085,9082,IoT Programming and Big Data,Basics of Programming,2
+100086,9020,HTML Coding,Basics of Programming,1
+100086,9081,C Programming  Pointers,Basics of Programming,1
+100086,9095,Databases Topics in SQL,Basics of Programming,1
+100087,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100087,9082,IoT Programming and Big Data,Basics of Programming,1
+100087,9096,C Programming Using Linux,Basics of Programming,1
+100088,9022,CSS Basics,Basics of Programming,1
+100088,9083,AWS - Cloud Security,Basics of Programming,1
+100088,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100089,9002,Intro to Computer Science,Basics of Programming,1
+100089,9015,C Programming,Basics of Programming,2
+100089,9028,Introduction to Networking,Basics of Programming,3
+100089,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100089,9045,Computing in Python III  ,Basics of Programming,2
+100089,9058,Video game development,Basics of Programming,3
+100089,9075,Algorithmic Design Techniques,Basics of Programming,1
+100089,9088,AI Applications with Watson,Basics of Programming,2
+100089,9101,Amazon SageMaker ,Basics of Programming,3
+100090,9003,Intro to AI with Python,Basics of Programming,1
+100090,9016,Programming with JavaScript,Basics of Programming,2
+100090,9029,Intro to coding in Java,Basics of Programming,3
+100090,9033,Machine Learning,Basics of Programming,1
+100090,9046,Software  Fundamentals,Basics of Programming,2
+100090,9059,DS and Software Design,Basics of Programming,3
+100090,9076,Algorithm Design and Analysis,Basics of Programming,1
+100090,9089,Building Containerized Apps,Basics of Programming,2
+100090,9102,Algorithmics with Python,Basics of Programming,3
+100091,9023,Unlocking Info Security 1,Basics of Programming,1
+100091,9084,Agile Software Development,Basics of Programming,1
+100091,9098,Fundamentals of Java EE ,Basics of Programming,1
+100092,9024,Introduction to Cybersecurity,Basics of Programming,1
+100092,9085,Intro to Database Queries,Basics of Programming,1
+100092,9099,Embedded Systems ,Basics of Programming,1
+100093,9005,Using Python for Research,Basics of Programming,1
+100093,9019,Programming Basics,Basics of Programming,1
+100093,9023,Unlocking Info Security 1,Basics of Programming,2
+100093,9070,Animation and CGI Motion,Basics of Programming,1
+100093,9078,Mining Massive Datasets,Basics of Programming,2
+100093,9083,AWS - Cloud Security,Basics of Programming,2
+100094,9006,Introduction to Linux,Basics of Programming,1
+100094,9020,HTML Coding,Basics of Programming,1
+100094,9024,Introduction to Cybersecurity,Basics of Programming,2
+100094,9071,IT Foundations,Basics of Programming,1
+100094,9079,Implementation of DS,Basics of Programming,2
+100094,9084,Agile Software Development,Basics of Programming,2
+100095,9025,Python Data Structures,Basics of Programming,1
+100095,9086,IoT System Architecture ,Basics of Programming,1
+100095,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,1
+100096,9026,Intro to Internet of Things (IoT),Basics of Programming,1
+100096,9087,Big Data Analytics,Basics of Programming,1
+100096,9101,Amazon SageMaker ,Basics of Programming,1
+100097,9027,C Programming: Basics,Basics of Programming,1
+100097,9088,AI Applications with Watson,Basics of Programming,1
+100097,9102,Algorithmics with Python,Basics of Programming,1
+100098,9007,Procedural Programming,Basics of Programming,1
+100098,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100098,9025,Python Data Structures,Basics of Programming,2
+100098,9072,Algorithms  Design Part 2,Basics of Programming,1
+100098,9080,Big Data Fundamentals,Basics of Programming,2
+100098,9085,Intro to Database Queries,Basics of Programming,2
+100100,9028,Introduction to Networking,Basics of Programming,1
+100100,9089,Building Containerized Apps,Basics of Programming,1
+100100,9103,Intro to Java Programming 2,Basics of Programming,1
+100102,9029,Intro to coding in Java,Basics of Programming,1
+100102,9090,Open Source Networking,Basics of Programming,1
+100102,9104,UML Class Diagrams,Basics of Programming,1
+100104,9030,Data Science and Analytics,Basics of Programming,1
+100104,9091,Deep Learning Essentials,Basics of Programming,1
+100104,9105,Data Science and Simulations,Basics of Programming,1
+100105,9031,ML-Data Science and Analytics,Basics of Programming,1
+100105,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100105,9106,Programming for Data Science,Basics of Programming,1
+100106,9008,Basics of Programming,Basics of Programming,1
+100106,9022,CSS Basics,Basics of Programming,1
+100106,9026,Intro to Internet of Things (IoT),Basics of Programming,2
+100106,9073,Automata Theory,Basics of Programming,1
+100106,9081,C Programming  Pointers,Basics of Programming,2
+100106,9086,IoT System Architecture ,Basics of Programming,2
+100107,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100107,9023,Unlocking Info Security 1,Basics of Programming,1
+100107,9027,C Programming: Basics,Basics of Programming,2
+100107,9074,C Programming ,Basics of Programming,1
+100107,9082,IoT Programming and Big Data,Basics of Programming,2
+100107,9087,Big Data Analytics,Basics of Programming,2
+100108,9004,Web Programming with Python,Basics of Programming,1
+100108,9017,Computer Science for Business,Basics of Programming,2
+100108,9030,Data Science and Analytics,Basics of Programming,3
+100108,9034,Fundamentals - Red Hat,Basics of Programming,1
+100108,9047,Foundations of Data Structures,Basics of Programming,2
+100108,9060,Cybersecurity Infrastructure,Basics of Programming,3
+100108,9077,Human-Computer Interaction I,Basics of Programming,1
+100108,9090,Open Source Networking,Basics of Programming,2
+100108,9103,Intro to Java Programming 2,Basics of Programming,3
+100109,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100109,9093,IoT Networks and Protocols,Basics of Programming,1
+100109,9107,Building a Cybersecurity Toolkit,Basics of Programming,1
+100110,9005,Using Python for Research,Basics of Programming,1
+100110,9018,Artificial Intelligence (AI),Basics of Programming,2
+100110,9031,ML-Data Science and Analytics,Basics of Programming,3
+100110,9035,Algorithms,Basics of Programming,1
+100110,9048,IoT - Software Integration,Basics of Programming,2
+100110,9061,IoT Sensors and Devices,Basics of Programming,3
+100110,9078,Mining Massive Datasets,Basics of Programming,1
+100110,9091,Deep Learning Essentials,Basics of Programming,2
+100110,9104,UML Class Diagrams,Basics of Programming,3
+100112,9033,Machine Learning,Basics of Programming,1
+100112,9094,Automated Software Testing,Basics of Programming,1
+100112,9108,Embedded Systems Essentials,Basics of Programming,1
+100113,9006,Introduction to Linux,Basics of Programming,1
+100113,9019,Programming Basics,Basics of Programming,2
+100113,9032,Intro to Cloud Infrastructure,Basics of Programming,3
+100113,9036,Python- Control Structures,Basics of Programming,1
+100113,9049,AI Chatbots Programming,Basics of Programming,2
+100113,9062,Exploring GraphQL,Basics of Programming,3
+100113,9079,Implementation of DS,Basics of Programming,1
+100113,9092,Migrating to the AWS Cloud,Basics of Programming,2
+100113,9105,Data Science and Simulations,Basics of Programming,3
+100114,9007,Procedural Programming,Basics of Programming,1
+100114,9020,HTML Coding,Basics of Programming,2
+100114,9033,Machine Learning,Basics of Programming,3
+100114,9037,Embedded Microcontrollers,Basics of Programming,1
+100114,9050,Computing in Python IV ,Basics of Programming,2
+100114,9063,Blockchain Basics,Basics of Programming,3
+100114,9080,Big Data Fundamentals,Basics of Programming,1
+100114,9093,IoT Networks and Protocols,Basics of Programming,2
+100114,9106,Programming for Data Science,Basics of Programming,3
+100115,9008,Basics of Programming,Basics of Programming,1
+100115,9021,Algorithms: Design Analysis 1,Basics of Programming,2
+100115,9034,Fundamentals - Red Hat,Basics of Programming,3
+100115,9038,How to Code  Simple Data,Basics of Programming,1
+100115,9051,Software Engineering ,Basics of Programming,2
+100115,9064,Computer Vision Fundamentals,Basics of Programming,3
+100115,9081,C Programming  Pointers,Basics of Programming,1
+100115,9094,Automated Software Testing,Basics of Programming,2
+100115,9107,Building a Cybersecurity Toolkit,Basics of Programming,3
+100116,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100116,9022,CSS Basics,Basics of Programming,2
+100116,9035,Algorithms,Basics of Programming,3
+100116,9039,Cybersecurity in the IoT,Basics of Programming,1
+100116,9052,Computer Hardware and OS,Basics of Programming,2
+100116,9065,Intro to Cloud Computing,Basics of Programming,3
+100116,9082,IoT Programming and Big Data,Basics of Programming,1
+100116,9095,Databases Topics in SQL,Basics of Programming,2
+100116,9108,Embedded Systems Essentials,Basics of Programming,3
+100117,9010,Computer Science 101,Basics of Programming,1
+100117,9023,Unlocking Info Security 1,Basics of Programming,2
+100117,9036,Python- Control Structures,Basics of Programming,3
+100117,9040,Build your very first iOS app,Basics of Programming,1
+100117,9053,HTML5 Apps and Games,Basics of Programming,2
+100117,9066,Intro to DevOps and SRE,Basics of Programming,3
+100117,9083,AWS - Cloud Security,Basics of Programming,1
+100117,9096,C Programming Using Linux,Basics of Programming,2
+100117,9109,Enabling Tech for Data Science,Basics of Programming,3
+100118,9034,Fundamentals - Red Hat,Basics of Programming,1
+100118,9095,Databases Topics in SQL,Basics of Programming,1
+100118,9109,Enabling Tech for Data Science,Basics of Programming,1
+100119,9010,Computer Science 101,Basics of Programming,1
+100119,9024,Introduction to Cybersecurity,Basics of Programming,1
+100119,9028,Introduction to Networking,Basics of Programming,2
+100119,9075,Algorithmic Design Techniques,Basics of Programming,1
+100119,9083,AWS - Cloud Security,Basics of Programming,2
+100119,9088,AI Applications with Watson,Basics of Programming,2
+100120,9011,AI for Everyone: Basics,Basics of Programming,1
+100120,9025,Python Data Structures,Basics of Programming,1
+100120,9029,Intro to coding in Java,Basics of Programming,2
+100120,9076,Algorithm Design and Analysis,Basics of Programming,1
+100120,9084,Agile Software Development,Basics of Programming,2
+100120,9089,Building Containerized Apps,Basics of Programming,2
+100121,9012,Machine Learning with Python,Basics of Programming,1
+100121,9026,Intro to Internet of Things (IoT),Basics of Programming,1
+100121,9030,Data Science and Analytics,Basics of Programming,2
+100121,9077,Human-Computer Interaction I,Basics of Programming,1
+100121,9085,Intro to Database Queries,Basics of Programming,2
+100121,9090,Open Source Networking,Basics of Programming,2
+100123,9013,JavaScript Introduction,Basics of Programming,1
+100123,9027,C Programming: Basics,Basics of Programming,1
+100123,9031,ML-Data Science and Analytics,Basics of Programming,2
+100123,9078,Mining Massive Datasets,Basics of Programming,1
+100123,9086,IoT System Architecture ,Basics of Programming,2
+100123,9091,Deep Learning Essentials,Basics of Programming,2
+100124,9035,Algorithms,Basics of Programming,1
+100124,9096,C Programming Using Linux,Basics of Programming,1
+100124,9110,Introduction to Cloud Foundry,Basics of Programming,1
+100125,9011,AI for Everyone: Basics,Basics of Programming,1
+100125,9024,Introduction to Cybersecurity,Basics of Programming,2
+100125,9037,Embedded Microcontrollers,Basics of Programming,3
+100125,9041,Object-Oriented Programming,Basics of Programming,1
+100125,9054,MATLAB for Beginners,Basics of Programming,2
+100125,9067,Network and Security,Basics of Programming,3
+100125,9084,Agile Software Development,Basics of Programming,1
+100125,9097,Cybersecurity  The CISO's View,Basics of Programming,2
+100125,9110,Introduction to Cloud Foundry,Basics of Programming,3
+100127,9029,Intro to coding in Java,Basics of Programming,1
+100127,9036,Python- Control Structures,Basics of Programming,1
+100127,9111,Cloud Computing Enterprise,Basics of Programming,1
+100128,9014,Relational Databases,Basics of Programming,1
+100128,9028,Introduction to Networking,Basics of Programming,1
+100128,9032,Intro to Cloud Infrastructure,Basics of Programming,2
+100128,9079,Implementation of DS,Basics of Programming,1
+100128,9087,Big Data Analytics,Basics of Programming,2
+100128,9092,Migrating to the AWS Cloud,Basics of Programming,2
+100129,9030,Data Science and Analytics,Basics of Programming,1
+100129,9037,Embedded Microcontrollers,Basics of Programming,1
+100129,9112,How to Code  Complex Data,Basics of Programming,1
+100130,9012,Machine Learning with Python,Basics of Programming,1
+100130,9025,Python Data Structures,Basics of Programming,2
+100130,9038,How to Code  Simple Data,Basics of Programming,3
+100130,9042,Introduction to Jenkins,Basics of Programming,1
+100130,9055,Linux Basics  The CLI,Basics of Programming,2
+100130,9068,Data Structures Fundamentals,Basics of Programming,3
+100130,9085,Intro to Database Queries,Basics of Programming,1
+100130,9098,Fundamentals of Java EE ,Basics of Programming,2
+100130,9111,Cloud Computing Enterprise,Basics of Programming,3
+100131,9013,JavaScript Introduction,Basics of Programming,1
+100131,9026,Intro to Internet of Things (IoT),Basics of Programming,2
+100131,9039,Cybersecurity in the IoT,Basics of Programming,3
+100131,9043,Computer Graphics,Basics of Programming,1
+100131,9056,Marketing Analytics and Sales,Basics of Programming,2
+100131,9069,Unlocking Info Security  Part II,Basics of Programming,3
+100131,9086,IoT System Architecture ,Basics of Programming,1
+100131,9099,Embedded Systems ,Basics of Programming,2
+100131,9112,How to Code  Complex Data,Basics of Programming,3
+100134,9031,ML-Data Science and Analytics,Basics of Programming,1
+100134,9038,How to Code  Simple Data,Basics of Programming,1
+100134,9113,Cybersecurity Career Path,Basics of Programming,1
+100135,9015,C Programming,Basics of Programming,1
+100135,9029,Intro to coding in Java,Basics of Programming,1
+100135,9033,Machine Learning,Basics of Programming,2
+100135,9080,Big Data Fundamentals,Basics of Programming,1
+100135,9088,AI Applications with Watson,Basics of Programming,2
+100135,9093,IoT Networks and Protocols,Basics of Programming,2
+100136,9016,Programming with JavaScript,Basics of Programming,1
+100136,9030,Data Science and Analytics,Basics of Programming,1
+100136,9034,Fundamentals - Red Hat,Basics of Programming,2
+100136,9081,C Programming  Pointers,Basics of Programming,1
+100136,9089,Building Containerized Apps,Basics of Programming,2
+100136,9094,Automated Software Testing,Basics of Programming,2
+100137,9014,Relational Databases,Basics of Programming,1
+100137,9027,C Programming: Basics,Basics of Programming,2
+100137,9040,Build your very first iOS app,Basics of Programming,3
+100137,9044,Data Science  with Python,Basics of Programming,1
+100137,9057,Intro to Java Part 1,Basics of Programming,2
+100137,9070,Animation and CGI Motion,Basics of Programming,3
+100137,9087,Big Data Analytics,Basics of Programming,1
+100137,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,2
+100137,9113,Cybersecurity Career Path,Basics of Programming,3
+100138,9015,C Programming,Basics of Programming,1
+100138,9028,Introduction to Networking,Basics of Programming,2
+100138,9041,Object-Oriented Programming,Basics of Programming,3
+100138,9045,Computing in Python III  ,Basics of Programming,1
+100138,9058,Video game development,Basics of Programming,2
+100138,9071,IT Foundations,Basics of Programming,3
+100138,9088,AI Applications with Watson,Basics of Programming,1
+100138,9101,Amazon SageMaker ,Basics of Programming,2
+100138,9114,Databases Modeling,Basics of Programming,3
+100140,9016,Programming with JavaScript,Basics of Programming,1
+100140,9029,Intro to coding in Java,Basics of Programming,2
+100140,9042,Introduction to Jenkins,Basics of Programming,3
+100140,9046,Software  Fundamentals,Basics of Programming,1
+100140,9059,DS and Software Design,Basics of Programming,2
+100140,9072,Algorithms  Design Part 2,Basics of Programming,3
+100140,9089,Building Containerized Apps,Basics of Programming,1
+100140,9102,Algorithmics with Python,Basics of Programming,2
+100140,9115,Object-Oriented Design,Basics of Programming,3
+100141,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100141,9039,Cybersecurity in the IoT,Basics of Programming,1
+100141,9114,Databases Modeling,Basics of Programming,1
+100142,9017,Computer Science for Business,Basics of Programming,1
+100142,9030,Data Science and Analytics,Basics of Programming,2
+100142,9043,Computer Graphics,Basics of Programming,3
+100142,9047,Foundations of Data Structures,Basics of Programming,1
+100142,9060,Cybersecurity Infrastructure,Basics of Programming,2
+100142,9073,Automata Theory,Basics of Programming,3
+100142,9090,Open Source Networking,Basics of Programming,1
+100142,9103,Intro to Java Programming 2,Basics of Programming,2
+100142,9116,Scripting and Programming,Basics of Programming,3
+100144,9017,Computer Science for Business,Basics of Programming,1
+100144,9031,ML-Data Science and Analytics,Basics of Programming,1
+100144,9035,Algorithms,Basics of Programming,2
+100144,9082,IoT Programming and Big Data,Basics of Programming,1
+100144,9090,Open Source Networking,Basics of Programming,2
+100144,9095,Databases Topics in SQL,Basics of Programming,2
+100145,9001,Programming for Everybody,Basics of Programming,3
+100145,9018,Artificial Intelligence (AI),Basics of Programming,1
+100145,9031,ML-Data Science and Analytics,Basics of Programming,2
+100145,9044,Data Science  with Python,Basics of Programming,3
+100145,9048,IoT - Software Integration,Basics of Programming,1
+100145,9061,IoT Sensors and Devices,Basics of Programming,2
+100145,9074,C Programming ,Basics of Programming,3
+100145,9091,Deep Learning Essentials,Basics of Programming,1
+100145,9104,UML Class Diagrams,Basics of Programming,2
+100146,9018,Artificial Intelligence (AI),Basics of Programming,1
+100146,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100146,9036,Python- Control Structures,Basics of Programming,2
+100146,9083,AWS - Cloud Security,Basics of Programming,1
+100146,9091,Deep Learning Essentials,Basics of Programming,2
+100146,9096,C Programming Using Linux,Basics of Programming,2
+100148,9019,Programming Basics,Basics of Programming,1
+100148,9033,Machine Learning,Basics of Programming,1
+100148,9037,Embedded Microcontrollers,Basics of Programming,2
+100148,9084,Agile Software Development,Basics of Programming,1
+100148,9092,Migrating to the AWS Cloud,Basics of Programming,2
+100148,9097,Cybersecurity  The CISO's View,Basics of Programming,2
+100150,9002,Intro to Computer Science,Basics of Programming,3
+100150,9019,Programming Basics,Basics of Programming,1
+100150,9032,Intro to Cloud Infrastructure,Basics of Programming,2
+100150,9045,Computing in Python III  ,Basics of Programming,3
+100150,9049,AI Chatbots Programming,Basics of Programming,1
+100150,9062,Exploring GraphQL,Basics of Programming,2
+100150,9075,Algorithmic Design Techniques,Basics of Programming,3
+100150,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100150,9105,Data Science and Simulations,Basics of Programming,2
+100151,9020,HTML Coding,Basics of Programming,1
+100151,9034,Fundamentals - Red Hat,Basics of Programming,1
+100151,9038,How to Code  Simple Data,Basics of Programming,2
+100151,9085,Intro to Database Queries,Basics of Programming,1
+100151,9093,IoT Networks and Protocols,Basics of Programming,2
+100151,9098,Fundamentals of Java EE ,Basics of Programming,2
+100153,9003,Intro to AI with Python,Basics of Programming,3
+100153,9020,HTML Coding,Basics of Programming,1
+100153,9033,Machine Learning,Basics of Programming,2
+100153,9046,Software  Fundamentals,Basics of Programming,3
+100153,9050,Computing in Python IV ,Basics of Programming,1
+100153,9063,Blockchain Basics,Basics of Programming,2
+100153,9076,Algorithm Design and Analysis,Basics of Programming,3
+100153,9093,IoT Networks and Protocols,Basics of Programming,1
+100153,9106,Programming for Data Science,Basics of Programming,2
+100154,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100154,9035,Algorithms,Basics of Programming,1
+100154,9039,Cybersecurity in the IoT,Basics of Programming,2
+100154,9086,IoT System Architecture ,Basics of Programming,1
+100154,9094,Automated Software Testing,Basics of Programming,2
+100154,9099,Embedded Systems ,Basics of Programming,2
+100156,9004,Web Programming with Python,Basics of Programming,3
+100156,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100156,9034,Fundamentals - Red Hat,Basics of Programming,2
+100156,9047,Foundations of Data Structures,Basics of Programming,3
+100156,9051,Software Engineering ,Basics of Programming,1
+100156,9064,Computer Vision Fundamentals,Basics of Programming,2
+100156,9077,Human-Computer Interaction I,Basics of Programming,3
+100156,9094,Automated Software Testing,Basics of Programming,1
+100156,9107,Building a Cybersecurity Toolkit,Basics of Programming,2
+100157,9005,Using Python for Research,Basics of Programming,3
+100157,9022,CSS Basics,Basics of Programming,1
+100157,9035,Algorithms,Basics of Programming,2
+100157,9048,IoT - Software Integration,Basics of Programming,3
+100157,9052,Computer Hardware and OS,Basics of Programming,1
+100157,9065,Intro to Cloud Computing,Basics of Programming,2
+100157,9078,Mining Massive Datasets,Basics of Programming,3
+100157,9095,Databases Topics in SQL,Basics of Programming,1
+100157,9108,Embedded Systems Essentials,Basics of Programming,2
+100159,9022,CSS Basics,Basics of Programming,1
+100159,9036,Python- Control Structures,Basics of Programming,1
+100159,9040,Build your very first iOS app,Basics of Programming,2
+100159,9087,Big Data Analytics,Basics of Programming,1
+100159,9095,Databases Topics in SQL,Basics of Programming,2
+100159,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,2
+100161,9023,Unlocking Info Security 1,Basics of Programming,1
+100161,9037,Embedded Microcontrollers,Basics of Programming,1
+100161,9041,Object-Oriented Programming,Basics of Programming,2
+100161,9088,AI Applications with Watson,Basics of Programming,1
+100161,9096,C Programming Using Linux,Basics of Programming,2
+100161,9101,Amazon SageMaker ,Basics of Programming,2
+100162,9033,Machine Learning,Basics of Programming,1
+100162,9040,Build your very first iOS app,Basics of Programming,1
+100162,9115,Object-Oriented Design,Basics of Programming,1
+100163,9006,Introduction to Linux,Basics of Programming,3
+100163,9023,Unlocking Info Security 1,Basics of Programming,1
+100163,9036,Python- Control Structures,Basics of Programming,2
+100163,9049,AI Chatbots Programming,Basics of Programming,3
+100163,9053,HTML5 Apps and Games,Basics of Programming,1
+100163,9066,Intro to DevOps and SRE,Basics of Programming,2
+100163,9079,Implementation of DS,Basics of Programming,3
+100163,9096,C Programming Using Linux,Basics of Programming,1
+100163,9109,Enabling Tech for Data Science,Basics of Programming,2
+100165,9024,Introduction to Cybersecurity,Basics of Programming,1
+100165,9038,How to Code  Simple Data,Basics of Programming,1
+100165,9042,Introduction to Jenkins,Basics of Programming,2
+100165,9089,Building Containerized Apps,Basics of Programming,1
+100165,9097,Cybersecurity  The CISO's View,Basics of Programming,2
+100165,9102,Algorithmics with Python,Basics of Programming,2
+100166,9025,Python Data Structures,Basics of Programming,1
+100166,9039,Cybersecurity in the IoT,Basics of Programming,1
+100166,9043,Computer Graphics,Basics of Programming,2
+100166,9090,Open Source Networking,Basics of Programming,1
+100166,9098,Fundamentals of Java EE ,Basics of Programming,2
+100166,9103,Intro to Java Programming 2,Basics of Programming,2
+100167,9007,Procedural Programming,Basics of Programming,3
+100167,9024,Introduction to Cybersecurity,Basics of Programming,1
+100167,9037,Embedded Microcontrollers,Basics of Programming,2
+100167,9050,Computing in Python IV ,Basics of Programming,3
+100167,9054,MATLAB for Beginners,Basics of Programming,1
+100167,9067,Network and Security,Basics of Programming,2
+100167,9080,Big Data Fundamentals,Basics of Programming,3
+100167,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100167,9110,Introduction to Cloud Foundry,Basics of Programming,2
+100168,9034,Fundamentals - Red Hat,Basics of Programming,1
+100168,9041,Object-Oriented Programming,Basics of Programming,1
+100168,9116,Scripting and Programming,Basics of Programming,1
+100169,9008,Basics of Programming,Basics of Programming,3
+100169,9025,Python Data Structures,Basics of Programming,1
+100169,9038,How to Code  Simple Data,Basics of Programming,2
+100169,9051,Software Engineering ,Basics of Programming,3
+100169,9055,Linux Basics  The CLI,Basics of Programming,1
+100169,9068,Data Structures Fundamentals,Basics of Programming,2
+100169,9081,C Programming  Pointers,Basics of Programming,3
+100169,9098,Fundamentals of Java EE ,Basics of Programming,1
+100169,9111,Cloud Computing Enterprise,Basics of Programming,2
+100170,9025,Python Data Structures,Basics of Programming,1
+100170,9035,Algorithms,Basics of Programming,1
+100170,9042,Introduction to Jenkins,Basics of Programming,1
+100172,9026,Intro to Internet of Things (IoT),Basics of Programming,1
+100172,9040,Build your very first iOS app,Basics of Programming,1
+100172,9044,Data Science  with Python,Basics of Programming,2
+100172,9091,Deep Learning Essentials,Basics of Programming,1
+100172,9099,Embedded Systems ,Basics of Programming,2
+100172,9104,UML Class Diagrams,Basics of Programming,2
+100175,9001,Programming for Everybody,Basics of Programming,1
+100175,9041,Object-Oriented Programming,Basics of Programming,1
+100175,9045,Computing in Python III  ,Basics of Programming,2
+100175,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100175,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,2
+100175,9105,Data Science and Simulations,Basics of Programming,2
+100176,9002,Intro to Computer Science,Basics of Programming,1
+100176,9042,Introduction to Jenkins,Basics of Programming,1
+100176,9046,Software  Fundamentals,Basics of Programming,2
+100176,9093,IoT Networks and Protocols,Basics of Programming,1
+100176,9101,Amazon SageMaker ,Basics of Programming,2
+100176,9106,Programming for Data Science,Basics of Programming,2
+100177,9026,Intro to Internet of Things (IoT),Basics of Programming,1
+100177,9036,Python- Control Structures,Basics of Programming,1
+100177,9043,Computer Graphics,Basics of Programming,1
+100178,9027,C Programming: Basics,Basics of Programming,1
+100178,9037,Embedded Microcontrollers,Basics of Programming,1
+100178,9044,Data Science  with Python,Basics of Programming,1
+100179,9009,HTML5 and CSS Fundamentals,Basics of Programming,3
+100179,9026,Intro to Internet of Things (IoT),Basics of Programming,1
+100179,9039,Cybersecurity in the IoT,Basics of Programming,2
+100179,9052,Computer Hardware and OS,Basics of Programming,3
+100179,9056,Marketing Analytics and Sales,Basics of Programming,1
+100179,9069,Unlocking Info Security  Part II,Basics of Programming,2
+100179,9082,IoT Programming and Big Data,Basics of Programming,3
+100179,9099,Embedded Systems ,Basics of Programming,1
+100179,9112,How to Code  Complex Data,Basics of Programming,2
+100180,9028,Introduction to Networking,Basics of Programming,1
+100180,9038,How to Code  Simple Data,Basics of Programming,1
+100180,9045,Computing in Python III  ,Basics of Programming,1
+100181,9029,Intro to coding in Java,Basics of Programming,1
+100181,9046,Software  Fundamentals,Basics of Programming,1
+100181,9054,MATLAB for Beginners,Basics of Programming,1
+100182,9030,Data Science and Analytics,Basics of Programming,1
+100182,9047,Foundations of Data Structures,Basics of Programming,1
+100182,9055,Linux Basics  The CLI,Basics of Programming,1
+100183,9010,Computer Science 101,Basics of Programming,3
+100183,9027,C Programming: Basics,Basics of Programming,1
+100183,9040,Build your very first iOS app,Basics of Programming,2
+100183,9053,HTML5 Apps and Games,Basics of Programming,3
+100183,9057,Intro to Java Part 1,Basics of Programming,1
+100183,9070,Animation and CGI Motion,Basics of Programming,2
+100183,9083,AWS - Cloud Security,Basics of Programming,3
+100183,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,1
+100183,9113,Cybersecurity Career Path,Basics of Programming,2
+100184,9011,AI for Everyone: Basics,Basics of Programming,3
+100184,9028,Introduction to Networking,Basics of Programming,1
+100184,9041,Object-Oriented Programming,Basics of Programming,2
+100184,9054,MATLAB for Beginners,Basics of Programming,3
+100184,9058,Video game development,Basics of Programming,1
+100184,9071,IT Foundations,Basics of Programming,2
+100184,9084,Agile Software Development,Basics of Programming,3
+100184,9101,Amazon SageMaker ,Basics of Programming,1
+100184,9114,Databases Modeling,Basics of Programming,2
+100185,9031,ML-Data Science and Analytics,Basics of Programming,1
+100185,9048,IoT - Software Integration,Basics of Programming,1
+100185,9056,Marketing Analytics and Sales,Basics of Programming,1
+100186,9012,Machine Learning with Python,Basics of Programming,3
+100186,9029,Intro to coding in Java,Basics of Programming,1
+100186,9042,Introduction to Jenkins,Basics of Programming,2
+100186,9055,Linux Basics  The CLI,Basics of Programming,3
+100186,9059,DS and Software Design,Basics of Programming,1
+100186,9072,Algorithms  Design Part 2,Basics of Programming,2
+100186,9085,Intro to Database Queries,Basics of Programming,3
+100186,9102,Algorithmics with Python,Basics of Programming,1
+100186,9115,Object-Oriented Design,Basics of Programming,2
+100187,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100187,9049,AI Chatbots Programming,Basics of Programming,1
+100187,9057,Intro to Java Part 1,Basics of Programming,1
+100188,9033,Machine Learning,Basics of Programming,1
+100188,9050,Computing in Python IV ,Basics of Programming,1
+100188,9058,Video game development,Basics of Programming,1
+100189,9034,Fundamentals - Red Hat,Basics of Programming,1
+100189,9051,Software Engineering ,Basics of Programming,1
+100189,9059,DS and Software Design,Basics of Programming,1
+100190,9035,Algorithms,Basics of Programming,1
+100190,9052,Computer Hardware and OS,Basics of Programming,1
+100190,9060,Cybersecurity Infrastructure,Basics of Programming,1
+100191,9013,JavaScript Introduction,Basics of Programming,3
+100191,9030,Data Science and Analytics,Basics of Programming,1
+100191,9043,Computer Graphics,Basics of Programming,2
+100191,9056,Marketing Analytics and Sales,Basics of Programming,3
+100191,9060,Cybersecurity Infrastructure,Basics of Programming,1
+100191,9073,Automata Theory,Basics of Programming,2
+100191,9086,IoT System Architecture ,Basics of Programming,3
+100191,9103,Intro to Java Programming 2,Basics of Programming,1
+100191,9116,Scripting and Programming,Basics of Programming,2
+100192,9003,Intro to AI with Python,Basics of Programming,1
+100192,9043,Computer Graphics,Basics of Programming,1
+100192,9047,Foundations of Data Structures,Basics of Programming,2
+100192,9094,Automated Software Testing,Basics of Programming,1
+100192,9102,Algorithmics with Python,Basics of Programming,2
+100192,9107,Building a Cybersecurity Toolkit,Basics of Programming,2
+100193,9036,Python- Control Structures,Basics of Programming,1
+100193,9053,HTML5 Apps and Games,Basics of Programming,1
+100193,9061,IoT Sensors and Devices,Basics of Programming,1
+100194,9037,Embedded Microcontrollers,Basics of Programming,1
+100194,9054,MATLAB for Beginners,Basics of Programming,1
+100194,9062,Exploring GraphQL,Basics of Programming,1
+100195,9004,Web Programming with Python,Basics of Programming,1
+100195,9044,Data Science  with Python,Basics of Programming,1
+100195,9048,IoT - Software Integration,Basics of Programming,2
+100195,9095,Databases Topics in SQL,Basics of Programming,1
+100195,9103,Intro to Java Programming 2,Basics of Programming,2
+100195,9108,Embedded Systems Essentials,Basics of Programming,2
+100197,9001,Programming for Everybody,Basics of Programming,2
+100197,9014,Relational Databases,Basics of Programming,3
+100197,9031,ML-Data Science and Analytics,Basics of Programming,1
+100197,9044,Data Science  with Python,Basics of Programming,2
+100197,9057,Intro to Java Part 1,Basics of Programming,3
+100197,9061,IoT Sensors and Devices,Basics of Programming,1
+100197,9074,C Programming ,Basics of Programming,2
+100197,9087,Big Data Analytics,Basics of Programming,3
+100197,9104,UML Class Diagrams,Basics of Programming,1
+100198,9038,How to Code  Simple Data,Basics of Programming,1
+100198,9055,Linux Basics  The CLI,Basics of Programming,1
+100198,9063,Blockchain Basics,Basics of Programming,1
+100199,9039,Cybersecurity in the IoT,Basics of Programming,1
+100199,9056,Marketing Analytics and Sales,Basics of Programming,1
+100199,9064,Computer Vision Fundamentals,Basics of Programming,1
+100201,9005,Using Python for Research,Basics of Programming,1
+100201,9045,Computing in Python III  ,Basics of Programming,1
+100201,9049,AI Chatbots Programming,Basics of Programming,2
+100201,9096,C Programming Using Linux,Basics of Programming,1
+100201,9104,UML Class Diagrams,Basics of Programming,2
+100201,9109,Enabling Tech for Data Science,Basics of Programming,2
+100202,9040,Build your very first iOS app,Basics of Programming,1
+100202,9057,Intro to Java Part 1,Basics of Programming,1
+100202,9065,Intro to Cloud Computing,Basics of Programming,1
+100204,9002,Intro to Computer Science,Basics of Programming,2
+100204,9015,C Programming,Basics of Programming,3
+100204,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100204,9045,Computing in Python III  ,Basics of Programming,2
+100204,9058,Video game development,Basics of Programming,3
+100204,9062,Exploring GraphQL,Basics of Programming,1
+100204,9075,Algorithmic Design Techniques,Basics of Programming,2
+100204,9088,AI Applications with Watson,Basics of Programming,3
+100204,9105,Data Science and Simulations,Basics of Programming,1
+100205,9006,Introduction to Linux,Basics of Programming,1
+100205,9046,Software  Fundamentals,Basics of Programming,1
+100205,9050,Computing in Python IV ,Basics of Programming,2
+100205,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100205,9105,Data Science and Simulations,Basics of Programming,2
+100205,9110,Introduction to Cloud Foundry,Basics of Programming,2
+100207,9007,Procedural Programming,Basics of Programming,1
+100207,9047,Foundations of Data Structures,Basics of Programming,1
+100207,9051,Software Engineering ,Basics of Programming,2
+100207,9098,Fundamentals of Java EE ,Basics of Programming,1
+100207,9106,Programming for Data Science,Basics of Programming,2
+100207,9111,Cloud Computing Enterprise,Basics of Programming,2
+100208,9041,Object-Oriented Programming,Basics of Programming,1
+100208,9066,Intro to DevOps and SRE,Basics of Programming,1
+100208,9076,Algorithm Design and Analysis,Basics of Programming,1
+100212,9042,Introduction to Jenkins,Basics of Programming,1
+100212,9067,Network and Security,Basics of Programming,1
+100212,9077,Human-Computer Interaction I,Basics of Programming,1
+100213,9008,Basics of Programming,Basics of Programming,1
+100213,9048,IoT - Software Integration,Basics of Programming,1
+100213,9052,Computer Hardware and OS,Basics of Programming,2
+100213,9099,Embedded Systems ,Basics of Programming,1
+100213,9107,Building a Cybersecurity Toolkit,Basics of Programming,2
+100213,9112,How to Code  Complex Data,Basics of Programming,2
+100214,9043,Computer Graphics,Basics of Programming,1
+100214,9068,Data Structures Fundamentals,Basics of Programming,1
+100214,9078,Mining Massive Datasets,Basics of Programming,1
+100215,9003,Intro to AI with Python,Basics of Programming,2
+100215,9016,Programming with JavaScript,Basics of Programming,3
+100215,9033,Machine Learning,Basics of Programming,1
+100215,9046,Software  Fundamentals,Basics of Programming,2
+100215,9059,DS and Software Design,Basics of Programming,3
+100215,9063,Blockchain Basics,Basics of Programming,1
+100215,9076,Algorithm Design and Analysis,Basics of Programming,2
+100215,9089,Building Containerized Apps,Basics of Programming,3
+100215,9106,Programming for Data Science,Basics of Programming,1
+100216,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100216,9049,AI Chatbots Programming,Basics of Programming,1
+100216,9053,HTML5 Apps and Games,Basics of Programming,2
+100216,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,1
+100216,9108,Embedded Systems Essentials,Basics of Programming,2
+100216,9113,Cybersecurity Career Path,Basics of Programming,2
+100219,9044,Data Science  with Python,Basics of Programming,1
+100219,9069,Unlocking Info Security  Part II,Basics of Programming,1
+100219,9079,Implementation of DS,Basics of Programming,1
+100220,9045,Computing in Python III  ,Basics of Programming,1
+100220,9070,Animation and CGI Motion,Basics of Programming,1
+100220,9080,Big Data Fundamentals,Basics of Programming,1
+100221,9046,Software  Fundamentals,Basics of Programming,1
+100221,9071,IT Foundations,Basics of Programming,1
+100221,9081,C Programming  Pointers,Basics of Programming,1
+100224,9010,Computer Science 101,Basics of Programming,1
+100224,9050,Computing in Python IV ,Basics of Programming,1
+100224,9054,MATLAB for Beginners,Basics of Programming,2
+100224,9101,Amazon SageMaker ,Basics of Programming,1
+100224,9109,Enabling Tech for Data Science,Basics of Programming,2
+100224,9114,Databases Modeling,Basics of Programming,2
+100225,9004,Web Programming with Python,Basics of Programming,2
+100225,9017,Computer Science for Business,Basics of Programming,3
+100225,9034,Fundamentals - Red Hat,Basics of Programming,1
+100225,9047,Foundations of Data Structures,Basics of Programming,2
+100225,9060,Cybersecurity Infrastructure,Basics of Programming,3
+100225,9064,Computer Vision Fundamentals,Basics of Programming,1
+100225,9077,Human-Computer Interaction I,Basics of Programming,2
+100225,9090,Open Source Networking,Basics of Programming,3
+100225,9107,Building a Cybersecurity Toolkit,Basics of Programming,1
+100227,9005,Using Python for Research,Basics of Programming,2
+100227,9018,Artificial Intelligence (AI),Basics of Programming,3
+100227,9035,Algorithms,Basics of Programming,1
+100227,9048,IoT - Software Integration,Basics of Programming,2
+100227,9061,IoT Sensors and Devices,Basics of Programming,3
+100227,9065,Intro to Cloud Computing,Basics of Programming,1
+100227,9078,Mining Massive Datasets,Basics of Programming,2
+100227,9091,Deep Learning Essentials,Basics of Programming,3
+100227,9108,Embedded Systems Essentials,Basics of Programming,1
+100230,9006,Introduction to Linux,Basics of Programming,2
+100230,9019,Programming Basics,Basics of Programming,3
+100230,9036,Python- Control Structures,Basics of Programming,1
+100230,9049,AI Chatbots Programming,Basics of Programming,2
+100230,9062,Exploring GraphQL,Basics of Programming,3
+100230,9066,Intro to DevOps and SRE,Basics of Programming,1
+100230,9079,Implementation of DS,Basics of Programming,2
+100230,9092,Migrating to the AWS Cloud,Basics of Programming,3
+100230,9109,Enabling Tech for Data Science,Basics of Programming,1
+100231,9011,AI for Everyone: Basics,Basics of Programming,1
+100231,9051,Software Engineering ,Basics of Programming,1
+100231,9055,Linux Basics  The CLI,Basics of Programming,2
+100231,9102,Algorithmics with Python,Basics of Programming,1
+100231,9110,Introduction to Cloud Foundry,Basics of Programming,2
+100231,9115,Object-Oriented Design,Basics of Programming,2
+100232,9006,Introduction to Linux,Basics of Programming,1
+100232,9072,Algorithms  Design Part 2,Basics of Programming,1
+100232,9082,IoT Programming and Big Data,Basics of Programming,1
+100233,9007,Procedural Programming,Basics of Programming,1
+100233,9073,Automata Theory,Basics of Programming,1
+100233,9083,AWS - Cloud Security,Basics of Programming,1
+100234,9007,Procedural Programming,Basics of Programming,2
+100234,9020,HTML Coding,Basics of Programming,3
+100234,9037,Embedded Microcontrollers,Basics of Programming,1
+100234,9050,Computing in Python IV ,Basics of Programming,2
+100234,9063,Blockchain Basics,Basics of Programming,3
+100234,9067,Network and Security,Basics of Programming,1
+100234,9080,Big Data Fundamentals,Basics of Programming,2
+100234,9093,IoT Networks and Protocols,Basics of Programming,3
+100234,9110,Introduction to Cloud Foundry,Basics of Programming,1
+100236,9012,Machine Learning with Python,Basics of Programming,1
+100236,9039,Cybersecurity in the IoT,Basics of Programming,2
+100236,9052,Computer Hardware and OS,Basics of Programming,1
+100236,9056,Marketing Analytics and Sales,Basics of Programming,2
+100236,9103,Intro to Java Programming 2,Basics of Programming,1
+100236,9111,Cloud Computing Enterprise,Basics of Programming,2
+100238,9008,Basics of Programming,Basics of Programming,1
+100238,9074,C Programming ,Basics of Programming,1
+100238,9084,Agile Software Development,Basics of Programming,1
+100239,9008,Basics of Programming,Basics of Programming,2
+100239,9021,Algorithms: Design Analysis 1,Basics of Programming,3
+100239,9038,How to Code  Simple Data,Basics of Programming,1
+100239,9051,Software Engineering ,Basics of Programming,2
+100239,9064,Computer Vision Fundamentals,Basics of Programming,3
+100239,9068,Data Structures Fundamentals,Basics of Programming,1
+100239,9081,C Programming  Pointers,Basics of Programming,2
+100239,9094,Automated Software Testing,Basics of Programming,3
+100239,9111,Cloud Computing Enterprise,Basics of Programming,1
+100241,9013,JavaScript Introduction,Basics of Programming,1
+100241,9040,Build your very first iOS app,Basics of Programming,2
+100241,9053,HTML5 Apps and Games,Basics of Programming,1
+100241,9057,Intro to Java Part 1,Basics of Programming,2
+100241,9104,UML Class Diagrams,Basics of Programming,1
+100241,9112,How to Code  Complex Data,Basics of Programming,2
+100242,9009,HTML5 and CSS Fundamentals,Basics of Programming,2
+100242,9022,CSS Basics,Basics of Programming,3
+100242,9039,Cybersecurity in the IoT,Basics of Programming,1
+100242,9052,Computer Hardware and OS,Basics of Programming,2
+100242,9065,Intro to Cloud Computing,Basics of Programming,3
+100242,9069,Unlocking Info Security  Part II,Basics of Programming,1
+100242,9082,IoT Programming and Big Data,Basics of Programming,2
+100242,9095,Databases Topics in SQL,Basics of Programming,3
+100242,9112,How to Code  Complex Data,Basics of Programming,1
+100243,9010,Computer Science 101,Basics of Programming,2
+100243,9023,Unlocking Info Security 1,Basics of Programming,3
+100243,9040,Build your very first iOS app,Basics of Programming,1
+100243,9053,HTML5 Apps and Games,Basics of Programming,2
+100243,9066,Intro to DevOps and SRE,Basics of Programming,3
+100243,9070,Animation and CGI Motion,Basics of Programming,1
+100243,9083,AWS - Cloud Security,Basics of Programming,2
+100243,9096,C Programming Using Linux,Basics of Programming,3
+100243,9113,Cybersecurity Career Path,Basics of Programming,1
+100245,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100245,9075,Algorithmic Design Techniques,Basics of Programming,1
+100245,9085,Intro to Database Queries,Basics of Programming,1
+100247,9010,Computer Science 101,Basics of Programming,1
+100247,9076,Algorithm Design and Analysis,Basics of Programming,1
+100247,9086,IoT System Architecture ,Basics of Programming,1
+100248,9014,Relational Databases,Basics of Programming,1
+100248,9041,Object-Oriented Programming,Basics of Programming,2
+100248,9054,MATLAB for Beginners,Basics of Programming,1
+100248,9058,Video game development,Basics of Programming,2
+100248,9105,Data Science and Simulations,Basics of Programming,1
+100248,9113,Cybersecurity Career Path,Basics of Programming,2
+100250,9011,AI for Everyone: Basics,Basics of Programming,2
+100250,9024,Introduction to Cybersecurity,Basics of Programming,3
+100250,9041,Object-Oriented Programming,Basics of Programming,1
+100250,9054,MATLAB for Beginners,Basics of Programming,2
+100250,9067,Network and Security,Basics of Programming,3
+100250,9071,IT Foundations,Basics of Programming,1
+100250,9084,Agile Software Development,Basics of Programming,2
+100250,9097,Cybersecurity  The CISO's View,Basics of Programming,3
+100250,9114,Databases Modeling,Basics of Programming,1
+100251,9015,C Programming,Basics of Programming,1
+100251,9042,Introduction to Jenkins,Basics of Programming,2
+100251,9055,Linux Basics  The CLI,Basics of Programming,1
+100251,9059,DS and Software Design,Basics of Programming,2
+100251,9106,Programming for Data Science,Basics of Programming,1
+100251,9114,Databases Modeling,Basics of Programming,2
+100253,9011,AI for Everyone: Basics,Basics of Programming,1
+100253,9077,Human-Computer Interaction I,Basics of Programming,1
+100253,9087,Big Data Analytics,Basics of Programming,1
+100257,9012,Machine Learning with Python,Basics of Programming,2
+100257,9025,Python Data Structures,Basics of Programming,3
+100257,9042,Introduction to Jenkins,Basics of Programming,1
+100257,9055,Linux Basics  The CLI,Basics of Programming,2
+100257,9068,Data Structures Fundamentals,Basics of Programming,3
+100257,9072,Algorithms  Design Part 2,Basics of Programming,1
+100257,9085,Intro to Database Queries,Basics of Programming,2
+100257,9098,Fundamentals of Java EE ,Basics of Programming,3
+100257,9115,Object-Oriented Design,Basics of Programming,1
+100258,9013,JavaScript Introduction,Basics of Programming,2
+100258,9026,Intro to Internet of Things (IoT),Basics of Programming,3
+100258,9043,Computer Graphics,Basics of Programming,1
+100258,9056,Marketing Analytics and Sales,Basics of Programming,2
+100258,9069,Unlocking Info Security  Part II,Basics of Programming,3
+100258,9073,Automata Theory,Basics of Programming,1
+100258,9086,IoT System Architecture ,Basics of Programming,2
+100258,9099,Embedded Systems ,Basics of Programming,3
+100258,9116,Scripting and Programming,Basics of Programming,1
+100259,9016,Programming with JavaScript,Basics of Programming,1
+100259,9043,Computer Graphics,Basics of Programming,2
+100259,9056,Marketing Analytics and Sales,Basics of Programming,1
+100259,9060,Cybersecurity Infrastructure,Basics of Programming,2
+100259,9107,Building a Cybersecurity Toolkit,Basics of Programming,1
+100259,9115,Object-Oriented Design,Basics of Programming,2
+100260,9017,Computer Science for Business,Basics of Programming,1
+100260,9044,Data Science  with Python,Basics of Programming,2
+100260,9057,Intro to Java Part 1,Basics of Programming,1
+100260,9061,IoT Sensors and Devices,Basics of Programming,2
+100260,9108,Embedded Systems Essentials,Basics of Programming,1
+100260,9116,Scripting and Programming,Basics of Programming,2
+100261,9001,Programming for Everybody,Basics of Programming,1
+100261,9014,Relational Databases,Basics of Programming,2
+100261,9027,C Programming: Basics,Basics of Programming,3
+100261,9044,Data Science  with Python,Basics of Programming,1
+100261,9057,Intro to Java Part 1,Basics of Programming,2
+100261,9070,Animation and CGI Motion,Basics of Programming,3
+100261,9074,C Programming ,Basics of Programming,1
+100261,9087,Big Data Analytics,Basics of Programming,2
+100261,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,3
+100262,9007,Procedural Programming,Basics of Programming,2
+100262,9018,Artificial Intelligence (AI),Basics of Programming,1
+100262,9045,Computing in Python III  ,Basics of Programming,2
+100262,9058,Video game development,Basics of Programming,1
+100262,9062,Exploring GraphQL,Basics of Programming,2
+100262,9109,Enabling Tech for Data Science,Basics of Programming,1
+100263,9008,Basics of Programming,Basics of Programming,2
+100263,9019,Programming Basics,Basics of Programming,1
+100263,9046,Software  Fundamentals,Basics of Programming,2
+100263,9059,DS and Software Design,Basics of Programming,1
+100263,9063,Blockchain Basics,Basics of Programming,2
+100263,9110,Introduction to Cloud Foundry,Basics of Programming,1
+100265,9012,Machine Learning with Python,Basics of Programming,1
+100265,9078,Mining Massive Datasets,Basics of Programming,1
+100265,9088,AI Applications with Watson,Basics of Programming,1
+100266,9013,JavaScript Introduction,Basics of Programming,1
+100266,9079,Implementation of DS,Basics of Programming,1
+100266,9089,Building Containerized Apps,Basics of Programming,1
+100267,9002,Intro to Computer Science,Basics of Programming,1
+100267,9015,C Programming,Basics of Programming,2
+100267,9028,Introduction to Networking,Basics of Programming,3
+100267,9045,Computing in Python III  ,Basics of Programming,1
+100267,9058,Video game development,Basics of Programming,2
+100267,9071,IT Foundations,Basics of Programming,3
+100267,9075,Algorithmic Design Techniques,Basics of Programming,1
+100267,9088,AI Applications with Watson,Basics of Programming,2
+100267,9101,Amazon SageMaker ,Basics of Programming,3
+100269,9009,HTML5 and CSS Fundamentals,Basics of Programming,2
+100269,9020,HTML Coding,Basics of Programming,1
+100269,9047,Foundations of Data Structures,Basics of Programming,2
+100269,9060,Cybersecurity Infrastructure,Basics of Programming,1
+100269,9064,Computer Vision Fundamentals,Basics of Programming,2
+100269,9111,Cloud Computing Enterprise,Basics of Programming,1
+100270,9003,Intro to AI with Python,Basics of Programming,1
+100270,9016,Programming with JavaScript,Basics of Programming,2
+100270,9029,Intro to coding in Java,Basics of Programming,3
+100270,9046,Software  Fundamentals,Basics of Programming,1
+100270,9059,DS and Software Design,Basics of Programming,2
+100270,9072,Algorithms  Design Part 2,Basics of Programming,3
+100270,9076,Algorithm Design and Analysis,Basics of Programming,1
+100270,9089,Building Containerized Apps,Basics of Programming,2
+100270,9102,Algorithmics with Python,Basics of Programming,3
+100271,9004,Web Programming with Python,Basics of Programming,1
+100271,9017,Computer Science for Business,Basics of Programming,2
+100271,9030,Data Science and Analytics,Basics of Programming,3
+100271,9047,Foundations of Data Structures,Basics of Programming,1
+100271,9060,Cybersecurity Infrastructure,Basics of Programming,2
+100271,9073,Automata Theory,Basics of Programming,3
+100271,9077,Human-Computer Interaction I,Basics of Programming,1
+100271,9090,Open Source Networking,Basics of Programming,2
+100271,9103,Intro to Java Programming 2,Basics of Programming,3
+100272,9005,Using Python for Research,Basics of Programming,1
+100272,9018,Artificial Intelligence (AI),Basics of Programming,2
+100272,9031,ML-Data Science and Analytics,Basics of Programming,3
+100272,9048,IoT - Software Integration,Basics of Programming,1
+100272,9061,IoT Sensors and Devices,Basics of Programming,2
+100272,9074,C Programming ,Basics of Programming,3
+100272,9078,Mining Massive Datasets,Basics of Programming,1
+100272,9091,Deep Learning Essentials,Basics of Programming,2
+100272,9104,UML Class Diagrams,Basics of Programming,3
+100273,9006,Introduction to Linux,Basics of Programming,1
+100273,9019,Programming Basics,Basics of Programming,2
+100273,9032,Intro to Cloud Infrastructure,Basics of Programming,3
+100273,9049,AI Chatbots Programming,Basics of Programming,1
+100273,9062,Exploring GraphQL,Basics of Programming,2
+100273,9075,Algorithmic Design Techniques,Basics of Programming,3
+100273,9079,Implementation of DS,Basics of Programming,1
+100273,9092,Migrating to the AWS Cloud,Basics of Programming,2
+100273,9105,Data Science and Simulations,Basics of Programming,3
+100274,9014,Relational Databases,Basics of Programming,1
+100274,9080,Big Data Fundamentals,Basics of Programming,1
+100274,9090,Open Source Networking,Basics of Programming,1
+100275,9007,Procedural Programming,Basics of Programming,1
+100275,9020,HTML Coding,Basics of Programming,2
+100275,9033,Machine Learning,Basics of Programming,3
+100275,9050,Computing in Python IV ,Basics of Programming,1
+100275,9063,Blockchain Basics,Basics of Programming,2
+100275,9076,Algorithm Design and Analysis,Basics of Programming,3
+100275,9080,Big Data Fundamentals,Basics of Programming,1
+100275,9093,IoT Networks and Protocols,Basics of Programming,2
+100275,9106,Programming for Data Science,Basics of Programming,3
+100278,9010,Computer Science 101,Basics of Programming,2
+100278,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100278,9048,IoT - Software Integration,Basics of Programming,2
+100278,9061,IoT Sensors and Devices,Basics of Programming,1
+100278,9065,Intro to Cloud Computing,Basics of Programming,2
+100278,9112,How to Code  Complex Data,Basics of Programming,1
+100280,9008,Basics of Programming,Basics of Programming,1
+100280,9021,Algorithms: Design Analysis 1,Basics of Programming,2
+100280,9034,Fundamentals - Red Hat,Basics of Programming,3
+100280,9051,Software Engineering ,Basics of Programming,1
+100280,9064,Computer Vision Fundamentals,Basics of Programming,2
+100280,9077,Human-Computer Interaction I,Basics of Programming,3
+100280,9081,C Programming  Pointers,Basics of Programming,1
+100280,9094,Automated Software Testing,Basics of Programming,2
+100280,9107,Building a Cybersecurity Toolkit,Basics of Programming,3
+100281,9011,AI for Everyone: Basics,Basics of Programming,2
+100281,9022,CSS Basics,Basics of Programming,1
+100281,9049,AI Chatbots Programming,Basics of Programming,2
+100281,9062,Exploring GraphQL,Basics of Programming,1
+100281,9066,Intro to DevOps and SRE,Basics of Programming,2
+100281,9113,Cybersecurity Career Path,Basics of Programming,1
+100283,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100283,9022,CSS Basics,Basics of Programming,2
+100283,9035,Algorithms,Basics of Programming,3
+100283,9052,Computer Hardware and OS,Basics of Programming,1
+100283,9065,Intro to Cloud Computing,Basics of Programming,2
+100283,9078,Mining Massive Datasets,Basics of Programming,3
+100283,9082,IoT Programming and Big Data,Basics of Programming,1
+100283,9095,Databases Topics in SQL,Basics of Programming,2
+100283,9108,Embedded Systems Essentials,Basics of Programming,3
+100285,9015,C Programming,Basics of Programming,1
+100285,9081,C Programming  Pointers,Basics of Programming,1
+100285,9091,Deep Learning Essentials,Basics of Programming,1
+100288,9012,Machine Learning with Python,Basics of Programming,2
+100288,9023,Unlocking Info Security 1,Basics of Programming,1
+100288,9050,Computing in Python IV ,Basics of Programming,2
+100288,9063,Blockchain Basics,Basics of Programming,1
+100288,9067,Network and Security,Basics of Programming,2
+100288,9114,Databases Modeling,Basics of Programming,1
+100289,9013,JavaScript Introduction,Basics of Programming,2
+100289,9024,Introduction to Cybersecurity,Basics of Programming,1
+100289,9051,Software Engineering ,Basics of Programming,2
+100289,9064,Computer Vision Fundamentals,Basics of Programming,1
+100289,9068,Data Structures Fundamentals,Basics of Programming,2
+100289,9115,Object-Oriented Design,Basics of Programming,1
+100291,9010,Computer Science 101,Basics of Programming,1
+100291,9023,Unlocking Info Security 1,Basics of Programming,2
+100291,9036,Python- Control Structures,Basics of Programming,3
+100291,9053,HTML5 Apps and Games,Basics of Programming,1
+100291,9066,Intro to DevOps and SRE,Basics of Programming,2
+100291,9079,Implementation of DS,Basics of Programming,3
+100291,9083,AWS - Cloud Security,Basics of Programming,1
+100291,9096,C Programming Using Linux,Basics of Programming,2
+100291,9109,Enabling Tech for Data Science,Basics of Programming,3
+100292,9016,Programming with JavaScript,Basics of Programming,1
+100292,9082,IoT Programming and Big Data,Basics of Programming,1
+100292,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100293,9014,Relational Databases,Basics of Programming,2
+100293,9025,Python Data Structures,Basics of Programming,1
+100293,9052,Computer Hardware and OS,Basics of Programming,2
+100293,9065,Intro to Cloud Computing,Basics of Programming,1
+100293,9069,Unlocking Info Security  Part II,Basics of Programming,2
+100293,9116,Scripting and Programming,Basics of Programming,1
+100294,9017,Computer Science for Business,Basics of Programming,1
+100294,9083,AWS - Cloud Security,Basics of Programming,1
+100294,9093,IoT Networks and Protocols,Basics of Programming,1
+100295,9011,AI for Everyone: Basics,Basics of Programming,1
+100295,9024,Introduction to Cybersecurity,Basics of Programming,2
+100295,9037,Embedded Microcontrollers,Basics of Programming,3
+100295,9054,MATLAB for Beginners,Basics of Programming,1
+100295,9067,Network and Security,Basics of Programming,2
+100295,9080,Big Data Fundamentals,Basics of Programming,3
+100295,9084,Agile Software Development,Basics of Programming,1
+100295,9097,Cybersecurity  The CISO's View,Basics of Programming,2
+100295,9110,Introduction to Cloud Foundry,Basics of Programming,3
+100297,9003,Intro to AI with Python,Basics of Programming,1
+100297,9015,C Programming,Basics of Programming,2
+100297,9026,Intro to Internet of Things (IoT),Basics of Programming,1
+100297,9053,HTML5 Apps and Games,Basics of Programming,2
+100297,9066,Intro to DevOps and SRE,Basics of Programming,1
+100297,9070,Animation and CGI Motion,Basics of Programming,2
+100298,9012,Machine Learning with Python,Basics of Programming,1
+100298,9025,Python Data Structures,Basics of Programming,2
+100298,9038,How to Code  Simple Data,Basics of Programming,3
+100298,9055,Linux Basics  The CLI,Basics of Programming,1
+100298,9068,Data Structures Fundamentals,Basics of Programming,2
+100298,9081,C Programming  Pointers,Basics of Programming,3
+100298,9085,Intro to Database Queries,Basics of Programming,1
+100298,9098,Fundamentals of Java EE ,Basics of Programming,2
+100298,9111,Cloud Computing Enterprise,Basics of Programming,3
+100299,9018,Artificial Intelligence (AI),Basics of Programming,1
+100299,9084,Agile Software Development,Basics of Programming,1
+100299,9094,Automated Software Testing,Basics of Programming,1
+100300,9004,Web Programming with Python,Basics of Programming,1
+100300,9016,Programming with JavaScript,Basics of Programming,2
+100300,9027,C Programming: Basics,Basics of Programming,1
+100300,9054,MATLAB for Beginners,Basics of Programming,2
+100300,9067,Network and Security,Basics of Programming,1
+100300,9071,IT Foundations,Basics of Programming,2
+100301,9013,JavaScript Introduction,Basics of Programming,1
+100301,9026,Intro to Internet of Things (IoT),Basics of Programming,2
+100301,9039,Cybersecurity in the IoT,Basics of Programming,3
+100301,9056,Marketing Analytics and Sales,Basics of Programming,1
+100301,9069,Unlocking Info Security  Part II,Basics of Programming,2
+100301,9082,IoT Programming and Big Data,Basics of Programming,3
+100301,9086,IoT System Architecture ,Basics of Programming,1
+100301,9099,Embedded Systems ,Basics of Programming,2
+100301,9112,How to Code  Complex Data,Basics of Programming,3
+100302,9005,Using Python for Research,Basics of Programming,1
+100302,9017,Computer Science for Business,Basics of Programming,2
+100302,9028,Introduction to Networking,Basics of Programming,1
+100302,9055,Linux Basics  The CLI,Basics of Programming,2
+100302,9068,Data Structures Fundamentals,Basics of Programming,1
+100302,9072,Algorithms  Design Part 2,Basics of Programming,2
+100303,9006,Introduction to Linux,Basics of Programming,1
+100303,9018,Artificial Intelligence (AI),Basics of Programming,2
+100303,9029,Intro to coding in Java,Basics of Programming,1
+100303,9056,Marketing Analytics and Sales,Basics of Programming,2
+100303,9069,Unlocking Info Security  Part II,Basics of Programming,1
+100303,9073,Automata Theory,Basics of Programming,2
+100304,9014,Relational Databases,Basics of Programming,1
+100304,9027,C Programming: Basics,Basics of Programming,2
+100304,9040,Build your very first iOS app,Basics of Programming,3
+100304,9057,Intro to Java Part 1,Basics of Programming,1
+100304,9070,Animation and CGI Motion,Basics of Programming,2
+100304,9083,AWS - Cloud Security,Basics of Programming,3
+100304,9087,Big Data Analytics,Basics of Programming,1
+100304,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,2
+100304,9113,Cybersecurity Career Path,Basics of Programming,3
+100306,9007,Procedural Programming,Basics of Programming,1
+100306,9019,Programming Basics,Basics of Programming,2
+100306,9030,Data Science and Analytics,Basics of Programming,1
+100306,9057,Intro to Java Part 1,Basics of Programming,2
+100306,9070,Animation and CGI Motion,Basics of Programming,1
+100306,9074,C Programming ,Basics of Programming,2
+100307,9008,Basics of Programming,Basics of Programming,1
+100307,9020,HTML Coding,Basics of Programming,2
+100307,9031,ML-Data Science and Analytics,Basics of Programming,1
+100307,9058,Video game development,Basics of Programming,2
+100307,9071,IT Foundations,Basics of Programming,1
+100307,9075,Algorithmic Design Techniques,Basics of Programming,2
+100308,9015,C Programming,Basics of Programming,1
+100308,9028,Introduction to Networking,Basics of Programming,2
+100308,9041,Object-Oriented Programming,Basics of Programming,3
+100308,9058,Video game development,Basics of Programming,1
+100308,9071,IT Foundations,Basics of Programming,2
+100308,9084,Agile Software Development,Basics of Programming,3
+100308,9088,AI Applications with Watson,Basics of Programming,1
+100308,9101,Amazon SageMaker ,Basics of Programming,2
+100308,9114,Databases Modeling,Basics of Programming,3
+100309,9016,Programming with JavaScript,Basics of Programming,1
+100309,9029,Intro to coding in Java,Basics of Programming,2
+100309,9042,Introduction to Jenkins,Basics of Programming,3
+100309,9059,DS and Software Design,Basics of Programming,1
+100309,9072,Algorithms  Design Part 2,Basics of Programming,2
+100309,9085,Intro to Database Queries,Basics of Programming,3
+100309,9089,Building Containerized Apps,Basics of Programming,1
+100309,9102,Algorithmics with Python,Basics of Programming,2
+100309,9115,Object-Oriented Design,Basics of Programming,3
+100311,9019,Programming Basics,Basics of Programming,1
+100311,9085,Intro to Database Queries,Basics of Programming,1
+100311,9095,Databases Topics in SQL,Basics of Programming,1
+100314,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100314,9021,Algorithms: Design Analysis 1,Basics of Programming,2
+100314,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100314,9059,DS and Software Design,Basics of Programming,2
+100314,9072,Algorithms  Design Part 2,Basics of Programming,1
+100314,9076,Algorithm Design and Analysis,Basics of Programming,2
+100315,9010,Computer Science 101,Basics of Programming,1
+100315,9022,CSS Basics,Basics of Programming,2
+100315,9033,Machine Learning,Basics of Programming,1
+100315,9060,Cybersecurity Infrastructure,Basics of Programming,2
+100315,9073,Automata Theory,Basics of Programming,1
+100315,9077,Human-Computer Interaction I,Basics of Programming,2
+100316,9017,Computer Science for Business,Basics of Programming,1
+100316,9030,Data Science and Analytics,Basics of Programming,2
+100316,9043,Computer Graphics,Basics of Programming,3
+100316,9060,Cybersecurity Infrastructure,Basics of Programming,1
+100316,9073,Automata Theory,Basics of Programming,2
+100316,9086,IoT System Architecture ,Basics of Programming,3
+100316,9090,Open Source Networking,Basics of Programming,1
+100316,9103,Intro to Java Programming 2,Basics of Programming,2
+100316,9116,Scripting and Programming,Basics of Programming,3
+100317,9020,HTML Coding,Basics of Programming,1
+100317,9086,IoT System Architecture ,Basics of Programming,1
+100317,9096,C Programming Using Linux,Basics of Programming,1
+100319,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100319,9087,Big Data Analytics,Basics of Programming,1
+100319,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100320,9011,AI for Everyone: Basics,Basics of Programming,1
+100320,9023,Unlocking Info Security 1,Basics of Programming,2
+100320,9034,Fundamentals - Red Hat,Basics of Programming,1
+100320,9061,IoT Sensors and Devices,Basics of Programming,2
+100320,9074,C Programming ,Basics of Programming,1
+100320,9078,Mining Massive Datasets,Basics of Programming,2
+100321,9012,Machine Learning with Python,Basics of Programming,1
+100321,9024,Introduction to Cybersecurity,Basics of Programming,2
+100321,9035,Algorithms,Basics of Programming,1
+100321,9062,Exploring GraphQL,Basics of Programming,2
+100321,9075,Algorithmic Design Techniques,Basics of Programming,1
+100321,9079,Implementation of DS,Basics of Programming,2
+100323,9001,Programming for Everybody,Basics of Programming,3
+100323,9018,Artificial Intelligence (AI),Basics of Programming,1
+100323,9031,ML-Data Science and Analytics,Basics of Programming,2
+100323,9044,Data Science  with Python,Basics of Programming,3
+100323,9061,IoT Sensors and Devices,Basics of Programming,1
+100323,9074,C Programming ,Basics of Programming,2
+100323,9087,Big Data Analytics,Basics of Programming,3
+100323,9091,Deep Learning Essentials,Basics of Programming,1
+100323,9104,UML Class Diagrams,Basics of Programming,2
+100325,9002,Intro to Computer Science,Basics of Programming,3
+100325,9019,Programming Basics,Basics of Programming,1
+100325,9032,Intro to Cloud Infrastructure,Basics of Programming,2
+100325,9045,Computing in Python III  ,Basics of Programming,3
+100325,9062,Exploring GraphQL,Basics of Programming,1
+100325,9075,Algorithmic Design Techniques,Basics of Programming,2
+100325,9088,AI Applications with Watson,Basics of Programming,3
+100325,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100325,9105,Data Science and Simulations,Basics of Programming,2
+100327,9022,CSS Basics,Basics of Programming,1
+100327,9088,AI Applications with Watson,Basics of Programming,1
+100327,9098,Fundamentals of Java EE ,Basics of Programming,1
+100328,9013,JavaScript Introduction,Basics of Programming,1
+100328,9025,Python Data Structures,Basics of Programming,2
+100328,9036,Python- Control Structures,Basics of Programming,1
+100328,9063,Blockchain Basics,Basics of Programming,2
+100328,9076,Algorithm Design and Analysis,Basics of Programming,1
+100328,9080,Big Data Fundamentals,Basics of Programming,2
+100329,9023,Unlocking Info Security 1,Basics of Programming,1
+100329,9089,Building Containerized Apps,Basics of Programming,1
+100329,9099,Embedded Systems ,Basics of Programming,1
+100330,9014,Relational Databases,Basics of Programming,1
+100330,9026,Intro to Internet of Things (IoT),Basics of Programming,2
+100330,9037,Embedded Microcontrollers,Basics of Programming,1
+100330,9064,Computer Vision Fundamentals,Basics of Programming,2
+100330,9077,Human-Computer Interaction I,Basics of Programming,1
+100330,9081,C Programming  Pointers,Basics of Programming,2
+100331,9015,C Programming,Basics of Programming,1
+100331,9027,C Programming: Basics,Basics of Programming,2
+100331,9038,How to Code  Simple Data,Basics of Programming,1
+100331,9065,Intro to Cloud Computing,Basics of Programming,2
+100331,9078,Mining Massive Datasets,Basics of Programming,1
+100331,9082,IoT Programming and Big Data,Basics of Programming,2
+100332,9016,Programming with JavaScript,Basics of Programming,1
+100332,9028,Introduction to Networking,Basics of Programming,2
+100332,9039,Cybersecurity in the IoT,Basics of Programming,1
+100332,9066,Intro to DevOps and SRE,Basics of Programming,2
+100332,9079,Implementation of DS,Basics of Programming,1
+100332,9083,AWS - Cloud Security,Basics of Programming,2
+100334,9017,Computer Science for Business,Basics of Programming,1
+100334,9029,Intro to coding in Java,Basics of Programming,2
+100334,9040,Build your very first iOS app,Basics of Programming,1
+100334,9067,Network and Security,Basics of Programming,2
+100334,9080,Big Data Fundamentals,Basics of Programming,1
+100334,9084,Agile Software Development,Basics of Programming,2
+100335,9089,Building Containerized Apps,Basics of Programming,1
+100335,9090,Open Source Networking,Basics of Programming,1
+100335,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,1
+100336,9090,Open Source Networking,Basics of Programming,1
+100336,9091,Deep Learning Essentials,Basics of Programming,1
+100336,9101,Amazon SageMaker ,Basics of Programming,1
+100337,9018,Artificial Intelligence (AI),Basics of Programming,1
+100337,9030,Data Science and Analytics,Basics of Programming,2
+100337,9041,Object-Oriented Programming,Basics of Programming,1
+100337,9068,Data Structures Fundamentals,Basics of Programming,2
+100337,9081,C Programming  Pointers,Basics of Programming,1
+100337,9085,Intro to Database Queries,Basics of Programming,2
+100338,9003,Intro to AI with Python,Basics of Programming,3
+100338,9020,HTML Coding,Basics of Programming,1
+100338,9033,Machine Learning,Basics of Programming,2
+100338,9046,Software  Fundamentals,Basics of Programming,3
+100338,9063,Blockchain Basics,Basics of Programming,1
+100338,9076,Algorithm Design and Analysis,Basics of Programming,2
+100338,9089,Building Containerized Apps,Basics of Programming,3
+100338,9093,IoT Networks and Protocols,Basics of Programming,1
+100338,9106,Programming for Data Science,Basics of Programming,2
+100339,9019,Programming Basics,Basics of Programming,1
+100339,9031,ML-Data Science and Analytics,Basics of Programming,2
+100339,9042,Introduction to Jenkins,Basics of Programming,1
+100339,9069,Unlocking Info Security  Part II,Basics of Programming,2
+100339,9082,IoT Programming and Big Data,Basics of Programming,1
+100339,9086,IoT System Architecture ,Basics of Programming,2
+100340,9020,HTML Coding,Basics of Programming,1
+100340,9032,Intro to Cloud Infrastructure,Basics of Programming,2
+100340,9043,Computer Graphics,Basics of Programming,1
+100340,9070,Animation and CGI Motion,Basics of Programming,2
+100340,9083,AWS - Cloud Security,Basics of Programming,1
+100340,9087,Big Data Analytics,Basics of Programming,2
+100341,9091,Deep Learning Essentials,Basics of Programming,1
+100341,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100341,9102,Algorithmics with Python,Basics of Programming,1
+100342,9004,Web Programming with Python,Basics of Programming,3
+100342,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100342,9034,Fundamentals - Red Hat,Basics of Programming,2
+100342,9047,Foundations of Data Structures,Basics of Programming,3
+100342,9064,Computer Vision Fundamentals,Basics of Programming,1
+100342,9077,Human-Computer Interaction I,Basics of Programming,2
+100342,9090,Open Source Networking,Basics of Programming,3
+100342,9094,Automated Software Testing,Basics of Programming,1
+100342,9107,Building a Cybersecurity Toolkit,Basics of Programming,2
+100343,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100343,9033,Machine Learning,Basics of Programming,2
+100343,9044,Data Science  with Python,Basics of Programming,1
+100343,9071,IT Foundations,Basics of Programming,2
+100343,9084,Agile Software Development,Basics of Programming,1
+100343,9088,AI Applications with Watson,Basics of Programming,2
+100344,9022,CSS Basics,Basics of Programming,1
+100344,9034,Fundamentals - Red Hat,Basics of Programming,2
+100344,9045,Computing in Python III  ,Basics of Programming,1
+100344,9072,Algorithms  Design Part 2,Basics of Programming,2
+100344,9085,Intro to Database Queries,Basics of Programming,1
+100344,9089,Building Containerized Apps,Basics of Programming,2
+100345,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100345,9093,IoT Networks and Protocols,Basics of Programming,1
+100345,9103,Intro to Java Programming 2,Basics of Programming,1
+100346,9093,IoT Networks and Protocols,Basics of Programming,1
+100346,9094,Automated Software Testing,Basics of Programming,1
+100346,9104,UML Class Diagrams,Basics of Programming,1
+100348,9023,Unlocking Info Security 1,Basics of Programming,1
+100348,9035,Algorithms,Basics of Programming,2
+100348,9046,Software  Fundamentals,Basics of Programming,1
+100348,9073,Automata Theory,Basics of Programming,2
+100348,9086,IoT System Architecture ,Basics of Programming,1
+100348,9090,Open Source Networking,Basics of Programming,2
+100350,9024,Introduction to Cybersecurity,Basics of Programming,1
+100350,9036,Python- Control Structures,Basics of Programming,2
+100350,9047,Foundations of Data Structures,Basics of Programming,1
+100350,9074,C Programming ,Basics of Programming,2
+100350,9087,Big Data Analytics,Basics of Programming,1
+100350,9091,Deep Learning Essentials,Basics of Programming,2
+100352,9025,Python Data Structures,Basics of Programming,1
+100352,9037,Embedded Microcontrollers,Basics of Programming,2
+100352,9048,IoT - Software Integration,Basics of Programming,1
+100352,9075,Algorithmic Design Techniques,Basics of Programming,2
+100352,9088,AI Applications with Watson,Basics of Programming,1
+100352,9092,Migrating to the AWS Cloud,Basics of Programming,2
+100353,9094,Automated Software Testing,Basics of Programming,1
+100353,9095,Databases Topics in SQL,Basics of Programming,1
+100353,9105,Data Science and Simulations,Basics of Programming,1
+100354,9026,Intro to Internet of Things (IoT),Basics of Programming,1
+100354,9038,How to Code  Simple Data,Basics of Programming,2
+100354,9049,AI Chatbots Programming,Basics of Programming,1
+100354,9076,Algorithm Design and Analysis,Basics of Programming,2
+100354,9089,Building Containerized Apps,Basics of Programming,1
+100354,9093,IoT Networks and Protocols,Basics of Programming,2
+100356,9027,C Programming: Basics,Basics of Programming,1
+100356,9039,Cybersecurity in the IoT,Basics of Programming,2
+100356,9050,Computing in Python IV ,Basics of Programming,1
+100356,9077,Human-Computer Interaction I,Basics of Programming,2
+100356,9090,Open Source Networking,Basics of Programming,1
+100356,9094,Automated Software Testing,Basics of Programming,2
+100357,9028,Introduction to Networking,Basics of Programming,1
+100357,9040,Build your very first iOS app,Basics of Programming,2
+100357,9051,Software Engineering ,Basics of Programming,1
+100357,9078,Mining Massive Datasets,Basics of Programming,2
+100357,9091,Deep Learning Essentials,Basics of Programming,1
+100357,9095,Databases Topics in SQL,Basics of Programming,2
+100361,9095,Databases Topics in SQL,Basics of Programming,1
+100361,9096,C Programming Using Linux,Basics of Programming,1
+100361,9106,Programming for Data Science,Basics of Programming,1
+100362,9096,C Programming Using Linux,Basics of Programming,1
+100362,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100362,9107,Building a Cybersecurity Toolkit,Basics of Programming,1
+100363,9029,Intro to coding in Java,Basics of Programming,1
+100363,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100363,9108,Embedded Systems Essentials,Basics of Programming,1
+100365,9005,Using Python for Research,Basics of Programming,3
+100365,9022,CSS Basics,Basics of Programming,1
+100365,9035,Algorithms,Basics of Programming,2
+100365,9048,IoT - Software Integration,Basics of Programming,3
+100365,9065,Intro to Cloud Computing,Basics of Programming,1
+100365,9078,Mining Massive Datasets,Basics of Programming,2
+100365,9091,Deep Learning Essentials,Basics of Programming,3
+100365,9095,Databases Topics in SQL,Basics of Programming,1
+100365,9108,Embedded Systems Essentials,Basics of Programming,2
+100366,9030,Data Science and Analytics,Basics of Programming,1
+100366,9098,Fundamentals of Java EE ,Basics of Programming,1
+100366,9109,Enabling Tech for Data Science,Basics of Programming,1
+100368,9031,ML-Data Science and Analytics,Basics of Programming,1
+100368,9099,Embedded Systems ,Basics of Programming,1
+100368,9110,Introduction to Cloud Foundry,Basics of Programming,1
+100369,9006,Introduction to Linux,Basics of Programming,3
+100369,9023,Unlocking Info Security 1,Basics of Programming,1
+100369,9036,Python- Control Structures,Basics of Programming,2
+100369,9049,AI Chatbots Programming,Basics of Programming,3
+100369,9066,Intro to DevOps and SRE,Basics of Programming,1
+100369,9079,Implementation of DS,Basics of Programming,2
+100369,9092,Migrating to the AWS Cloud,Basics of Programming,3
+100369,9096,C Programming Using Linux,Basics of Programming,1
+100369,9109,Enabling Tech for Data Science,Basics of Programming,2
+100371,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100371,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,1
+100371,9111,Cloud Computing Enterprise,Basics of Programming,1
+100372,9033,Machine Learning,Basics of Programming,1
+100372,9101,Amazon SageMaker ,Basics of Programming,1
+100372,9112,How to Code  Complex Data,Basics of Programming,1
+100373,9029,Intro to coding in Java,Basics of Programming,1
+100373,9041,Object-Oriented Programming,Basics of Programming,2
+100373,9052,Computer Hardware and OS,Basics of Programming,1
+100373,9079,Implementation of DS,Basics of Programming,2
+100373,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100373,9096,C Programming Using Linux,Basics of Programming,2
+100376,9007,Procedural Programming,Basics of Programming,3
+100376,9024,Introduction to Cybersecurity,Basics of Programming,1
+100376,9037,Embedded Microcontrollers,Basics of Programming,2
+100376,9050,Computing in Python IV ,Basics of Programming,3
+100376,9067,Network and Security,Basics of Programming,1
+100376,9080,Big Data Fundamentals,Basics of Programming,2
+100376,9093,IoT Networks and Protocols,Basics of Programming,3
+100376,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100376,9110,Introduction to Cloud Foundry,Basics of Programming,2
+100377,9034,Fundamentals - Red Hat,Basics of Programming,1
+100377,9102,Algorithmics with Python,Basics of Programming,1
+100377,9113,Cybersecurity Career Path,Basics of Programming,1
+100378,9030,Data Science and Analytics,Basics of Programming,1
+100378,9042,Introduction to Jenkins,Basics of Programming,2
+100378,9053,HTML5 Apps and Games,Basics of Programming,1
+100378,9080,Big Data Fundamentals,Basics of Programming,2
+100378,9093,IoT Networks and Protocols,Basics of Programming,1
+100378,9097,Cybersecurity  The CISO's View,Basics of Programming,2
+100379,9008,Basics of Programming,Basics of Programming,3
+100379,9025,Python Data Structures,Basics of Programming,1
+100379,9038,How to Code  Simple Data,Basics of Programming,2
+100379,9051,Software Engineering ,Basics of Programming,3
+100379,9068,Data Structures Fundamentals,Basics of Programming,1
+100379,9081,C Programming  Pointers,Basics of Programming,2
+100379,9094,Automated Software Testing,Basics of Programming,3
+100379,9098,Fundamentals of Java EE ,Basics of Programming,1
+100379,9111,Cloud Computing Enterprise,Basics of Programming,2
+100380,9031,ML-Data Science and Analytics,Basics of Programming,1
+100380,9043,Computer Graphics,Basics of Programming,2
+100380,9054,MATLAB for Beginners,Basics of Programming,1
+100380,9081,C Programming  Pointers,Basics of Programming,2
+100380,9094,Automated Software Testing,Basics of Programming,1
+100380,9098,Fundamentals of Java EE ,Basics of Programming,2
+100381,9035,Algorithms,Basics of Programming,1
+100381,9103,Intro to Java Programming 2,Basics of Programming,1
+100381,9114,Databases Modeling,Basics of Programming,1
+100382,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100382,9044,Data Science  with Python,Basics of Programming,2
+100382,9055,Linux Basics  The CLI,Basics of Programming,1
+100382,9082,IoT Programming and Big Data,Basics of Programming,2
+100382,9095,Databases Topics in SQL,Basics of Programming,1
+100382,9099,Embedded Systems ,Basics of Programming,2
+100383,9033,Machine Learning,Basics of Programming,1
+100383,9045,Computing in Python III  ,Basics of Programming,2
+100383,9056,Marketing Analytics and Sales,Basics of Programming,1
+100383,9083,AWS - Cloud Security,Basics of Programming,2
+100383,9096,C Programming Using Linux,Basics of Programming,1
+100383,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,2
+100384,9009,HTML5 and CSS Fundamentals,Basics of Programming,3
+100384,9026,Intro to Internet of Things (IoT),Basics of Programming,1
+100384,9039,Cybersecurity in the IoT,Basics of Programming,2
+100384,9052,Computer Hardware and OS,Basics of Programming,3
+100384,9069,Unlocking Info Security  Part II,Basics of Programming,1
+100384,9082,IoT Programming and Big Data,Basics of Programming,2
+100384,9095,Databases Topics in SQL,Basics of Programming,3
+100384,9099,Embedded Systems ,Basics of Programming,1
+100384,9112,How to Code  Complex Data,Basics of Programming,2
+100385,9034,Fundamentals - Red Hat,Basics of Programming,1
+100385,9046,Software  Fundamentals,Basics of Programming,2
+100385,9057,Intro to Java Part 1,Basics of Programming,1
+100385,9084,Agile Software Development,Basics of Programming,2
+100385,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100385,9101,Amazon SageMaker ,Basics of Programming,2
+100386,9036,Python- Control Structures,Basics of Programming,1
+100386,9108,Embedded Systems Essentials,Basics of Programming,1
+100386,9115,Object-Oriented Design,Basics of Programming,1
+100387,9037,Embedded Microcontrollers,Basics of Programming,1
+100387,9109,Enabling Tech for Data Science,Basics of Programming,1
+100387,9116,Scripting and Programming,Basics of Programming,1
+100389,9038,How to Code  Simple Data,Basics of Programming,1
+100389,9053,HTML5 Apps and Games,Basics of Programming,1
+100389,9110,Introduction to Cloud Foundry,Basics of Programming,1
+100390,9001,Programming for Everybody,Basics of Programming,1
+100390,9054,MATLAB for Beginners,Basics of Programming,1
+100390,9111,Cloud Computing Enterprise,Basics of Programming,1
+100391,9002,Intro to Computer Science,Basics of Programming,1
+100391,9055,Linux Basics  The CLI,Basics of Programming,1
+100391,9112,How to Code  Complex Data,Basics of Programming,1
+100392,9035,Algorithms,Basics of Programming,1
+100392,9047,Foundations of Data Structures,Basics of Programming,2
+100392,9058,Video game development,Basics of Programming,1
+100392,9085,Intro to Database Queries,Basics of Programming,2
+100392,9098,Fundamentals of Java EE ,Basics of Programming,1
+100392,9102,Algorithmics with Python,Basics of Programming,2
+100394,9003,Intro to AI with Python,Basics of Programming,1
+100394,9056,Marketing Analytics and Sales,Basics of Programming,1
+100394,9113,Cybersecurity Career Path,Basics of Programming,1
+100395,9010,Computer Science 101,Basics of Programming,3
+100395,9027,C Programming: Basics,Basics of Programming,1
+100395,9040,Build your very first iOS app,Basics of Programming,2
+100395,9053,HTML5 Apps and Games,Basics of Programming,3
+100395,9070,Animation and CGI Motion,Basics of Programming,1
+100395,9083,AWS - Cloud Security,Basics of Programming,2
+100395,9096,C Programming Using Linux,Basics of Programming,3
+100395,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,1
+100395,9113,Cybersecurity Career Path,Basics of Programming,2
+100396,9036,Python- Control Structures,Basics of Programming,1
+100396,9048,IoT - Software Integration,Basics of Programming,2
+100396,9059,DS and Software Design,Basics of Programming,1
+100396,9086,IoT System Architecture ,Basics of Programming,2
+100396,9099,Embedded Systems ,Basics of Programming,1
+100396,9103,Intro to Java Programming 2,Basics of Programming,2
+100398,9004,Web Programming with Python,Basics of Programming,1
+100398,9057,Intro to Java Part 1,Basics of Programming,1
+100398,9114,Databases Modeling,Basics of Programming,1
+100399,9005,Using Python for Research,Basics of Programming,1
+100399,9058,Video game development,Basics of Programming,1
+100399,9115,Object-Oriented Design,Basics of Programming,1
+100400,9011,AI for Everyone: Basics,Basics of Programming,3
+100400,9028,Introduction to Networking,Basics of Programming,1
+100400,9041,Object-Oriented Programming,Basics of Programming,2
+100400,9054,MATLAB for Beginners,Basics of Programming,3
+100400,9071,IT Foundations,Basics of Programming,1
+100400,9084,Agile Software Development,Basics of Programming,2
+100400,9097,Cybersecurity  The CISO's View,Basics of Programming,3
+100400,9101,Amazon SageMaker ,Basics of Programming,1
+100400,9114,Databases Modeling,Basics of Programming,2
+100401,9012,Machine Learning with Python,Basics of Programming,3
+100401,9029,Intro to coding in Java,Basics of Programming,1
+100401,9042,Introduction to Jenkins,Basics of Programming,2
+100401,9055,Linux Basics  The CLI,Basics of Programming,3
+100401,9072,Algorithms  Design Part 2,Basics of Programming,1
+100401,9085,Intro to Database Queries,Basics of Programming,2
+100401,9098,Fundamentals of Java EE ,Basics of Programming,3
+100401,9102,Algorithmics with Python,Basics of Programming,1
+100401,9115,Object-Oriented Design,Basics of Programming,2
+100402,9013,JavaScript Introduction,Basics of Programming,3
+100402,9030,Data Science and Analytics,Basics of Programming,1
+100402,9043,Computer Graphics,Basics of Programming,2
+100402,9056,Marketing Analytics and Sales,Basics of Programming,3
+100402,9073,Automata Theory,Basics of Programming,1
+100402,9086,IoT System Architecture ,Basics of Programming,2
+100402,9099,Embedded Systems ,Basics of Programming,3
+100402,9103,Intro to Java Programming 2,Basics of Programming,1
+100402,9116,Scripting and Programming,Basics of Programming,2
+100403,9006,Introduction to Linux,Basics of Programming,1
+100403,9059,DS and Software Design,Basics of Programming,1
+100403,9116,Scripting and Programming,Basics of Programming,1
+100404,9001,Programming for Everybody,Basics of Programming,2
+100404,9014,Relational Databases,Basics of Programming,3
+100404,9031,ML-Data Science and Analytics,Basics of Programming,1
+100404,9044,Data Science  with Python,Basics of Programming,2
+100404,9057,Intro to Java Part 1,Basics of Programming,3
+100404,9074,C Programming ,Basics of Programming,1
+100404,9087,Big Data Analytics,Basics of Programming,2
+100404,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,3
+100404,9104,UML Class Diagrams,Basics of Programming,1
+100406,9007,Procedural Programming,Basics of Programming,1
+100406,9060,Cybersecurity Infrastructure,Basics of Programming,1
+100406,9076,Algorithm Design and Analysis,Basics of Programming,1
+100408,9002,Intro to Computer Science,Basics of Programming,2
+100408,9015,C Programming,Basics of Programming,3
+100408,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100408,9045,Computing in Python III  ,Basics of Programming,2
+100408,9058,Video game development,Basics of Programming,3
+100408,9075,Algorithmic Design Techniques,Basics of Programming,1
+100408,9088,AI Applications with Watson,Basics of Programming,2
+100408,9101,Amazon SageMaker ,Basics of Programming,3
+100408,9105,Data Science and Simulations,Basics of Programming,1
+100410,9008,Basics of Programming,Basics of Programming,1
+100410,9061,IoT Sensors and Devices,Basics of Programming,1
+100410,9077,Human-Computer Interaction I,Basics of Programming,1
+100411,9037,Embedded Microcontrollers,Basics of Programming,1
+100411,9049,AI Chatbots Programming,Basics of Programming,2
+100411,9060,Cybersecurity Infrastructure,Basics of Programming,1
+100411,9087,Big Data Analytics,Basics of Programming,2
+100411,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,1
+100411,9104,UML Class Diagrams,Basics of Programming,2
+100413,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100413,9062,Exploring GraphQL,Basics of Programming,1
+100413,9078,Mining Massive Datasets,Basics of Programming,1
+100414,9003,Intro to AI with Python,Basics of Programming,2
+100414,9016,Programming with JavaScript,Basics of Programming,3
+100414,9033,Machine Learning,Basics of Programming,1
+100414,9046,Software  Fundamentals,Basics of Programming,2
+100414,9059,DS and Software Design,Basics of Programming,3
+100414,9076,Algorithm Design and Analysis,Basics of Programming,1
+100414,9089,Building Containerized Apps,Basics of Programming,2
+100414,9102,Algorithmics with Python,Basics of Programming,3
+100414,9106,Programming for Data Science,Basics of Programming,1
+100415,9004,Web Programming with Python,Basics of Programming,2
+100415,9017,Computer Science for Business,Basics of Programming,3
+100415,9034,Fundamentals - Red Hat,Basics of Programming,1
+100415,9047,Foundations of Data Structures,Basics of Programming,2
+100415,9060,Cybersecurity Infrastructure,Basics of Programming,3
+100415,9077,Human-Computer Interaction I,Basics of Programming,1
+100415,9090,Open Source Networking,Basics of Programming,2
+100415,9103,Intro to Java Programming 2,Basics of Programming,3
+100415,9107,Building a Cybersecurity Toolkit,Basics of Programming,1
+100416,9010,Computer Science 101,Basics of Programming,1
+100416,9063,Blockchain Basics,Basics of Programming,1
+100416,9079,Implementation of DS,Basics of Programming,1
+100417,9038,How to Code  Simple Data,Basics of Programming,1
+100417,9050,Computing in Python IV ,Basics of Programming,2
+100417,9061,IoT Sensors and Devices,Basics of Programming,1
+100417,9088,AI Applications with Watson,Basics of Programming,2
+100417,9101,Amazon SageMaker ,Basics of Programming,1
+100417,9105,Data Science and Simulations,Basics of Programming,2
+100418,9039,Cybersecurity in the IoT,Basics of Programming,1
+100418,9051,Software Engineering ,Basics of Programming,2
+100418,9062,Exploring GraphQL,Basics of Programming,1
+100418,9089,Building Containerized Apps,Basics of Programming,2
+100418,9102,Algorithmics with Python,Basics of Programming,1
+100418,9106,Programming for Data Science,Basics of Programming,2
+100420,9011,AI for Everyone: Basics,Basics of Programming,1
+100420,9064,Computer Vision Fundamentals,Basics of Programming,1
+100420,9080,Big Data Fundamentals,Basics of Programming,1
+100422,9040,Build your very first iOS app,Basics of Programming,1
+100422,9052,Computer Hardware and OS,Basics of Programming,2
+100422,9063,Blockchain Basics,Basics of Programming,1
+100422,9090,Open Source Networking,Basics of Programming,2
+100422,9103,Intro to Java Programming 2,Basics of Programming,1
+100422,9107,Building a Cybersecurity Toolkit,Basics of Programming,2
+100423,9012,Machine Learning with Python,Basics of Programming,1
+100423,9065,Intro to Cloud Computing,Basics of Programming,1
+100423,9081,C Programming  Pointers,Basics of Programming,1
+100424,9041,Object-Oriented Programming,Basics of Programming,1
+100424,9053,HTML5 Apps and Games,Basics of Programming,2
+100424,9064,Computer Vision Fundamentals,Basics of Programming,1
+100424,9091,Deep Learning Essentials,Basics of Programming,2
+100424,9104,UML Class Diagrams,Basics of Programming,1
+100424,9108,Embedded Systems Essentials,Basics of Programming,2
+100425,9013,JavaScript Introduction,Basics of Programming,1
+100425,9034,Fundamentals - Red Hat,Basics of Programming,1
+100425,9082,IoT Programming and Big Data,Basics of Programming,1
+100427,9005,Using Python for Research,Basics of Programming,2
+100427,9018,Artificial Intelligence (AI),Basics of Programming,3
+100427,9035,Algorithms,Basics of Programming,1
+100427,9048,IoT - Software Integration,Basics of Programming,2
+100427,9061,IoT Sensors and Devices,Basics of Programming,3
+100427,9078,Mining Massive Datasets,Basics of Programming,1
+100427,9091,Deep Learning Essentials,Basics of Programming,2
+100427,9104,UML Class Diagrams,Basics of Programming,3
+100427,9108,Embedded Systems Essentials,Basics of Programming,1
+100429,9042,Introduction to Jenkins,Basics of Programming,1
+100429,9054,MATLAB for Beginners,Basics of Programming,2
+100429,9065,Intro to Cloud Computing,Basics of Programming,1
+100429,9092,Migrating to the AWS Cloud,Basics of Programming,2
+100429,9105,Data Science and Simulations,Basics of Programming,1
+100429,9109,Enabling Tech for Data Science,Basics of Programming,2
+100430,9027,C Programming: Basics,Basics of Programming,1
+100430,9043,Computer Graphics,Basics of Programming,1
+100430,9055,Linux Basics  The CLI,Basics of Programming,2
+100430,9093,IoT Networks and Protocols,Basics of Programming,2
+100430,9106,Programming for Data Science,Basics of Programming,1
+100430,9110,Introduction to Cloud Foundry,Basics of Programming,2
+100432,9014,Relational Databases,Basics of Programming,1
+100432,9035,Algorithms,Basics of Programming,1
+100432,9083,AWS - Cloud Security,Basics of Programming,1
+100433,9006,Introduction to Linux,Basics of Programming,2
+100433,9019,Programming Basics,Basics of Programming,3
+100433,9036,Python- Control Structures,Basics of Programming,1
+100433,9049,AI Chatbots Programming,Basics of Programming,2
+100433,9062,Exploring GraphQL,Basics of Programming,3
+100433,9079,Implementation of DS,Basics of Programming,1
+100433,9092,Migrating to the AWS Cloud,Basics of Programming,2
+100433,9105,Data Science and Simulations,Basics of Programming,3
+100433,9109,Enabling Tech for Data Science,Basics of Programming,1
+100434,9015,C Programming,Basics of Programming,1
+100434,9036,Python- Control Structures,Basics of Programming,1
+100434,9084,Agile Software Development,Basics of Programming,1
+100435,9007,Procedural Programming,Basics of Programming,2
+100435,9020,HTML Coding,Basics of Programming,3
+100435,9037,Embedded Microcontrollers,Basics of Programming,1
+100435,9050,Computing in Python IV ,Basics of Programming,2
+100435,9063,Blockchain Basics,Basics of Programming,3
+100435,9080,Big Data Fundamentals,Basics of Programming,1
+100435,9093,IoT Networks and Protocols,Basics of Programming,2
+100435,9106,Programming for Data Science,Basics of Programming,3
+100435,9110,Introduction to Cloud Foundry,Basics of Programming,1
+100436,9028,Introduction to Networking,Basics of Programming,1
+100436,9044,Data Science  with Python,Basics of Programming,1
+100436,9056,Marketing Analytics and Sales,Basics of Programming,2
+100436,9094,Automated Software Testing,Basics of Programming,2
+100436,9107,Building a Cybersecurity Toolkit,Basics of Programming,1
+100436,9111,Cloud Computing Enterprise,Basics of Programming,2
+100437,9029,Intro to coding in Java,Basics of Programming,1
+100437,9045,Computing in Python III  ,Basics of Programming,1
+100437,9057,Intro to Java Part 1,Basics of Programming,2
+100437,9095,Databases Topics in SQL,Basics of Programming,2
+100437,9108,Embedded Systems Essentials,Basics of Programming,1
+100437,9112,How to Code  Complex Data,Basics of Programming,2
+100438,9030,Data Science and Analytics,Basics of Programming,1
+100438,9039,Cybersecurity in the IoT,Basics of Programming,2
+100438,9046,Software  Fundamentals,Basics of Programming,1
+100438,9058,Video game development,Basics of Programming,2
+100438,9109,Enabling Tech for Data Science,Basics of Programming,1
+100438,9113,Cybersecurity Career Path,Basics of Programming,2
+100440,9008,Basics of Programming,Basics of Programming,2
+100440,9021,Algorithms: Design Analysis 1,Basics of Programming,3
+100440,9038,How to Code  Simple Data,Basics of Programming,1
+100440,9051,Software Engineering ,Basics of Programming,2
+100440,9064,Computer Vision Fundamentals,Basics of Programming,3
+100440,9081,C Programming  Pointers,Basics of Programming,1
+100440,9094,Automated Software Testing,Basics of Programming,2
+100440,9107,Building a Cybersecurity Toolkit,Basics of Programming,3
+100440,9111,Cloud Computing Enterprise,Basics of Programming,1
+100441,9016,Programming with JavaScript,Basics of Programming,1
+100441,9037,Embedded Microcontrollers,Basics of Programming,1
+100441,9085,Intro to Database Queries,Basics of Programming,1
+100442,9017,Computer Science for Business,Basics of Programming,1
+100442,9038,How to Code  Simple Data,Basics of Programming,1
+100442,9086,IoT System Architecture ,Basics of Programming,1
+100443,9009,HTML5 and CSS Fundamentals,Basics of Programming,2
+100443,9022,CSS Basics,Basics of Programming,3
+100443,9039,Cybersecurity in the IoT,Basics of Programming,1
+100443,9052,Computer Hardware and OS,Basics of Programming,2
+100443,9065,Intro to Cloud Computing,Basics of Programming,3
+100443,9082,IoT Programming and Big Data,Basics of Programming,1
+100443,9095,Databases Topics in SQL,Basics of Programming,2
+100443,9108,Embedded Systems Essentials,Basics of Programming,3
+100443,9112,How to Code  Complex Data,Basics of Programming,1
+100444,9031,ML-Data Science and Analytics,Basics of Programming,1
+100444,9040,Build your very first iOS app,Basics of Programming,2
+100444,9047,Foundations of Data Structures,Basics of Programming,1
+100444,9059,DS and Software Design,Basics of Programming,2
+100444,9110,Introduction to Cloud Foundry,Basics of Programming,1
+100444,9114,Databases Modeling,Basics of Programming,2
+100445,9010,Computer Science 101,Basics of Programming,2
+100445,9023,Unlocking Info Security 1,Basics of Programming,3
+100445,9040,Build your very first iOS app,Basics of Programming,1
+100445,9053,HTML5 Apps and Games,Basics of Programming,2
+100445,9066,Intro to DevOps and SRE,Basics of Programming,3
+100445,9083,AWS - Cloud Security,Basics of Programming,1
+100445,9096,C Programming Using Linux,Basics of Programming,2
+100445,9109,Enabling Tech for Data Science,Basics of Programming,3
+100445,9113,Cybersecurity Career Path,Basics of Programming,1
+100447,9011,AI for Everyone: Basics,Basics of Programming,2
+100447,9024,Introduction to Cybersecurity,Basics of Programming,3
+100447,9041,Object-Oriented Programming,Basics of Programming,1
+100447,9054,MATLAB for Beginners,Basics of Programming,2
+100447,9067,Network and Security,Basics of Programming,3
+100447,9084,Agile Software Development,Basics of Programming,1
+100447,9097,Cybersecurity  The CISO's View,Basics of Programming,2
+100447,9110,Introduction to Cloud Foundry,Basics of Programming,3
+100447,9114,Databases Modeling,Basics of Programming,1
+100448,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100448,9041,Object-Oriented Programming,Basics of Programming,2
+100448,9048,IoT - Software Integration,Basics of Programming,1
+100448,9060,Cybersecurity Infrastructure,Basics of Programming,2
+100448,9111,Cloud Computing Enterprise,Basics of Programming,1
+100448,9115,Object-Oriented Design,Basics of Programming,2
+100450,9018,Artificial Intelligence (AI),Basics of Programming,1
+100450,9039,Cybersecurity in the IoT,Basics of Programming,1
+100450,9087,Big Data Analytics,Basics of Programming,1
+100451,9033,Machine Learning,Basics of Programming,1
+100451,9042,Introduction to Jenkins,Basics of Programming,2
+100451,9049,AI Chatbots Programming,Basics of Programming,1
+100451,9061,IoT Sensors and Devices,Basics of Programming,2
+100451,9112,How to Code  Complex Data,Basics of Programming,1
+100451,9116,Scripting and Programming,Basics of Programming,2
+100452,9019,Programming Basics,Basics of Programming,1
+100452,9040,Build your very first iOS app,Basics of Programming,1
+100452,9088,AI Applications with Watson,Basics of Programming,1
+100453,9020,HTML Coding,Basics of Programming,1
+100453,9041,Object-Oriented Programming,Basics of Programming,1
+100453,9089,Building Containerized Apps,Basics of Programming,1
+100454,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100454,9042,Introduction to Jenkins,Basics of Programming,1
+100454,9090,Open Source Networking,Basics of Programming,1
+100455,9022,CSS Basics,Basics of Programming,1
+100455,9043,Computer Graphics,Basics of Programming,1
+100455,9091,Deep Learning Essentials,Basics of Programming,1
+100456,9023,Unlocking Info Security 1,Basics of Programming,1
+100456,9044,Data Science  with Python,Basics of Programming,1
+100456,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100458,9024,Introduction to Cybersecurity,Basics of Programming,1
+100458,9091,Deep Learning Essentials,Basics of Programming,1
+100458,9093,IoT Networks and Protocols,Basics of Programming,1
+100459,9007,Procedural Programming,Basics of Programming,2
+100459,9034,Fundamentals - Red Hat,Basics of Programming,1
+100459,9043,Computer Graphics,Basics of Programming,2
+100459,9050,Computing in Python IV ,Basics of Programming,1
+100459,9062,Exploring GraphQL,Basics of Programming,2
+100459,9113,Cybersecurity Career Path,Basics of Programming,1
+100460,9008,Basics of Programming,Basics of Programming,2
+100460,9035,Algorithms,Basics of Programming,1
+100460,9044,Data Science  with Python,Basics of Programming,2
+100460,9051,Software Engineering ,Basics of Programming,1
+100460,9063,Blockchain Basics,Basics of Programming,2
+100460,9114,Databases Modeling,Basics of Programming,1
+100461,9009,HTML5 and CSS Fundamentals,Basics of Programming,2
+100461,9036,Python- Control Structures,Basics of Programming,1
+100461,9045,Computing in Python III  ,Basics of Programming,2
+100461,9052,Computer Hardware and OS,Basics of Programming,1
+100461,9064,Computer Vision Fundamentals,Basics of Programming,2
+100461,9115,Object-Oriented Design,Basics of Programming,1
+100462,9012,Machine Learning with Python,Basics of Programming,2
+100462,9025,Python Data Structures,Basics of Programming,3
+100462,9042,Introduction to Jenkins,Basics of Programming,1
+100462,9055,Linux Basics  The CLI,Basics of Programming,2
+100462,9068,Data Structures Fundamentals,Basics of Programming,3
+100462,9085,Intro to Database Queries,Basics of Programming,1
+100462,9098,Fundamentals of Java EE ,Basics of Programming,2
+100462,9111,Cloud Computing Enterprise,Basics of Programming,3
+100462,9115,Object-Oriented Design,Basics of Programming,1
+100463,9010,Computer Science 101,Basics of Programming,2
+100463,9037,Embedded Microcontrollers,Basics of Programming,1
+100463,9046,Software  Fundamentals,Basics of Programming,2
+100463,9053,HTML5 Apps and Games,Basics of Programming,1
+100463,9065,Intro to Cloud Computing,Basics of Programming,2
+100463,9116,Scripting and Programming,Basics of Programming,1
+100464,9013,JavaScript Introduction,Basics of Programming,2
+100464,9026,Intro to Internet of Things (IoT),Basics of Programming,3
+100464,9043,Computer Graphics,Basics of Programming,1
+100464,9056,Marketing Analytics and Sales,Basics of Programming,2
+100464,9069,Unlocking Info Security  Part II,Basics of Programming,3
+100464,9086,IoT System Architecture ,Basics of Programming,1
+100464,9099,Embedded Systems ,Basics of Programming,2
+100464,9112,How to Code  Complex Data,Basics of Programming,3
+100464,9116,Scripting and Programming,Basics of Programming,1
+100468,9003,Intro to AI with Python,Basics of Programming,1
+100468,9011,AI for Everyone: Basics,Basics of Programming,2
+100468,9038,How to Code  Simple Data,Basics of Programming,1
+100468,9047,Foundations of Data Structures,Basics of Programming,2
+100468,9054,MATLAB for Beginners,Basics of Programming,1
+100468,9066,Intro to DevOps and SRE,Basics of Programming,2
+100469,9001,Programming for Everybody,Basics of Programming,1
+100469,9014,Relational Databases,Basics of Programming,2
+100469,9027,C Programming: Basics,Basics of Programming,3
+100469,9044,Data Science  with Python,Basics of Programming,1
+100469,9057,Intro to Java Part 1,Basics of Programming,2
+100469,9070,Animation and CGI Motion,Basics of Programming,3
+100469,9087,Big Data Analytics,Basics of Programming,1
+100469,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,2
+100469,9113,Cybersecurity Career Path,Basics of Programming,3
+100470,9004,Web Programming with Python,Basics of Programming,1
+100470,9012,Machine Learning with Python,Basics of Programming,2
+100470,9039,Cybersecurity in the IoT,Basics of Programming,1
+100470,9048,IoT - Software Integration,Basics of Programming,2
+100470,9055,Linux Basics  The CLI,Basics of Programming,1
+100470,9067,Network and Security,Basics of Programming,2
+100471,9005,Using Python for Research,Basics of Programming,1
+100471,9013,JavaScript Introduction,Basics of Programming,2
+100471,9040,Build your very first iOS app,Basics of Programming,1
+100471,9049,AI Chatbots Programming,Basics of Programming,2
+100471,9056,Marketing Analytics and Sales,Basics of Programming,1
+100471,9068,Data Structures Fundamentals,Basics of Programming,2
+100472,9025,Python Data Structures,Basics of Programming,1
+100472,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100472,9094,Automated Software Testing,Basics of Programming,1
+100473,9026,Intro to Internet of Things (IoT),Basics of Programming,1
+100473,9093,IoT Networks and Protocols,Basics of Programming,1
+100473,9095,Databases Topics in SQL,Basics of Programming,1
+100475,9006,Introduction to Linux,Basics of Programming,1
+100475,9014,Relational Databases,Basics of Programming,2
+100475,9041,Object-Oriented Programming,Basics of Programming,1
+100475,9050,Computing in Python IV ,Basics of Programming,2
+100475,9057,Intro to Java Part 1,Basics of Programming,1
+100475,9069,Unlocking Info Security  Part II,Basics of Programming,2
+100476,9027,C Programming: Basics,Basics of Programming,1
+100476,9094,Automated Software Testing,Basics of Programming,1
+100476,9096,C Programming Using Linux,Basics of Programming,1
+100477,9007,Procedural Programming,Basics of Programming,1
+100477,9015,C Programming,Basics of Programming,2
+100477,9042,Introduction to Jenkins,Basics of Programming,1
+100477,9051,Software Engineering ,Basics of Programming,2
+100477,9058,Video game development,Basics of Programming,1
+100477,9070,Animation and CGI Motion,Basics of Programming,2
+100478,9008,Basics of Programming,Basics of Programming,1
+100478,9016,Programming with JavaScript,Basics of Programming,2
+100478,9043,Computer Graphics,Basics of Programming,1
+100478,9052,Computer Hardware and OS,Basics of Programming,2
+100478,9059,DS and Software Design,Basics of Programming,1
+100478,9071,IT Foundations,Basics of Programming,2
+100479,9002,Intro to Computer Science,Basics of Programming,1
+100479,9015,C Programming,Basics of Programming,2
+100479,9028,Introduction to Networking,Basics of Programming,3
+100479,9045,Computing in Python III  ,Basics of Programming,1
+100479,9058,Video game development,Basics of Programming,2
+100479,9071,IT Foundations,Basics of Programming,3
+100479,9088,AI Applications with Watson,Basics of Programming,1
+100479,9101,Amazon SageMaker ,Basics of Programming,2
+100479,9114,Databases Modeling,Basics of Programming,3
+100480,9028,Introduction to Networking,Basics of Programming,1
+100480,9095,Databases Topics in SQL,Basics of Programming,1
+100480,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100481,9003,Intro to AI with Python,Basics of Programming,1
+100481,9016,Programming with JavaScript,Basics of Programming,2
+100481,9029,Intro to coding in Java,Basics of Programming,3
+100481,9046,Software  Fundamentals,Basics of Programming,1
+100481,9059,DS and Software Design,Basics of Programming,2
+100481,9072,Algorithms  Design Part 2,Basics of Programming,3
+100481,9089,Building Containerized Apps,Basics of Programming,1
+100481,9102,Algorithmics with Python,Basics of Programming,2
+100481,9115,Object-Oriented Design,Basics of Programming,3
+100484,9050,Computing in Python IV ,Basics of Programming,1
+100484,9096,C Programming Using Linux,Basics of Programming,1
+100484,9098,Fundamentals of Java EE ,Basics of Programming,1
+100485,9051,Software Engineering ,Basics of Programming,1
+100485,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100485,9099,Embedded Systems ,Basics of Programming,1
+100486,9052,Computer Hardware and OS,Basics of Programming,1
+100486,9098,Fundamentals of Java EE ,Basics of Programming,1
+100486,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,1
+100487,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100487,9017,Computer Science for Business,Basics of Programming,2
+100487,9044,Data Science  with Python,Basics of Programming,1
+100487,9053,HTML5 Apps and Games,Basics of Programming,2
+100487,9060,Cybersecurity Infrastructure,Basics of Programming,1
+100487,9072,Algorithms  Design Part 2,Basics of Programming,2
+100488,9010,Computer Science 101,Basics of Programming,1
+100488,9018,Artificial Intelligence (AI),Basics of Programming,2
+100488,9045,Computing in Python III  ,Basics of Programming,1
+100488,9054,MATLAB for Beginners,Basics of Programming,2
+100488,9061,IoT Sensors and Devices,Basics of Programming,1
+100488,9073,Automata Theory,Basics of Programming,2
+100490,9011,AI for Everyone: Basics,Basics of Programming,1
+100490,9019,Programming Basics,Basics of Programming,2
+100490,9046,Software  Fundamentals,Basics of Programming,1
+100490,9055,Linux Basics  The CLI,Basics of Programming,2
+100490,9062,Exploring GraphQL,Basics of Programming,1
+100490,9074,C Programming ,Basics of Programming,2
+100491,9012,Machine Learning with Python,Basics of Programming,1
+100491,9020,HTML Coding,Basics of Programming,2
+100491,9047,Foundations of Data Structures,Basics of Programming,1
+100491,9056,Marketing Analytics and Sales,Basics of Programming,2
+100491,9063,Blockchain Basics,Basics of Programming,1
+100491,9075,Algorithmic Design Techniques,Basics of Programming,2
+100493,9013,JavaScript Introduction,Basics of Programming,1
+100493,9021,Algorithms: Design Analysis 1,Basics of Programming,2
+100493,9048,IoT - Software Integration,Basics of Programming,1
+100493,9057,Intro to Java Part 1,Basics of Programming,2
+100493,9064,Computer Vision Fundamentals,Basics of Programming,1
+100493,9076,Algorithm Design and Analysis,Basics of Programming,2
+100494,9004,Web Programming with Python,Basics of Programming,1
+100494,9017,Computer Science for Business,Basics of Programming,2
+100494,9030,Data Science and Analytics,Basics of Programming,3
+100494,9047,Foundations of Data Structures,Basics of Programming,1
+100494,9060,Cybersecurity Infrastructure,Basics of Programming,2
+100494,9073,Automata Theory,Basics of Programming,3
+100494,9090,Open Source Networking,Basics of Programming,1
+100494,9103,Intro to Java Programming 2,Basics of Programming,2
+100494,9116,Scripting and Programming,Basics of Programming,3
+100495,9014,Relational Databases,Basics of Programming,1
+100495,9022,CSS Basics,Basics of Programming,2
+100495,9049,AI Chatbots Programming,Basics of Programming,1
+100495,9058,Video game development,Basics of Programming,2
+100495,9065,Intro to Cloud Computing,Basics of Programming,1
+100495,9077,Human-Computer Interaction I,Basics of Programming,2
+100497,9053,HTML5 Apps and Games,Basics of Programming,1
+100497,9099,Embedded Systems ,Basics of Programming,1
+100497,9101,Amazon SageMaker ,Basics of Programming,1
+100498,9015,C Programming,Basics of Programming,1
+100498,9023,Unlocking Info Security 1,Basics of Programming,2
+100498,9050,Computing in Python IV ,Basics of Programming,1
+100498,9059,DS and Software Design,Basics of Programming,2
+100498,9066,Intro to DevOps and SRE,Basics of Programming,1
+100498,9078,Mining Massive Datasets,Basics of Programming,2
+100499,9001,Programming for Everybody,Basics of Programming,3
+100499,9005,Using Python for Research,Basics of Programming,1
+100499,9018,Artificial Intelligence (AI),Basics of Programming,2
+100499,9031,ML-Data Science and Analytics,Basics of Programming,3
+100499,9048,IoT - Software Integration,Basics of Programming,1
+100499,9061,IoT Sensors and Devices,Basics of Programming,2
+100499,9074,C Programming ,Basics of Programming,3
+100499,9091,Deep Learning Essentials,Basics of Programming,1
+100499,9104,UML Class Diagrams,Basics of Programming,2
+100500,9016,Programming with JavaScript,Basics of Programming,1
+100500,9024,Introduction to Cybersecurity,Basics of Programming,2
+100500,9051,Software Engineering ,Basics of Programming,1
+100500,9060,Cybersecurity Infrastructure,Basics of Programming,2
+100500,9067,Network and Security,Basics of Programming,1
+100500,9079,Implementation of DS,Basics of Programming,2
+100502,9017,Computer Science for Business,Basics of Programming,1
+100502,9025,Python Data Structures,Basics of Programming,2
+100502,9052,Computer Hardware and OS,Basics of Programming,1
+100502,9061,IoT Sensors and Devices,Basics of Programming,2
+100502,9068,Data Structures Fundamentals,Basics of Programming,1
+100502,9080,Big Data Fundamentals,Basics of Programming,2
+100503,9054,MATLAB for Beginners,Basics of Programming,1
+100503,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,1
+100503,9102,Algorithmics with Python,Basics of Programming,1
+100504,9055,Linux Basics  The CLI,Basics of Programming,1
+100504,9101,Amazon SageMaker ,Basics of Programming,1
+100504,9103,Intro to Java Programming 2,Basics of Programming,1
+100506,9018,Artificial Intelligence (AI),Basics of Programming,1
+100506,9026,Intro to Internet of Things (IoT),Basics of Programming,2
+100506,9053,HTML5 Apps and Games,Basics of Programming,1
+100506,9062,Exploring GraphQL,Basics of Programming,2
+100506,9069,Unlocking Info Security  Part II,Basics of Programming,1
+100506,9081,C Programming  Pointers,Basics of Programming,2
+100507,9002,Intro to Computer Science,Basics of Programming,3
+100507,9006,Introduction to Linux,Basics of Programming,1
+100507,9019,Programming Basics,Basics of Programming,2
+100507,9032,Intro to Cloud Infrastructure,Basics of Programming,3
+100507,9049,AI Chatbots Programming,Basics of Programming,1
+100507,9062,Exploring GraphQL,Basics of Programming,2
+100507,9075,Algorithmic Design Techniques,Basics of Programming,3
+100507,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100507,9105,Data Science and Simulations,Basics of Programming,2
+100508,9056,Marketing Analytics and Sales,Basics of Programming,1
+100508,9102,Algorithmics with Python,Basics of Programming,1
+100508,9104,UML Class Diagrams,Basics of Programming,1
+100509,9057,Intro to Java Part 1,Basics of Programming,1
+100509,9103,Intro to Java Programming 2,Basics of Programming,1
+100509,9105,Data Science and Simulations,Basics of Programming,1
+100511,9058,Video game development,Basics of Programming,1
+100511,9104,UML Class Diagrams,Basics of Programming,1
+100511,9106,Programming for Data Science,Basics of Programming,1
+100512,9019,Programming Basics,Basics of Programming,1
+100512,9027,C Programming: Basics,Basics of Programming,2
+100512,9054,MATLAB for Beginners,Basics of Programming,1
+100512,9063,Blockchain Basics,Basics of Programming,2
+100512,9070,Animation and CGI Motion,Basics of Programming,1
+100512,9082,IoT Programming and Big Data,Basics of Programming,2
+100513,9059,DS and Software Design,Basics of Programming,1
+100513,9105,Data Science and Simulations,Basics of Programming,1
+100513,9107,Building a Cybersecurity Toolkit,Basics of Programming,1
+100516,9020,HTML Coding,Basics of Programming,1
+100516,9028,Introduction to Networking,Basics of Programming,2
+100516,9055,Linux Basics  The CLI,Basics of Programming,1
+100516,9064,Computer Vision Fundamentals,Basics of Programming,2
+100516,9071,IT Foundations,Basics of Programming,1
+100516,9083,AWS - Cloud Security,Basics of Programming,2
+100520,9003,Intro to AI with Python,Basics of Programming,3
+100520,9007,Procedural Programming,Basics of Programming,1
+100520,9020,HTML Coding,Basics of Programming,2
+100520,9033,Machine Learning,Basics of Programming,3
+100520,9050,Computing in Python IV ,Basics of Programming,1
+100520,9063,Blockchain Basics,Basics of Programming,2
+100520,9076,Algorithm Design and Analysis,Basics of Programming,3
+100520,9093,IoT Networks and Protocols,Basics of Programming,1
+100520,9106,Programming for Data Science,Basics of Programming,2
+100522,9004,Web Programming with Python,Basics of Programming,3
+100522,9008,Basics of Programming,Basics of Programming,1
+100522,9021,Algorithms: Design Analysis 1,Basics of Programming,2
+100522,9034,Fundamentals - Red Hat,Basics of Programming,3
+100522,9051,Software Engineering ,Basics of Programming,1
+100522,9064,Computer Vision Fundamentals,Basics of Programming,2
+100522,9077,Human-Computer Interaction I,Basics of Programming,3
+100522,9094,Automated Software Testing,Basics of Programming,1
+100522,9107,Building a Cybersecurity Toolkit,Basics of Programming,2
+100523,9060,Cybersecurity Infrastructure,Basics of Programming,1
+100523,9106,Programming for Data Science,Basics of Programming,1
+100523,9108,Embedded Systems Essentials,Basics of Programming,1
+100525,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100525,9029,Intro to coding in Java,Basics of Programming,2
+100525,9056,Marketing Analytics and Sales,Basics of Programming,1
+100525,9065,Intro to Cloud Computing,Basics of Programming,2
+100525,9072,Algorithms  Design Part 2,Basics of Programming,1
+100525,9084,Agile Software Development,Basics of Programming,2
+100527,9022,CSS Basics,Basics of Programming,1
+100527,9030,Data Science and Analytics,Basics of Programming,2
+100527,9057,Intro to Java Part 1,Basics of Programming,1
+100527,9066,Intro to DevOps and SRE,Basics of Programming,2
+100527,9073,Automata Theory,Basics of Programming,1
+100527,9085,Intro to Database Queries,Basics of Programming,2
+100528,9005,Using Python for Research,Basics of Programming,3
+100528,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100528,9022,CSS Basics,Basics of Programming,2
+100528,9035,Algorithms,Basics of Programming,3
+100528,9052,Computer Hardware and OS,Basics of Programming,1
+100528,9065,Intro to Cloud Computing,Basics of Programming,2
+100528,9078,Mining Massive Datasets,Basics of Programming,3
+100528,9095,Databases Topics in SQL,Basics of Programming,1
+100528,9108,Embedded Systems Essentials,Basics of Programming,2
+100530,9023,Unlocking Info Security 1,Basics of Programming,1
+100530,9031,ML-Data Science and Analytics,Basics of Programming,2
+100530,9058,Video game development,Basics of Programming,1
+100530,9067,Network and Security,Basics of Programming,2
+100530,9074,C Programming ,Basics of Programming,1
+100530,9086,IoT System Architecture ,Basics of Programming,2
+100531,9061,IoT Sensors and Devices,Basics of Programming,1
+100531,9107,Building a Cybersecurity Toolkit,Basics of Programming,1
+100531,9109,Enabling Tech for Data Science,Basics of Programming,1
+100532,9024,Introduction to Cybersecurity,Basics of Programming,1
+100532,9032,Intro to Cloud Infrastructure,Basics of Programming,2
+100532,9059,DS and Software Design,Basics of Programming,1
+100532,9068,Data Structures Fundamentals,Basics of Programming,2
+100532,9075,Algorithmic Design Techniques,Basics of Programming,1
+100532,9087,Big Data Analytics,Basics of Programming,2
+100534,9062,Exploring GraphQL,Basics of Programming,1
+100534,9108,Embedded Systems Essentials,Basics of Programming,1
+100534,9110,Introduction to Cloud Foundry,Basics of Programming,1
+100535,9063,Blockchain Basics,Basics of Programming,1
+100535,9109,Enabling Tech for Data Science,Basics of Programming,1
+100535,9111,Cloud Computing Enterprise,Basics of Programming,1
+100539,9025,Python Data Structures,Basics of Programming,1
+100539,9033,Machine Learning,Basics of Programming,2
+100539,9060,Cybersecurity Infrastructure,Basics of Programming,1
+100539,9069,Unlocking Info Security  Part II,Basics of Programming,2
+100539,9076,Algorithm Design and Analysis,Basics of Programming,1
+100539,9088,AI Applications with Watson,Basics of Programming,2
+100541,9006,Introduction to Linux,Basics of Programming,3
+100541,9010,Computer Science 101,Basics of Programming,1
+100541,9023,Unlocking Info Security 1,Basics of Programming,2
+100541,9036,Python- Control Structures,Basics of Programming,3
+100541,9053,HTML5 Apps and Games,Basics of Programming,1
+100541,9066,Intro to DevOps and SRE,Basics of Programming,2
+100541,9079,Implementation of DS,Basics of Programming,3
+100541,9096,C Programming Using Linux,Basics of Programming,1
+100541,9109,Enabling Tech for Data Science,Basics of Programming,2
+100543,9007,Procedural Programming,Basics of Programming,3
+100543,9011,AI for Everyone: Basics,Basics of Programming,1
+100543,9024,Introduction to Cybersecurity,Basics of Programming,2
+100543,9037,Embedded Microcontrollers,Basics of Programming,3
+100543,9054,MATLAB for Beginners,Basics of Programming,1
+100543,9067,Network and Security,Basics of Programming,2
+100543,9080,Big Data Fundamentals,Basics of Programming,3
+100543,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100543,9110,Introduction to Cloud Foundry,Basics of Programming,2
+100544,9026,Intro to Internet of Things (IoT),Basics of Programming,1
+100544,9034,Fundamentals - Red Hat,Basics of Programming,2
+100544,9061,IoT Sensors and Devices,Basics of Programming,1
+100544,9070,Animation and CGI Motion,Basics of Programming,2
+100544,9077,Human-Computer Interaction I,Basics of Programming,1
+100544,9089,Building Containerized Apps,Basics of Programming,2
+100545,9008,Basics of Programming,Basics of Programming,3
+100545,9012,Machine Learning with Python,Basics of Programming,1
+100545,9025,Python Data Structures,Basics of Programming,2
+100545,9038,How to Code  Simple Data,Basics of Programming,3
+100545,9055,Linux Basics  The CLI,Basics of Programming,1
+100545,9068,Data Structures Fundamentals,Basics of Programming,2
+100545,9081,C Programming  Pointers,Basics of Programming,3
+100545,9098,Fundamentals of Java EE ,Basics of Programming,1
+100545,9111,Cloud Computing Enterprise,Basics of Programming,2
+100546,9064,Computer Vision Fundamentals,Basics of Programming,1
+100546,9110,Introduction to Cloud Foundry,Basics of Programming,1
+100546,9112,How to Code  Complex Data,Basics of Programming,1
+100548,9065,Intro to Cloud Computing,Basics of Programming,1
+100548,9111,Cloud Computing Enterprise,Basics of Programming,1
+100548,9113,Cybersecurity Career Path,Basics of Programming,1
+100549,9009,HTML5 and CSS Fundamentals,Basics of Programming,3
+100549,9013,JavaScript Introduction,Basics of Programming,1
+100549,9026,Intro to Internet of Things (IoT),Basics of Programming,2
+100549,9039,Cybersecurity in the IoT,Basics of Programming,3
+100549,9056,Marketing Analytics and Sales,Basics of Programming,1
+100549,9069,Unlocking Info Security  Part II,Basics of Programming,2
+100549,9082,IoT Programming and Big Data,Basics of Programming,3
+100549,9099,Embedded Systems ,Basics of Programming,1
+100549,9112,How to Code  Complex Data,Basics of Programming,2
+100551,9010,Computer Science 101,Basics of Programming,3
+100551,9014,Relational Databases,Basics of Programming,1
+100551,9027,C Programming: Basics,Basics of Programming,2
+100551,9040,Build your very first iOS app,Basics of Programming,3
+100551,9057,Intro to Java Part 1,Basics of Programming,1
+100551,9070,Animation and CGI Motion,Basics of Programming,2
+100551,9083,AWS - Cloud Security,Basics of Programming,3
+100551,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,1
+100551,9113,Cybersecurity Career Path,Basics of Programming,2
+100552,9011,AI for Everyone: Basics,Basics of Programming,3
+100552,9015,C Programming,Basics of Programming,1
+100552,9028,Introduction to Networking,Basics of Programming,2
+100552,9041,Object-Oriented Programming,Basics of Programming,3
+100552,9058,Video game development,Basics of Programming,1
+100552,9071,IT Foundations,Basics of Programming,2
+100552,9084,Agile Software Development,Basics of Programming,3
+100552,9101,Amazon SageMaker ,Basics of Programming,1
+100552,9114,Databases Modeling,Basics of Programming,2
+100553,9012,Machine Learning with Python,Basics of Programming,3
+100553,9016,Programming with JavaScript,Basics of Programming,1
+100553,9029,Intro to coding in Java,Basics of Programming,2
+100553,9042,Introduction to Jenkins,Basics of Programming,3
+100553,9059,DS and Software Design,Basics of Programming,1
+100553,9072,Algorithms  Design Part 2,Basics of Programming,2
+100553,9085,Intro to Database Queries,Basics of Programming,3
+100553,9102,Algorithmics with Python,Basics of Programming,1
+100553,9115,Object-Oriented Design,Basics of Programming,2
+100555,9066,Intro to DevOps and SRE,Basics of Programming,1
+100555,9112,How to Code  Complex Data,Basics of Programming,1
+100555,9114,Databases Modeling,Basics of Programming,1
+100556,9027,C Programming: Basics,Basics of Programming,1
+100556,9035,Algorithms,Basics of Programming,2
+100556,9062,Exploring GraphQL,Basics of Programming,1
+100556,9071,IT Foundations,Basics of Programming,2
+100556,9078,Mining Massive Datasets,Basics of Programming,1
+100556,9090,Open Source Networking,Basics of Programming,2
+100557,9067,Network and Security,Basics of Programming,1
+100557,9113,Cybersecurity Career Path,Basics of Programming,1
+100557,9115,Object-Oriented Design,Basics of Programming,1
+100560,9013,JavaScript Introduction,Basics of Programming,3
+100560,9017,Computer Science for Business,Basics of Programming,1
+100560,9030,Data Science and Analytics,Basics of Programming,2
+100560,9043,Computer Graphics,Basics of Programming,3
+100560,9060,Cybersecurity Infrastructure,Basics of Programming,1
+100560,9073,Automata Theory,Basics of Programming,2
+100560,9086,IoT System Architecture ,Basics of Programming,3
+100560,9103,Intro to Java Programming 2,Basics of Programming,1
+100560,9116,Scripting and Programming,Basics of Programming,2
+100562,9028,Introduction to Networking,Basics of Programming,1
+100562,9036,Python- Control Structures,Basics of Programming,2
+100562,9063,Blockchain Basics,Basics of Programming,1
+100562,9072,Algorithms  Design Part 2,Basics of Programming,2
+100562,9079,Implementation of DS,Basics of Programming,1
+100562,9091,Deep Learning Essentials,Basics of Programming,2
+100563,9068,Data Structures Fundamentals,Basics of Programming,1
+100563,9114,Databases Modeling,Basics of Programming,1
+100563,9116,Scripting and Programming,Basics of Programming,1
+100565,9051,Software Engineering ,Basics of Programming,1
+100565,9069,Unlocking Info Security  Part II,Basics of Programming,1
+100565,9115,Object-Oriented Design,Basics of Programming,1
+100567,9001,Programming for Everybody,Basics of Programming,2
+100567,9014,Relational Databases,Basics of Programming,3
+100567,9018,Artificial Intelligence (AI),Basics of Programming,1
+100567,9031,ML-Data Science and Analytics,Basics of Programming,2
+100567,9044,Data Science  with Python,Basics of Programming,3
+100567,9061,IoT Sensors and Devices,Basics of Programming,1
+100567,9074,C Programming ,Basics of Programming,2
+100567,9087,Big Data Analytics,Basics of Programming,3
+100567,9104,UML Class Diagrams,Basics of Programming,1
+100568,9029,Intro to coding in Java,Basics of Programming,1
+100568,9037,Embedded Microcontrollers,Basics of Programming,2
+100568,9064,Computer Vision Fundamentals,Basics of Programming,1
+100568,9073,Automata Theory,Basics of Programming,2
+100568,9080,Big Data Fundamentals,Basics of Programming,1
+100568,9092,Migrating to the AWS Cloud,Basics of Programming,2
+100569,9002,Intro to Computer Science,Basics of Programming,2
+100569,9015,C Programming,Basics of Programming,3
+100569,9019,Programming Basics,Basics of Programming,1
+100569,9032,Intro to Cloud Infrastructure,Basics of Programming,2
+100569,9045,Computing in Python III  ,Basics of Programming,3
+100569,9062,Exploring GraphQL,Basics of Programming,1
+100569,9075,Algorithmic Design Techniques,Basics of Programming,2
+100569,9088,AI Applications with Watson,Basics of Programming,3
+100569,9105,Data Science and Simulations,Basics of Programming,1
+100570,9003,Intro to AI with Python,Basics of Programming,2
+100570,9016,Programming with JavaScript,Basics of Programming,3
+100570,9020,HTML Coding,Basics of Programming,1
+100570,9033,Machine Learning,Basics of Programming,2
+100570,9046,Software  Fundamentals,Basics of Programming,3
+100570,9063,Blockchain Basics,Basics of Programming,1
+100570,9076,Algorithm Design and Analysis,Basics of Programming,2
+100570,9089,Building Containerized Apps,Basics of Programming,3
+100570,9106,Programming for Data Science,Basics of Programming,1
+100571,9030,Data Science and Analytics,Basics of Programming,1
+100571,9038,How to Code  Simple Data,Basics of Programming,2
+100571,9065,Intro to Cloud Computing,Basics of Programming,1
+100571,9074,C Programming ,Basics of Programming,2
+100571,9081,C Programming  Pointers,Basics of Programming,1
+100571,9093,IoT Networks and Protocols,Basics of Programming,2
+100573,9052,Computer Hardware and OS,Basics of Programming,1
+100573,9070,Animation and CGI Motion,Basics of Programming,1
+100573,9116,Scripting and Programming,Basics of Programming,1
+100575,9001,Programming for Everybody,Basics of Programming,1
+100575,9031,ML-Data Science and Analytics,Basics of Programming,1
+100575,9039,Cybersecurity in the IoT,Basics of Programming,2
+100575,9075,Algorithmic Design Techniques,Basics of Programming,2
+100575,9082,IoT Programming and Big Data,Basics of Programming,1
+100575,9094,Automated Software Testing,Basics of Programming,2
+100576,9053,HTML5 Apps and Games,Basics of Programming,1
+100576,9071,IT Foundations,Basics of Programming,1
+100576,9074,C Programming ,Basics of Programming,1
+100577,9054,MATLAB for Beginners,Basics of Programming,1
+100577,9072,Algorithms  Design Part 2,Basics of Programming,1
+100577,9075,Algorithmic Design Techniques,Basics of Programming,1
+100578,9055,Linux Basics  The CLI,Basics of Programming,1
+100578,9073,Automata Theory,Basics of Programming,1
+100578,9076,Algorithm Design and Analysis,Basics of Programming,1
+100579,9002,Intro to Computer Science,Basics of Programming,1
+100579,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100579,9040,Build your very first iOS app,Basics of Programming,2
+100579,9076,Algorithm Design and Analysis,Basics of Programming,2
+100579,9083,AWS - Cloud Security,Basics of Programming,1
+100579,9095,Databases Topics in SQL,Basics of Programming,2
+100580,9004,Web Programming with Python,Basics of Programming,2
+100580,9017,Computer Science for Business,Basics of Programming,3
+100580,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100580,9034,Fundamentals - Red Hat,Basics of Programming,2
+100580,9047,Foundations of Data Structures,Basics of Programming,3
+100580,9064,Computer Vision Fundamentals,Basics of Programming,1
+100580,9077,Human-Computer Interaction I,Basics of Programming,2
+100580,9090,Open Source Networking,Basics of Programming,3
+100580,9107,Building a Cybersecurity Toolkit,Basics of Programming,1
+100581,9005,Using Python for Research,Basics of Programming,2
+100581,9018,Artificial Intelligence (AI),Basics of Programming,3
+100581,9022,CSS Basics,Basics of Programming,1
+100581,9035,Algorithms,Basics of Programming,2
+100581,9048,IoT - Software Integration,Basics of Programming,3
+100581,9065,Intro to Cloud Computing,Basics of Programming,1
+100581,9078,Mining Massive Datasets,Basics of Programming,2
+100581,9091,Deep Learning Essentials,Basics of Programming,3
+100581,9108,Embedded Systems Essentials,Basics of Programming,1
+100582,9003,Intro to AI with Python,Basics of Programming,1
+100582,9033,Machine Learning,Basics of Programming,1
+100582,9041,Object-Oriented Programming,Basics of Programming,2
+100582,9077,Human-Computer Interaction I,Basics of Programming,2
+100582,9084,Agile Software Development,Basics of Programming,1
+100582,9096,C Programming Using Linux,Basics of Programming,2
+100583,9056,Marketing Analytics and Sales,Basics of Programming,1
+100583,9074,C Programming ,Basics of Programming,1
+100583,9077,Human-Computer Interaction I,Basics of Programming,1
+100585,9004,Web Programming with Python,Basics of Programming,1
+100585,9034,Fundamentals - Red Hat,Basics of Programming,1
+100585,9042,Introduction to Jenkins,Basics of Programming,2
+100585,9078,Mining Massive Datasets,Basics of Programming,2
+100585,9085,Intro to Database Queries,Basics of Programming,1
+100585,9097,Cybersecurity  The CISO's View,Basics of Programming,2
+100586,9005,Using Python for Research,Basics of Programming,1
+100586,9035,Algorithms,Basics of Programming,1
+100586,9043,Computer Graphics,Basics of Programming,2
+100586,9079,Implementation of DS,Basics of Programming,2
+100586,9086,IoT System Architecture ,Basics of Programming,1
+100586,9098,Fundamentals of Java EE ,Basics of Programming,2
+100587,9057,Intro to Java Part 1,Basics of Programming,1
+100587,9075,Algorithmic Design Techniques,Basics of Programming,1
+100587,9078,Mining Massive Datasets,Basics of Programming,1
+100588,9058,Video game development,Basics of Programming,1
+100588,9076,Algorithm Design and Analysis,Basics of Programming,1
+100588,9079,Implementation of DS,Basics of Programming,1
+100589,9006,Introduction to Linux,Basics of Programming,1
+100589,9036,Python- Control Structures,Basics of Programming,1
+100589,9044,Data Science  with Python,Basics of Programming,2
+100589,9080,Big Data Fundamentals,Basics of Programming,2
+100589,9087,Big Data Analytics,Basics of Programming,1
+100589,9099,Embedded Systems ,Basics of Programming,2
+100590,9006,Introduction to Linux,Basics of Programming,2
+100590,9019,Programming Basics,Basics of Programming,3
+100590,9023,Unlocking Info Security 1,Basics of Programming,1
+100590,9036,Python- Control Structures,Basics of Programming,2
+100590,9049,AI Chatbots Programming,Basics of Programming,3
+100590,9066,Intro to DevOps and SRE,Basics of Programming,1
+100590,9079,Implementation of DS,Basics of Programming,2
+100590,9092,Migrating to the AWS Cloud,Basics of Programming,3
+100590,9109,Enabling Tech for Data Science,Basics of Programming,1
+100591,9025,Python Data Structures,Basics of Programming,1
+100591,9059,DS and Software Design,Basics of Programming,1
+100591,9080,Big Data Fundamentals,Basics of Programming,1
+100592,9026,Intro to Internet of Things (IoT),Basics of Programming,1
+100592,9060,Cybersecurity Infrastructure,Basics of Programming,1
+100592,9081,C Programming  Pointers,Basics of Programming,1
+100593,9007,Procedural Programming,Basics of Programming,2
+100593,9020,HTML Coding,Basics of Programming,3
+100593,9024,Introduction to Cybersecurity,Basics of Programming,1
+100593,9037,Embedded Microcontrollers,Basics of Programming,2
+100593,9050,Computing in Python IV ,Basics of Programming,3
+100593,9067,Network and Security,Basics of Programming,1
+100593,9080,Big Data Fundamentals,Basics of Programming,2
+100593,9093,IoT Networks and Protocols,Basics of Programming,3
+100593,9110,Introduction to Cloud Foundry,Basics of Programming,1
+100594,9027,C Programming: Basics,Basics of Programming,1
+100594,9061,IoT Sensors and Devices,Basics of Programming,1
+100594,9082,IoT Programming and Big Data,Basics of Programming,1
+100597,9008,Basics of Programming,Basics of Programming,2
+100597,9021,Algorithms: Design Analysis 1,Basics of Programming,3
+100597,9025,Python Data Structures,Basics of Programming,1
+100597,9038,How to Code  Simple Data,Basics of Programming,2
+100597,9051,Software Engineering ,Basics of Programming,3
+100597,9068,Data Structures Fundamentals,Basics of Programming,1
+100597,9081,C Programming  Pointers,Basics of Programming,2
+100597,9094,Automated Software Testing,Basics of Programming,3
+100597,9111,Cloud Computing Enterprise,Basics of Programming,1
+100599,9007,Procedural Programming,Basics of Programming,1
+100599,9037,Embedded Microcontrollers,Basics of Programming,1
+100599,9045,Computing in Python III  ,Basics of Programming,2
+100599,9081,C Programming  Pointers,Basics of Programming,2
+100599,9088,AI Applications with Watson,Basics of Programming,1
+100599,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,2
+100600,9028,Introduction to Networking,Basics of Programming,1
+100600,9062,Exploring GraphQL,Basics of Programming,1
+100600,9083,AWS - Cloud Security,Basics of Programming,1
+100602,9008,Basics of Programming,Basics of Programming,1
+100602,9038,How to Code  Simple Data,Basics of Programming,1
+100602,9046,Software  Fundamentals,Basics of Programming,2
+100602,9082,IoT Programming and Big Data,Basics of Programming,2
+100602,9089,Building Containerized Apps,Basics of Programming,1
+100602,9101,Amazon SageMaker ,Basics of Programming,2
+100603,9009,HTML5 and CSS Fundamentals,Basics of Programming,2
+100603,9022,CSS Basics,Basics of Programming,3
+100603,9026,Intro to Internet of Things (IoT),Basics of Programming,1
+100603,9039,Cybersecurity in the IoT,Basics of Programming,2
+100603,9052,Computer Hardware and OS,Basics of Programming,3
+100603,9069,Unlocking Info Security  Part II,Basics of Programming,1
+100603,9082,IoT Programming and Big Data,Basics of Programming,2
+100603,9095,Databases Topics in SQL,Basics of Programming,3
+100603,9112,How to Code  Complex Data,Basics of Programming,1
+100605,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100605,9039,Cybersecurity in the IoT,Basics of Programming,1
+100605,9047,Foundations of Data Structures,Basics of Programming,2
+100605,9083,AWS - Cloud Security,Basics of Programming,2
+100605,9090,Open Source Networking,Basics of Programming,1
+100605,9102,Algorithmics with Python,Basics of Programming,2
+100607,9010,Computer Science 101,Basics of Programming,2
+100607,9023,Unlocking Info Security 1,Basics of Programming,3
+100607,9027,C Programming: Basics,Basics of Programming,1
+100607,9040,Build your very first iOS app,Basics of Programming,2
+100607,9053,HTML5 Apps and Games,Basics of Programming,3
+100607,9070,Animation and CGI Motion,Basics of Programming,1
+100607,9083,AWS - Cloud Security,Basics of Programming,2
+100607,9096,C Programming Using Linux,Basics of Programming,3
+100607,9113,Cybersecurity Career Path,Basics of Programming,1
+100608,9011,AI for Everyone: Basics,Basics of Programming,2
+100608,9024,Introduction to Cybersecurity,Basics of Programming,3
+100608,9028,Introduction to Networking,Basics of Programming,1
+100608,9041,Object-Oriented Programming,Basics of Programming,2
+100608,9054,MATLAB for Beginners,Basics of Programming,3
+100608,9071,IT Foundations,Basics of Programming,1
+100608,9084,Agile Software Development,Basics of Programming,2
+100608,9097,Cybersecurity  The CISO's View,Basics of Programming,3
+100608,9114,Databases Modeling,Basics of Programming,1
+100609,9029,Intro to coding in Java,Basics of Programming,1
+100609,9063,Blockchain Basics,Basics of Programming,1
+100609,9084,Agile Software Development,Basics of Programming,1
+100611,9012,Machine Learning with Python,Basics of Programming,2
+100611,9025,Python Data Structures,Basics of Programming,3
+100611,9029,Intro to coding in Java,Basics of Programming,1
+100611,9042,Introduction to Jenkins,Basics of Programming,2
+100611,9055,Linux Basics  The CLI,Basics of Programming,3
+100611,9072,Algorithms  Design Part 2,Basics of Programming,1
+100611,9085,Intro to Database Queries,Basics of Programming,2
+100611,9098,Fundamentals of Java EE ,Basics of Programming,3
+100611,9115,Object-Oriented Design,Basics of Programming,1
+100613,9030,Data Science and Analytics,Basics of Programming,1
+100613,9064,Computer Vision Fundamentals,Basics of Programming,1
+100613,9085,Intro to Database Queries,Basics of Programming,1
+100614,9010,Computer Science 101,Basics of Programming,1
+100614,9040,Build your very first iOS app,Basics of Programming,1
+100614,9048,IoT - Software Integration,Basics of Programming,2
+100614,9084,Agile Software Development,Basics of Programming,2
+100614,9091,Deep Learning Essentials,Basics of Programming,1
+100614,9103,Intro to Java Programming 2,Basics of Programming,2
+100615,9031,ML-Data Science and Analytics,Basics of Programming,1
+100615,9065,Intro to Cloud Computing,Basics of Programming,1
+100615,9086,IoT System Architecture ,Basics of Programming,1
+100616,9013,JavaScript Introduction,Basics of Programming,2
+100616,9026,Intro to Internet of Things (IoT),Basics of Programming,3
+100616,9030,Data Science and Analytics,Basics of Programming,1
+100616,9043,Computer Graphics,Basics of Programming,2
+100616,9056,Marketing Analytics and Sales,Basics of Programming,3
+100616,9073,Automata Theory,Basics of Programming,1
+100616,9086,IoT System Architecture ,Basics of Programming,2
+100616,9099,Embedded Systems ,Basics of Programming,3
+100616,9116,Scripting and Programming,Basics of Programming,1
+100617,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100617,9066,Intro to DevOps and SRE,Basics of Programming,1
+100617,9087,Big Data Analytics,Basics of Programming,1
+100619,9011,AI for Everyone: Basics,Basics of Programming,1
+100619,9041,Object-Oriented Programming,Basics of Programming,1
+100619,9049,AI Chatbots Programming,Basics of Programming,2
+100619,9085,Intro to Database Queries,Basics of Programming,2
+100619,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100619,9104,UML Class Diagrams,Basics of Programming,2
+100620,9001,Programming for Everybody,Basics of Programming,1
+100620,9014,Relational Databases,Basics of Programming,2
+100620,9027,C Programming: Basics,Basics of Programming,3
+100620,9031,ML-Data Science and Analytics,Basics of Programming,1
+100620,9044,Data Science  with Python,Basics of Programming,2
+100620,9057,Intro to Java Part 1,Basics of Programming,3
+100620,9074,C Programming ,Basics of Programming,1
+100620,9087,Big Data Analytics,Basics of Programming,2
+100620,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,3
+100621,9002,Intro to Computer Science,Basics of Programming,1
+100621,9015,C Programming,Basics of Programming,2
+100621,9028,Introduction to Networking,Basics of Programming,3
+100621,9032,Intro to Cloud Infrastructure,Basics of Programming,1
+100621,9045,Computing in Python III  ,Basics of Programming,2
+100621,9058,Video game development,Basics of Programming,3
+100621,9075,Algorithmic Design Techniques,Basics of Programming,1
+100621,9088,AI Applications with Watson,Basics of Programming,2
+100621,9101,Amazon SageMaker ,Basics of Programming,3
+100623,9003,Intro to AI with Python,Basics of Programming,1
+100623,9016,Programming with JavaScript,Basics of Programming,2
+100623,9029,Intro to coding in Java,Basics of Programming,3
+100623,9033,Machine Learning,Basics of Programming,1
+100623,9046,Software  Fundamentals,Basics of Programming,2
+100623,9059,DS and Software Design,Basics of Programming,3
+100623,9076,Algorithm Design and Analysis,Basics of Programming,1
+100623,9089,Building Containerized Apps,Basics of Programming,2
+100623,9102,Algorithmics with Python,Basics of Programming,3
+100624,9033,Machine Learning,Basics of Programming,1
+100624,9067,Network and Security,Basics of Programming,1
+100624,9088,AI Applications with Watson,Basics of Programming,1
+100625,9012,Machine Learning with Python,Basics of Programming,1
+100625,9042,Introduction to Jenkins,Basics of Programming,1
+100625,9050,Computing in Python IV ,Basics of Programming,2
+100625,9086,IoT System Architecture ,Basics of Programming,2
+100625,9093,IoT Networks and Protocols,Basics of Programming,1
+100625,9105,Data Science and Simulations,Basics of Programming,2
+100626,9013,JavaScript Introduction,Basics of Programming,1
+100626,9043,Computer Graphics,Basics of Programming,1
+100626,9051,Software Engineering ,Basics of Programming,2
+100626,9087,Big Data Analytics,Basics of Programming,2
+100626,9094,Automated Software Testing,Basics of Programming,1
+100626,9106,Programming for Data Science,Basics of Programming,2
+100630,9034,Fundamentals - Red Hat,Basics of Programming,1
+100630,9068,Data Structures Fundamentals,Basics of Programming,1
+100630,9089,Building Containerized Apps,Basics of Programming,1
+100631,9035,Algorithms,Basics of Programming,1
+100631,9069,Unlocking Info Security  Part II,Basics of Programming,1
+100631,9090,Open Source Networking,Basics of Programming,1
+100632,9014,Relational Databases,Basics of Programming,1
+100632,9044,Data Science  with Python,Basics of Programming,1
+100632,9052,Computer Hardware and OS,Basics of Programming,2
+100632,9088,AI Applications with Watson,Basics of Programming,2
+100632,9095,Databases Topics in SQL,Basics of Programming,1
+100632,9107,Building a Cybersecurity Toolkit,Basics of Programming,2
+100635,9036,Python- Control Structures,Basics of Programming,1
+100635,9070,Animation and CGI Motion,Basics of Programming,1
+100635,9091,Deep Learning Essentials,Basics of Programming,1
+100636,9004,Web Programming with Python,Basics of Programming,1
+100636,9017,Computer Science for Business,Basics of Programming,2
+100636,9030,Data Science and Analytics,Basics of Programming,3
+100636,9034,Fundamentals - Red Hat,Basics of Programming,1
+100636,9047,Foundations of Data Structures,Basics of Programming,2
+100636,9060,Cybersecurity Infrastructure,Basics of Programming,3
+100636,9077,Human-Computer Interaction I,Basics of Programming,1
+100636,9090,Open Source Networking,Basics of Programming,2
+100636,9103,Intro to Java Programming 2,Basics of Programming,3
+100637,9005,Using Python for Research,Basics of Programming,1
+100637,9018,Artificial Intelligence (AI),Basics of Programming,2
+100637,9031,ML-Data Science and Analytics,Basics of Programming,3
+100637,9035,Algorithms,Basics of Programming,1
+100637,9048,IoT - Software Integration,Basics of Programming,2
+100637,9061,IoT Sensors and Devices,Basics of Programming,3
+100637,9078,Mining Massive Datasets,Basics of Programming,1
+100637,9091,Deep Learning Essentials,Basics of Programming,2
+100637,9104,UML Class Diagrams,Basics of Programming,3
+100638,9006,Introduction to Linux,Basics of Programming,1
+100638,9019,Programming Basics,Basics of Programming,2
+100638,9032,Intro to Cloud Infrastructure,Basics of Programming,3
+100638,9036,Python- Control Structures,Basics of Programming,1
+100638,9049,AI Chatbots Programming,Basics of Programming,2
+100638,9062,Exploring GraphQL,Basics of Programming,3
+100638,9079,Implementation of DS,Basics of Programming,1
+100638,9092,Migrating to the AWS Cloud,Basics of Programming,2
+100638,9105,Data Science and Simulations,Basics of Programming,3
+100639,9037,Embedded Microcontrollers,Basics of Programming,1
+100639,9071,IT Foundations,Basics of Programming,1
+100639,9092,Migrating to the AWS Cloud,Basics of Programming,1
+100642,9038,How to Code  Simple Data,Basics of Programming,1
+100642,9072,Algorithms  Design Part 2,Basics of Programming,1
+100642,9093,IoT Networks and Protocols,Basics of Programming,1
+100644,9007,Procedural Programming,Basics of Programming,1
+100644,9020,HTML Coding,Basics of Programming,2
+100644,9033,Machine Learning,Basics of Programming,3
+100644,9037,Embedded Microcontrollers,Basics of Programming,1
+100644,9050,Computing in Python IV ,Basics of Programming,2
+100644,9063,Blockchain Basics,Basics of Programming,3
+100644,9080,Big Data Fundamentals,Basics of Programming,1
+100644,9093,IoT Networks and Protocols,Basics of Programming,2
+100644,9106,Programming for Data Science,Basics of Programming,3
+100645,9015,C Programming,Basics of Programming,1
+100645,9045,Computing in Python III  ,Basics of Programming,1
+100645,9053,HTML5 Apps and Games,Basics of Programming,2
+100645,9089,Building Containerized Apps,Basics of Programming,2
+100645,9096,C Programming Using Linux,Basics of Programming,1
+100645,9108,Embedded Systems Essentials,Basics of Programming,2
+100647,9039,Cybersecurity in the IoT,Basics of Programming,1
+100647,9073,Automata Theory,Basics of Programming,1
+100647,9094,Automated Software Testing,Basics of Programming,1
+100648,9040,Build your very first iOS app,Basics of Programming,1
+100648,9074,C Programming ,Basics of Programming,1
+100648,9095,Databases Topics in SQL,Basics of Programming,1
+100649,9016,Programming with JavaScript,Basics of Programming,1
+100649,9046,Software  Fundamentals,Basics of Programming,1
+100649,9054,MATLAB for Beginners,Basics of Programming,2
+100649,9090,Open Source Networking,Basics of Programming,2
+100649,9097,Cybersecurity  The CISO's View,Basics of Programming,1
+100649,9109,Enabling Tech for Data Science,Basics of Programming,2
+100651,9008,Basics of Programming,Basics of Programming,1
+100651,9021,Algorithms: Design Analysis 1,Basics of Programming,2
+100651,9034,Fundamentals - Red Hat,Basics of Programming,3
+100651,9038,How to Code  Simple Data,Basics of Programming,1
+100651,9051,Software Engineering ,Basics of Programming,2
+100651,9064,Computer Vision Fundamentals,Basics of Programming,3
+100651,9081,C Programming  Pointers,Basics of Programming,1
+100651,9094,Automated Software Testing,Basics of Programming,2
+100651,9107,Building a Cybersecurity Toolkit,Basics of Programming,3
+100652,9009,HTML5 and CSS Fundamentals,Basics of Programming,1
+100652,9022,CSS Basics,Basics of Programming,2
+100652,9035,Algorithms,Basics of Programming,3
+100652,9039,Cybersecurity in the IoT,Basics of Programming,1
+100652,9052,Computer Hardware and OS,Basics of Programming,2
+100652,9065,Intro to Cloud Computing,Basics of Programming,3
+100652,9082,IoT Programming and Big Data,Basics of Programming,1
+100652,9095,Databases Topics in SQL,Basics of Programming,2
+100652,9108,Embedded Systems Essentials,Basics of Programming,3
+100653,9017,Computer Science for Business,Basics of Programming,1
+100653,9047,Foundations of Data Structures,Basics of Programming,1
+100653,9055,Linux Basics  The CLI,Basics of Programming,2
+100653,9091,Deep Learning Essentials,Basics of Programming,2
+100653,9098,Fundamentals of Java EE ,Basics of Programming,1
+100653,9110,Introduction to Cloud Foundry,Basics of Programming,2
+100654,9018,Artificial Intelligence (AI),Basics of Programming,1
+100654,9048,IoT - Software Integration,Basics of Programming,1
+100654,9056,Marketing Analytics and Sales,Basics of Programming,2
+100654,9092,Migrating to the AWS Cloud,Basics of Programming,2
+100654,9099,Embedded Systems ,Basics of Programming,1
+100654,9111,Cloud Computing Enterprise,Basics of Programming,2
+100655,9041,Object-Oriented Programming,Basics of Programming,1
+100655,9049,AI Chatbots Programming,Basics of Programming,1
+100655,9075,Algorithmic Design Techniques,Basics of Programming,1
+100656,9010,Computer Science 101,Basics of Programming,1
+100656,9023,Unlocking Info Security 1,Basics of Programming,2
+100656,9036,Python- Control Structures,Basics of Programming,3
+100656,9040,Build your very first iOS app,Basics of Programming,1
+100656,9053,HTML5 Apps and Games,Basics of Programming,2
+100656,9066,Intro to DevOps and SRE,Basics of Programming,3
+100656,9083,AWS - Cloud Security,Basics of Programming,1
+100656,9096,C Programming Using Linux,Basics of Programming,2
+100656,9109,Enabling Tech for Data Science,Basics of Programming,3
+100657,9019,Programming Basics,Basics of Programming,1
+100657,9049,AI Chatbots Programming,Basics of Programming,1
+100657,9057,Intro to Java Part 1,Basics of Programming,2
+100657,9093,IoT Networks and Protocols,Basics of Programming,2
+100657,9100,"HTML5, CSS3, and JavaScript",Basics of Programming,1
+100657,9112,How to Code  Complex Data,Basics of Programming,2
+100658,9020,HTML Coding,Basics of Programming,1
+100658,9050,Computing in Python IV ,Basics of Programming,1
+100658,9058,Video game development,Basics of Programming,2
+100658,9094,Automated Software Testing,Basics of Programming,2
+100658,9101,Amazon SageMaker ,Basics of Programming,1
+100658,9113,Cybersecurity Career Path,Basics of Programming,2
+100659,9042,Introduction to Jenkins,Basics of Programming,1
+100659,9050,Computing in Python IV ,Basics of Programming,1
+100659,9076,Algorithm Design and Analysis,Basics of Programming,1
+100660,9020,HTML Coding,Basics of Programming,1
+100660,9051,Software Engineering ,Basics of Programming,1
+100660,9077,Human-Computer Interaction I,Basics of Programming,1
+100661,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100661,9052,Computer Hardware and OS,Basics of Programming,1
+100661,9078,Mining Massive Datasets,Basics of Programming,1
+100663,9021,Algorithms: Design Analysis 1,Basics of Programming,1
+100663,9051,Software Engineering ,Basics of Programming,1
+100663,9059,DS and Software Design,Basics of Programming,2
+100663,9095,Databases Topics in SQL,Basics of Programming,2
+100663,9102,Algorithmics with Python,Basics of Programming,1
+100663,9114,Databases Modeling,Basics of Programming,2
+100665,9022,CSS Basics,Basics of Programming,1
+100665,9053,HTML5 Apps and Games,Basics of Programming,1
+100665,9079,Implementation of DS,Basics of Programming,1
+100666,9011,AI for Everyone: Basics,Basics of Programming,1
+100666,9024,Introduction to Cybersecurity,Basics of Programming,2
+100666,9037,Embedded Microcontrollers,Basics of Programming,3
+100666,9041,Object-Oriented Programming,Basics of Programming,1
+100666,9054,MATLAB for Beginners,Basics of Programming,2
+100666,9067,Network and Security,Basics of Programming,3
+100666,9084,Agile Software Development,Basics of Programming,1
+100666,9097,Cybersecurity  The CISO's View,Basics of Programming,2
+100666,9110,Introduction to Cloud Foundry,Basics of Programming,3
+100667,9022,CSS Basics,Basics of Programming,1
+100667,9052,Computer Hardware and OS,Basics of Programming,1
+100667,9060,Cybersecurity Infrastructure,Basics of Programming,2
+100667,9077,Human-Computer Interaction I,Basics of Programming,2
+100667,9103,Intro to Java Programming 2,Basics of Programming,1
+100667,9115,Object-Oriented Design,Basics of Programming,2
+100671,9012,Machine Learning with Python,Basics of Programming,1
+100671,9025,Python Data Structures,Basics of Programming,2
+100671,9038,How to Code  Simple Data,Basics of Programming,3
+100671,9042,Introduction to Jenkins,Basics of Programming,1
+100671,9055,Linux Basics  The CLI,Basics of Programming,2
+100671,9068,Data Structures Fundamentals,Basics of Programming,3
+100671,9085,Intro to Database Queries,Basics of Programming,1
+100671,9098,Fundamentals of Java EE ,Basics of Programming,2
+100671,9111,Cloud Computing Enterprise,Basics of Programming,3

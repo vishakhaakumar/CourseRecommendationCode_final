@@ -1,0 +1,47 @@
+<div style="background-image: url(https://cdn.wallpapersafari.com/77/25/fDuJnA.jpg); height: 580px; width: 1220px; padding-top: 65px">
+  <div align="left">
+    <form (ngSubmit)="onSubmit(val)" #val="ngForm">
+      <div style="width:500px">
+        <label class="asterisk-if-mandatory" for="courseId" style="color:#dee2e6; font-size: medium; margin-left: 25px">Enter the Course ID</label>
+        <input required type="courseId" id="courseId" name="courseId"
+               ngModel="" courseId #prmCourseId="ngModel" pattern="[0-9-+() ]*" style="width:200px; height: 25px; margin-left: 25px">
+        <button pButton type="submit" class=" p-button-raised p-button-success" [style]="{'margin-top': '2em','margin-left': '25px'}">Submit</button>
+        <div *ngIf="prmCourseId.errors" [ngClass] = "'error'">
+          <div *ngIf="prmCourseId.errors?.['pattern']" class="textColor">
+            Email ID is not valid.
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+  <div [hidden]="!showTable">
+    <br><br>
+  <button pButton (click)="showPiechart()" class=" p-button-raised p-button-info" [style]="{'margin-top': '2em','margin-left': '200px'}">Show pie chart</button>
+   <p-table display="showTable" [value]="courses" [scrollable]="true"
+             scrollHeight="300px" [tableStyle]="{'min-width': '50rem','margin-left':'50px','margin-top':'50px'}">
+      <ng-template pTemplate="header" style="height: 200px; width: 520px;" class="myStyle">
+        <tr>
+          <th>Student Name</th>
+          <th>Email ID</th>
+          <th>Phone Number</th>
+        </tr>
+      </ng-template>
+      <ng-template pTemplate="body" let-course>
+        <tr>
+          <td>{{course.firstName}} {{course.lastName}}</td>
+          <td>{{course.emailId}}</td>
+          <td>{{course.phoneNumber}}</td>
+        </tr>
+      </ng-template>
+    </p-table>
+  </div>
+  <p-dialog [(visible)]="showPie" [style]="{'height':'600px','width':'500px'}" [closable]="false" [modal]="true">
+    <div>
+      <p-chart type="pie" [data]="dataval" [style]="{'width': '50px','height':'50px'}"></p-chart>
+      <div align="center">
+        <button pButton (click)="onClose()" class=" p-button-raised p-button-info" [style]="{'margin-top': '2em'}">Close</button>
+        </div>
+    </div>
+  </p-dialog>
+
+</div>

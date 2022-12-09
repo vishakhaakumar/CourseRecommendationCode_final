@@ -1,0 +1,40 @@
+.h5, h5 {
+  font-size: 14px;
+  font-family: sans-serif;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 0px;
+  text-align: justify;
+}
+
+.h4, h4 {
+  padding-left: 14px;
+  font-family: sans-serif;
+  }
+
+.h3, h3 {
+  font-size: 18px;
+  padding-left: 12px;
+  padding-right: 14px;
+  font-family: sans-serif;
+  #text-align: justify;
+  font-weight: bold;
+}
+
+.p-button{
+  padding-top: 50px;
+}
+
+:host ::ng-deep .p-dialog .p-dialog-header {
+  border-bottom: 0 none;
+  background: #ffffff;
+  color: #495057;
+  padding: 1.5rem;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+  background: teal;
+}
+
+:host ::ng-deep .ui-dialog .ui-dialog-titlebar{
+  background: teal;
+}

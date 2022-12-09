@@ -1,0 +1,32 @@
+
+<p-dialog [(visible)]="loginDisplay" [style]="{'height':'100%','width':'100%'}" [closable]="false" [modal]="true">
+  <div id="comp-login" class="outer" style="background-image: url(https://cdn.wallpapersafari.com/77/25/fDuJnA.jpg); height: 700px; width: 1500px;">
+     <form (ngSubmit)="handleLogin(val)" #val="ngForm">
+       <div class="loginbox">
+         <p-messages style="color:#D32F2F;width:300px" [value]="loginMsgs" [closable]="true" [showTransitionOptions]="'300ms'" [hideTransitionOptions]="'300ms'"></p-messages>
+          <div class="form-group" style="width: 200px">
+          <label class="asterisk-if-mandatory" for="username">User Name</label>
+          <input required type="text" id="username" class="form-control" ngModel name="username">
+      </div>
+      <div class="form-group" style="width: 200px">
+        <label class="asterisk-if-mandatory" for="password">Password</label>
+        <input required type="password" id="password" class="form-control" ngModel name="password">
+      </div>
+      <button pButton type="submit" style="background-color:#00827F; width:80px" class=" p-button-raised p-button-success">Login</button><br><br>
+        <!--<button pButton type="submit" style="background-color:#00827F; width:80px" class=" p-button-raised p-button-success" [style]="{'margin-top': '2em'}">Submit</button>
+        --><button pButton type="button" class=" p-button-raised p-button-info" (click)="onRegister()">New user? Click here to Register</button>
+    </div>
+    </form>
+  </div>
+  <p-dialog [(visible)]="display" [style]="{'height':'700px','width':'500px'}" [closable]="false" [modal]="true">
+    <div id="here">
+      <app-student-register (closeDialog)="onCloseDialog()" (studentRegistered)="onRegSuccess()" (errorRegistration)="onRegError()"></app-student-register>
+    </div>
+  </p-dialog>
+  <p-dialog [(visible)]="msgDisplay" [style]="{'height':'200px','width':'300px'}" [closable]="false" [modal]="true">
+    <div id="msg-comp" align="center">
+      <p-messages [value]="msgs" [closable]="true" [showTransitionOptions]="'300ms'" [hideTransitionOptions]="'300ms'" [closable]="false"></p-messages>
+      <button pButton type="button" class="p-button-raised p-button-success" (click)="onMsgClose()">Return to Login</button>
+    </div>
+  </p-dialog>
+</p-dialog>

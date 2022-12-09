@@ -1,0 +1,57 @@
+<form (ngSubmit)="onSubmitFeedback(val)" #val="ngForm">
+  <div align="center">
+  <div class="card" *ngIf="selectedCourse">
+       <div class="card-body">
+      <h5 class="card-title">Course Name: {{ selectedCourse.courseName }}</h5>
+    <!--  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <p> rating: {{courseFeedback.rating}}</p>
+      <p> role</p>
+      <p-button label="Close" (click)="onCloseDialog()" icon="pi"></p-button>-->
+    </div>
+  </div><br>
+
+  <div class="column">
+    <label class="asterisk-if-mandatory" for="workload">Course Workload</label>
+    <select required
+            class="asterisk-if-mandatory form-control" (change)="changeWorkload($event)"
+            id="workload">
+      <option value="Select Workload">Select Workload</option>
+      <option *ngFor="let wVal of Workload" [ngValue]="wVal">
+        {{ wVal }}
+      </option>
+    </select>
+  </div><br>
+
+  <div class="form-group">
+    <div class="column">
+      <label class="asterisk-if-mandatory" for="rating">Course Rating</label>
+      <select required
+        class="asterisk-if-mandatory form-control" (change)="changeRating($event)"
+        id="rating">
+        <option value="Select Rating" ngModel name="rating">Select Rating</option>
+        <option *ngFor="let rVal of Rating" [ngValue]="rVal">
+          {{ rVal }}
+        </option>
+      </select>
+    </div><br>
+
+    <div class="column">
+      <label class="asterisk-if-mandatory" for="jobRole">Course Workload</label>
+      <select required
+              class="asterisk-if-mandatory form-control" (change)="changeJobRole($event)"
+              id="jobRole">
+        <option value="Select Workload">Select Job Role</option>
+        <option *ngFor="let jVal of JobRole" [ngValue]="jVal">
+          {{ jVal }}
+        </option>
+      </select>
+    </div>
+  </div>
+  </div>
+
+  <div align="center">
+    <button pButton type="submit" class=" p-button-raised p-button-success" [style]="{'margin-top': '2em'}">Submit</button>
+    <button pButton type="button" class=" p-button-raised p-button-info"  (click)="onReset(val)" [style]="{'margin-left': '2em'}">Reset</button>
+    <button pButton type="button" class="p-button-danger p-button-raised" (click)="onCancel(val)" [style]="{'margin-left': '2em'}">Cancel</button>
+  </div>
+</form>

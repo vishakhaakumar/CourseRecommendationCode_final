@@ -1,0 +1,23 @@
+:host ::ng-deep .p-panelmenu .p-panelmenu-header > a {
+  padding: 1rem;
+  border: 1px solid #dee2e6;
+  color: #495057;
+  background: #f8f9fa;
+  font-weight: 600;
+  border-radius: 3px;
+  transition: box-shadow 0.2s;
+  font-size: 1.5em;
+}
+
+:host ::ng-deep element.style {
+  background-color: #00827F;
+  height: 574px;
+  width: 260px;
+  padding-top: 65px;
+}
+
+p.fontColor {
+  color: white;
+  font-size: large;
+  padding-left: 15px;
+}

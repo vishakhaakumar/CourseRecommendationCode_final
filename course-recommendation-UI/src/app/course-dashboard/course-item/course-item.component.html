@@ -1,0 +1,24 @@
+<p-card header={{courseVal.courseName}} subheader="Professor Name: {{courseVal.professorName}}" [style]="{width: '250px', height: '214px'}" styleClass="p-card-shadow">
+  <ng-template pTemplate="header">
+    <img alt="Card" style="height: 45px; width: 250px" src="../../../assets/Course-info-new.jpg">
+  </ng-template>
+  <p>Term offered: {{courseVal.term}}</p>
+  <div class="form-group">
+    <div class="column">
+      <p>Rating: {{courseVal.rating}} :  : Workload: {{courseVal.workload}}</p>
+    </div>
+  </div>
+  <ng-template pTemplate="footer">
+    <div align="center">
+    <p-button label="Add" (click)="onAddToRegistration(courseVal.courseId)" icon="pi pi-plus"></p-button>
+    <p-button type="button" (click)="showDetails()" icon="pi pi-info-circle" label="Details" [style]="{'margin-left': '.5em'}"></p-button>
+    </div>
+  </ng-template>
+  <p-dialog [(visible)]="msgPopup" [style]="{'height':'200px','width':'500px'}" [modal]="true">
+    <p-messages [(value)]="msgs"></p-messages>
+  </p-dialog>
+</p-card>
+<p-confirmDialog header="Confirmation" icon="pi pi-exclamation-triangle"></p-confirmDialog>
+
+
+<!--<p-messages [(value)]="msgs"></p-messages>-->

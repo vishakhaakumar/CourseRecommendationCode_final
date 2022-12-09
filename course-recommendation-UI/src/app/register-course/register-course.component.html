@@ -1,0 +1,20 @@
+<div style="background-image: url(https://cdn.wallpapersafari.com/77/25/fDuJnA.jpg); height: 580px; width: 1220px; padding-top: 20px">
+  <p-messages [value]="msgs" [closable]="true" [showTransitionOptions]="'300ms'" [hideTransitionOptions]="'300ms'"></p-messages>
+  <div>
+    <h2 align="center" class="fontColor">Registered Courses</h2>
+  </div>
+  <p-dialog header="Course Details" [(visible)]="display" [style]="{'height':'500px','width':'500px'}" [modal]="true">
+    <div id="comp-render">
+      <app-course-details (closeDialog)="onCloseDialog()" [course]="selectedCourse"></app-course-details>
+    </div>
+  </p-dialog>
+
+  <div class="container">
+    <div class="cardComp item" *ngFor="let reg of courseReg">
+      <br><br><br>
+      <app-course-labels (courseSelected)="onShowDetails($event)" (courseRemoved)="onRemoveCourse($event)" [coursereg] = "reg"></app-course-labels>
+    </div>
+  </div>
+</div>
+
+

@@ -1,0 +1,75 @@
+.modal-dialog imp-bg
+{
+  opacity: 0.5;
+  background-color: rgb(10, 10, 10);
+}
+
+
+.custom-dialog >  mat-dialog-container {
+  background: var(--main-bg-color);
+}
+
+:root {
+  --main-bg-color: blue;
+}
+
+h2.fontColor { color: white; }
+
+:host ::ng-deep .p-button {
+  margin: 0;
+  display: inline-flex;
+  cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
+  align-items: center;
+  vertical-align: bottom;
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+  color: #ffffff;
+  background: #00827F;
+  border: 1px solid #00827F;
+  font-size: medium;
+}
+
+.mat-grid-tile {
+  width: 100px;
+  height: 100px;
+  background: lightblue;
+  margin-left: 6rem;
+  margin-right: 4rem;
+}
+
+mat-list {
+  flex-grow: 1;
+  border: 3px solid green;
+  overflow: auto;
+}
+
+#main {
+  display: flex;
+  align-items: center; /* Vertical align the elements to the center */
+}
+
+h2 {
+  margin-left: 300px;
+}
+
+.buttonStyle {
+  margin-left: 180px; /* Push this element to the right */
+}
+
+.blur{
+  background-opacity:0.5 !important;
+}
+
+:host ::ng-deep .mat-paginator-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0 8px;
+  flex-wrap: wrap-reverse;
+  width: 100%;
+  background: silver;
+}
+

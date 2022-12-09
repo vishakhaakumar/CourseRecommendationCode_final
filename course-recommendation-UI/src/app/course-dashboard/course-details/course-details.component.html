@@ -1,0 +1,16 @@
+<div class="card" *ngIf="selectedCourse">
+ <!-- <img src="https://mdbcdn.b-cdn.net/img/new/standard/nature/184.webp" class="card-img-top" alt="Fissure in Sandstone" width="500px"/>
+ -->
+  <div class="card-body">
+    <h3 class="card-title">{{ selectedCourse.courseName }}</h3>
+    <h5>Course ID:  {{ selectedCourse.courseId}}</h5>
+    <h5>Professor Name:  {{ selectedCourse.professorName}}</h5>
+    <br><br>
+    <h5 [style]="{'font-weight':'bold'}">Course Details: </h5>
+    <h5 class="card-text">{{selectedCourse.description}}</h5>
+    <br><br>
+
+  <p-button label="Close" (click)="onCloseDialog()" [style]="{'margin-left': '12em', 'margin-top': '5em'}" icon="pi"></p-button>
+  </div>
+</div>
+

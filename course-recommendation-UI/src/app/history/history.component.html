@@ -1,0 +1,64 @@
+<div style="background-image: url(https://cdn.wallpapersafari.com/77/25/fDuJnA.jpg); height: 500px; width: 1220px; padding-top: 20px">
+  <div>
+  <p-dialog header="Course Details" [(visible)]="display" [style]="{'height':'500px','width':'500px'}" [modal]="true">
+    <div id="comp-render">
+      <app-course-details (closeDialog)="onCloseDialog()" [course]="selectedCourse"></app-course-details>
+    </div>
+  </p-dialog>
+   <p-dialog header="Provide your Feedback" [(visible)]="feedback" [style]="{'height':'500px','width':'500px'}" [modal]="true">
+    <div id="comp-feedback">
+      <app-course-feedback (closeDialogFeedback)="onCloseDialogFeedback()" [feedback]="courseFeedback" [course]="selectedCourse"
+                           (feedbackSubmitted)="onFeedbackSuccess()" (errorFeedback)="onFeedbackError()"></app-course-feedback>
+       </div>
+  </p-dialog>
+    <p-dialog [(visible)]="feedDisplay" [style]="{'height':'200px','width':'600px'}" [closable]="false" [modal]="true">
+      <div id="msg-comp">
+        <p-messages [value]="feedbackMsgs" [closable]="true" [showTransitionOptions]="'300ms'" [hideTransitionOptions]="'300ms'" [closable]="false"></p-messages>
+        <button pButton type="button" class="p-button-raised p-button-success" (click)="onMsgClose()" [style]="{'margin-left': '10em'}">Close</button>
+      </div> </p-dialog>
+ </div>
+  <h2 align="center" class="fontColor">Previous History</h2>
+<br><br>
+<div>
+  <p-accordion>
+    <p-accordionTab header="Semester 1">
+      <div *ngIf="sem1courses.length!=0; else noCourses1">
+      <p-carousel [value]="sem1courses" [numVisible]="3" [numScroll]="3" orientation="horizontal" align="center" width="1000px">
+        <ng-template let-history pTemplate="item">
+          <app-history-item (courseDetails)="onCourseDetails($event)" (courseFeedback)="onFeedback($event)" [historyItem] = "history"></app-history-item>
+        </ng-template>
+      </p-carousel>
+      </div>
+    <ng-template #noCourses1 >
+      <p> No Previous Courses available </p>
+    </ng-template>
+    </p-accordionTab>
+    <br> <br>
+    <p-accordionTab header="Semester 2">
+      <div *ngIf="sem2courses.length!=0; else noCourses2">
+      <p-carousel [value]="sem2courses" [numVisible]="3" [numScroll]="3" orientation="horizontal" align="center">
+        <ng-template let-history pTemplate="item">
+          <app-history-item (courseDetails)="onCourseDetails($event)" (courseFeedback)="onFeedback($event)" [historyItem] = "history"></app-history-item>
+        </ng-template>
+      </p-carousel>
+      </div>
+      <ng-template #noCourses2 >
+        <p> No Previous Courses available </p>
+      </ng-template>
+    </p-accordionTab>
+    <br> <br>
+    <p-accordionTab header="Semester 3">
+      <div *ngIf="sem3courses.length!=0; else noCourses3">
+        <p-carousel [value]="sem3courses" [numVisible]="3" [numScroll]="3" orientation="horizontal" align="center">
+          <ng-template let-history pTemplate="item">
+            <app-history-item (courseDetails)="onCourseDetails($event)" (courseFeedback)="onFeedback($event)" [historyItem] = "history"></app-history-item>
+          </ng-template>
+        </p-carousel>
+      </div>
+      <ng-template #noCourses3 >
+        <p> No Previous Courses available </p>
+      </ng-template>
+    </p-accordionTab>
+</p-accordion>
+</div>
+ </div>

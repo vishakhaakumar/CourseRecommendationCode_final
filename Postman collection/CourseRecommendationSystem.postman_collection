@@ -1,0 +1,654 @@
+{
+	"info": {
+		"_postman_id": "8b073c15-103d-4ad0-8d6d-4e1008baf3e1",
+		"name": "Masters-Project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "student",
+			"item": [
+				{
+					"name": "http://localhost:8082/users/100100",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8082/users/100100",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"users",
+								"100100"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "add new student",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"studentId\": 100101,\r\n    \"firstName\": \"Alice\",\r\n    \"lastName\": \"Grant\",\r\n    \"address\": \"36042 Rrand River Ave\",\r\n    \"emailId\": \"alice@umich.edu\",\r\n    \"phoneNumber\": 3135714066,\r\n    \"semester\": 3,\r\n    \"majorId\": \"IMSE\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8082/users/new",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"users",
+								"new"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "update student details",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"studentId\": 100101,\r\n    \"firstName\": \"Aliciaaa\",\r\n    \"lastName\": \"Grantt\",\r\n    \"address\": \"36043 Rrand River Ave\",\r\n    \"emailId\": \"alice12@umich.edu\",\r\n    \"phoneNumber\": 3135714067,\r\n    \"semester\": 4,\r\n    \"majorId\": \"ECE\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8082/users/update/100101",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"users",
+								"update",
+								"100101"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "delete student",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/users/delete/100101",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"users",
+								"delete",
+								"100101"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8082/users/maxStudID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8082/users/maxStudID",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"users",
+								"maxStudID"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8082/users/byUsername/josephine_darakjy@darakjy.org",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8082/users/byUsername/josephine_darakjy@darakjy.org",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"users",
+								"byUsername",
+								"josephine_darakjy@darakjy.org"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8082/users/namebyEmail/josephine_darakjy@darakjy.org",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8082/users/namebyEmail/josephine_darakjy@darakjy.org",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"users",
+								"namebyEmail",
+								"josephine_darakjy@darakjy.org"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8082/users/all",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8082/users/all",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"users",
+								"all"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8082/student/login",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": [
+								{
+									"key": "password",
+									"value": "user",
+									"type": "string"
+								},
+								{
+									"key": "username",
+									"value": "user",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8082/student/login",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8082",
+							"path": [
+								"student",
+								"login"
+							],
+							"query": [
+								{
+									"key": "username",
+									"value": "user",
+									"disabled": true
+								},
+								{
+									"key": "password",
+									"value": "user",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "CourseTable",
+			"item": [
+				{
+					"name": "add new course",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": " {\r\n        \"courseId\": 9002,\r\n        \"courseName\": \"Advanced Operating Systems\",\r\n        \"description\": \"topics covered are\",\r\n        \"preRequisites\": \"Operating systems\",\r\n        \"professorName\": \"patrick\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8081/courses/",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"courses",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "update a course",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n        \"courseId\": 9001,\r\n        \"courseName\": \"Big data analytics\",\r\n        \"description\": \"topic covered:\",\r\n        \"preRequisites\": \"Intro to big data\",\r\n        \"professorName\": \"Alicia S\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8081/courses/update/9001",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"courses",
+								"update",
+								"9001"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "currentRegistered",
+			"item": [
+				{
+					"name": "get all registered courses",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8081/courses/reg/all",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"courses",
+								"reg",
+								"all"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "add new course for registration",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n        \"courseId\": 9002,\r\n        \"studentId\": 100102,\r\n        \"courseName\": \"Big data viz\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8081/courses/reg/",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"courses",
+								"reg",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8081/courses/reg/delete/student/100102/course/9005",
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": [
+								{
+									"key": "password",
+									"value": "user",
+									"type": "string"
+								},
+								{
+									"key": "username",
+									"value": "user",
+									"type": "string"
+								}
+							]
+						},
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8081/courses/reg/delete/student/100102/course/9005",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"courses",
+								"reg",
+								"delete",
+								"student",
+								"100102",
+								"course",
+								"9005"
+							]
+						},
+						"description": "remove the added course"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "CourseHistory",
+			"item": [
+				{
+					"name": "get all courses registered history",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8081/courses/history/all",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"courses",
+								"history",
+								"all"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "FilterCourses",
+			"item": []
+		},
+		{
+			"name": "CourseDetails",
+			"item": [
+				{
+					"name": "get all courses",
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": [
+								{
+									"key": "password",
+									"value": "user",
+									"type": "string"
+								},
+								{
+									"key": "username",
+									"value": "user",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8081/courses/all",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"courses",
+								"all"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get single course by ID",
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": [
+								{
+									"key": "password",
+									"value": "user",
+									"type": "string"
+								},
+								{
+									"key": "username",
+									"value": "user",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8081/courses/byId/9004",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"courses",
+								"byId",
+								"9004"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8081/courses/",
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": [
+								{
+									"key": "password",
+									"value": "user",
+									"type": "string"
+								},
+								{
+									"key": "username",
+									"value": "user",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"courseId\": 9004,\r\n    \"courseName\": \"Web Programming with Python\",\r\n    \"description\": \"Topics include database design, scalability, security, and user experience. Through hands-on projects, you'll learn to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku. By course's end, you'll emerge with knowledge and experience in principles, languages, and tools that empower you to design and deploy applications on the Internet.\",\r\n    \"preRequisites\": \"Basics of programming\",\r\n    \"professorName\": \"David J. Malan-Brian Yu\",\r\n    \"term\": \"Summer\",\r\n    \"courseType\": \"online\",\r\n    \"rating\": 2,\r\n    \"workload\": 6\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8081/courses/",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"courses",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8081/courses/reg/all/100002",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8081/courses/reg/all/100002",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"courses",
+								"reg",
+								"all",
+								"100002"
+							]
+						},
+						"description": "all courses registered by the student ID"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Recommendation",
+			"item": [
+				{
+					"name": "http://127.0.0.1:8094/recommendationsIds/100102",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://127.0.0.1:8094/recommendationsIds/100102",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "8094",
+							"path": [
+								"recommendationsIds",
+								"100102"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8081/recommendations/byIds/100102",
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": [
+								{
+									"key": "password",
+									"value": "user",
+									"type": "string"
+								},
+								{
+									"key": "username",
+									"value": "user",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8081/recommendations/byIds/100102",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8081",
+							"path": [
+								"recommendations",
+								"byIds",
+								"100102"
+							]
+						},
+						"description": "get the course details for the recommended course IDs"
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,105 @@
+<div>
+  <form (ngSubmit)="onRegister(val)" #val="ngForm">
+    <div id="student-data">
+      <div class="form-group">
+        <div class="column">
+              <label class="asterisk-if-mandatory" for="firstname">First Name</label>
+              <input required type="text" id="firstname" class="form-control"
+                     ngModel name="firstname" #fname="ngModel" pattern="[a-zA-Z]*">
+              <div *ngIf="fname.errors" [ngClass] = "'error'">
+                <div *ngIf="fname.errors?.['pattern']" class="textColor">
+                  First name is not valid.
+                </div>
+              </div>
+      </div>
+    <div class="column">
+              <label class="asterisk-if-mandatory" for="lastname">Last Name</label>
+              <input type="text" id="lastname" class="form-control"
+                     ngModel name="lastname" #lname="ngModel"
+                     pattern="[a-zA-Z]*">
+              <div *ngIf="lname.errors" [ngClass] = "'error'">
+                <div *ngIf="lname.errors?.['pattern']" class="textColor">
+                  Last name is not valid.
+                </div>
+          </div>
+      </div>
+    </div>
+
+     <div class="form-group">
+        <label class="asterisk-if-mandatory" for="email">Email ID</label>
+        <input required type="email" id="email" class="form-control" name="email"
+               ngModel="" email #prmEmail="ngModel" pattern="^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$">
+       <div *ngIf="prmEmail.errors" [ngClass] = "'error'">
+         <div *ngIf="prmEmail.errors?.['pattern']" class="textColor">
+           Email ID is not valid.
+         </div>
+       </div>
+      </div>
+      <div class="form-group">
+        <div class="column">
+          <label class="asterisk-if-mandatory" for="email">Username</label>
+          <input required type="text" id="uname" class="form-control" name="uname"
+                 ngModel="" #uname="ngModel" pattern="[a-zA-z0-9@.]*">
+          <div *ngIf="uname.errors" [ngClass] = "'error'">
+            <div *ngIf="uname.errors?.['pattern']" class="textColor">
+              Username is not valid.
+            </div>
+          </div>
+        </div>
+      <div class="column">
+        <label class="asterisk-if-mandatory" for="email">Password</label>
+        <input required type="text" id="password" class="form-control" name="password"
+               ngModel="" >
+        </div>
+      </div>
+      <div class="form-group" >
+        <label for="address">Address</label>
+        <input type="text" id="address" class="form-control" ngModel name="address">
+      </div>
+      <div class="form-group">
+        <div class="column">
+          <label class="asterisk-if-mandatory" for="semester">Semester</label>
+          <input required type="text" id="semester" class="form-control"
+                 ngModel name="semester" #sem="ngModel" pattern="[0-9]">
+          <div *ngIf="sem.errors" [ngClass] = "'error'">
+            <div *ngIf="sem.errors?.['pattern']" class="textColor">
+              Semester is not valid.
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <label class="asterisk-if-mandatory" for="major">Major</label>
+          <input required type="text" id="major" class="form-control"
+                 ngModel name="major" #maj="ngModel" pattern="[a-zA-Z]*">
+          <div *ngIf="maj.errors" [ngClass] = "'error'">
+            <div *ngIf="maj.errors?.['pattern']" class="textColor">
+              Semester is not valid.
+            </div>
+          </div>
+        </div>
+      </div>
+      <br><div></div>
+      <div class="form-group">
+        <label class="asterisk-if-mandatory" for="phoneNo">Phone Number</label>
+        <input required type="text" id="phoneNo" class="form-control"
+               ngModel name="phoneNo" #phno="ngModel" pattern="[0-9-+() ]*">
+        <div *ngIf="phno.errors" [ngClass] = "'error'">
+          <div *ngIf="phno.errors?.['pattern']" class="textColor">
+            Phone number is not valid.
+          </div>
+        </div>
+      </div>
+    </div>
+    <div align="center">
+    <button pButton type="submit" class=" p-button-raised p-button-success" [style]="{'margin-top': '2em'}">Submit</button>
+    <button pButton type="button" class=" p-button-raised p-button-info"  (click)="onReset(val)" [style]="{'margin-left': '2em'}">Reset</button>
+    <button pButton type="button" class="p-button-danger p-button-raised" (click)="onCancel(val)" [style]="{'margin-left': '2em'}">Cancel</button>
+    </div>
+    <p-messages [value]="msgs" [closable]="true" [showTransitionOptions]="'300ms'" [hideTransitionOptions]="'300ms'"></p-messages>
+    <p-dialog header="Empty Fields" [(visible)]="mandatoryField" [style]="{'height':'150px','width':'500px', 'color':'red', 'font-weight':'10px'}" [modal]="true">
+     <p> Please enter details for all the mandatory fields </p>
+      <button pButton type="button" class="p-button-success p-button-raised" (click)="onCloseTab()" [style]="{'margin-left': '2em'}">Return to Form</button>
+    </p-dialog>
+  </form>
+</div>
+
